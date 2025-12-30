@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "f92ba2492753a92a101366fd861e96eed05196db827e046af793ff4e7298fba2"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "c53c06c824bd0ab1895faf71ba640804912eb788e2ecb03cbf13694318e3acd2"
 
@@ -31,10 +27,6 @@ hash = "f89f9db4a7cd67796924d5e9cf07def66adb8504259a5677deb7fe034006b27c"
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "688aee4526ec3595f392fd1e29b6e7740a3a46985cfbfd1f82808dc4672e2919"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/Revelationary.json"
