@@ -1903,3 +1903,7 @@ hash = "489da26debfe7faf584cd3a05b86e956d7812a269424e42bc5bcc1e5c856021e"
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
 hash = "96505b3d8dc58bfd96e55728f8f674ecabe992e0deffe02ae0274186a86c1858"
+
+[[files]]
+file = "прекол/DrakanHex.png"
+hash = "73486a8c9155cf911a8ebaf71e033c2062b1de5dc92e57eb351f98009acbdcf6"
