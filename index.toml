@@ -1685,8 +1685,8 @@ file = "mods/language-reload-1.7.5+1.20.1.jar"
 hash = "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332"
 
 [[files]]
-file = "mods/lapisworks-1.5.7.jar"
-hash = "caf4297734b401d6a7318bc59cd8a40e8b6db044babd60617a8d91948d4ecd40"
+file = "mods/lapisworks-1.5.8-c0b77e7.jar"
+hash = "5a5f0fb951e9923b73933078dce7770383b1c0d727a1a6993f3c434eba65e409"
 
 [[files]]
 file = "mods/lithium-fabric-mc1.20.1-0.11.4.jar"
@@ -1903,7 +1903,3 @@ hash = "489da26debfe7faf584cd3a05b86e956d7812a269424e42bc5bcc1e5c856021e"
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
 hash = "96505b3d8dc58bfd96e55728f8f674ecabe992e0deffe02ae0274186a86c1858"
-
-[[files]]
-file = "прекол/DrakanHex.png"
-hash = "73486a8c9155cf911a8ebaf71e033c2062b1de5dc92e57eb351f98009acbdcf6"
