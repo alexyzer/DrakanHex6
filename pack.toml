@@ -1,0 +1,13 @@
+name = "DrakanHex"
+author = "alexyzer"
+version = "1.4.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "908211d3d09f890f524b559b20593bc9f2ec009ed54e0d21211ccca7f23d42e3"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
