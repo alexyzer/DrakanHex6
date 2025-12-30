@@ -1,0 +1,27 @@
+{
+    "name": "Magical Fly",
+    "description": "Little allay like creature home in nature",
+    "powers": [
+        "dragon_origins:vegie2",
+        "dragon_origins:fairy_wings",
+        "dragon_origins:easy_travel",
+        "dragon_origins:size3",
+        "dragon_origins:slow",
+        "origins:fall_immunity",
+        "dragon_origins:6hp",
+        "dragon_origins:no_swords",
+        "dragon_origins:iron_golem",
+        "dragon_origins:heal",
+        "dragon_origins:hot_debuf",
+        "dragon_origins:nether",
+        "dragon_origins:hunger",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:end_crystal",
+        "amount": 1
+    },
+    "impact": 3,
+	"unchoosable": false,
+	"loading_priority": 1
+}

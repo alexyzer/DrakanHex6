@@ -1,0 +1,6 @@
+# Set whether the ingot can be placed
+placeTheIngot = true
+# Set whether the item frame can be adjusted
+adjustTheItemFrame = true
+# Set whether the armor stand can be adjusted
+adjustTheArmorStand = true

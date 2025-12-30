@@ -1,0 +1,40 @@
+{
+  "dimmed": true,
+  "prefersReducedMotion": false,
+  "hideFloaties": false,
+  "showAllDots": false,
+  "keyDocs": true,
+  "uppercaseSig": false,
+  "noHexicalWalk": true,
+  "noHexicalEvoke": true,
+  "tooltipRenderSigs": true,
+  "shortcutHints": true,
+  "idle": {
+    "tooltip": "DESCRIPTIVE"
+  },
+  "mouseDraw": {
+    "tooltip": "DESCRIPTIVE"
+  },
+  "keyboardDraw": {
+    "allow": false,
+    "tooltip": "DESCRIPTIVE",
+    "keyHint": true,
+    "ghost": true
+  },
+  "autoComplete": {
+    "allow": true,
+    "tooltip": "DESCRIPTIVE",
+    "count": 7
+  },
+  "debug": false,
+  "knownWorldPatterns": [
+    "multiplayer_________Minecraft hexical:charm weweeeweqqaaweeweeeeeweewaaqqewee",
+    "multiplayer__DrakanHex6 hexal:wisp/consume wawqwawwwewwwewawdwewdwqeaqaaqeeeeedwqddaaeawqwwwqw",
+    "multiplayer__DrakanHex6 hexcasting:teleport/great eewwweedqqdqqwqqwwwqqqwwwaqqdqq",
+    "multiplayer__DrakanHex6 hexcasting:craft/battery ddeaaddqewewwdeeedeeqqqqqawqqqwqw",
+    "multiplayer__DrakanHex6 hexcasting:create_lava eaeaeaeqqaqeeweweweeqaq"
+  ],
+  "patternAliases": {
+    "hexcasting:break_block": "Сломать Блок"
+  }
+}
