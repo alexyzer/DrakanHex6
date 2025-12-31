@@ -1893,10 +1893,6 @@ file = "options.txt"
 hash = "6d209fa79bb4c6fef1b953be589873ba80858c0b661e622053efb66abcb26cd6"
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "bcfbad415e4c46e708c5566c069bee4fdb68d9a43bce1839613b4e59e3d17322"
-
-[[files]]
 file = "resourcepacks/RussiaDrakanHex.zip"
 hash = "489da26debfe7faf584cd3a05b86e956d7812a269424e42bc5bcc1e5c856021e"
 
