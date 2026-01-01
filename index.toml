@@ -249,6 +249,14 @@ file = "config/debugify.json"
 hash = "3ae22ec288cf259b40b7678f1a8fdbf54d632c99c5f82a037392fb0a2303fd82"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "59fd6487e10940b9525306bae40613fc57c6250e4aa55a101687b74a97e7dfe2"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "4be207f7427642c15c76928e7fb0f5bd3317444c1066652a6983e19e11e18deb"
+
+[[files]]
 file = "config/digitalitems-common.toml"
 hash = "4e38c132c0176f6d42692b0c90cc3976bde29ebcce235c4b98ceff31264664b0"
 
