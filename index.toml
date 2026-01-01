@@ -1673,8 +1673,8 @@ file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [[files]]
-file = "mods/hextweaks-5.3.3_dfc2c53.jar"
-hash = "bda73646a4ef93ee3f74903be5fe6c6a5871889f158023dbb9f19588c86c929f"
+file = "mods/hextweaks-5.3.3-3ca51ac.jar"
+hash = "a9d7ed8b272186c07102872df528b65c35961f315c098de7aa423ef510267488"
 
 [[files]]
 file = "mods/hierophantics-fabric-1.3.3.jar"
