@@ -1633,6 +1633,10 @@ file = "mods/hexcellular-1.1.0.jar"
 hash = "ab74896268e0e6dc905058bb62dcbef5a51c11ca386f48b1c4231914f19f87fd"
 
 [[files]]
+file = "mods/hexcessible-0.2.0-0ec6ad5.jar"
+hash = "1d3bf835c4c8e3ffca7172da916f87ccaabf00bcf3c8c80fddb45f468164f432"
+
+[[files]]
 file = "mods/hexcessible-0.2.0.jar"
 hash = "d572bd52400e43d43f6921bcb9643db6d7cc9da9a590c232fcdfb0941702c269"
 
