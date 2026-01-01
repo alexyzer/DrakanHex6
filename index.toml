@@ -1165,8 +1165,14 @@ file = "mods/Ding-1.20.1-Fabric-1.5.0.jar"
 hash = "eb13a5bc98c914d4e797ad668a53b830ee514d157abbf3edfaf1e5098020cc7e"
 
 [[files]]
-file = "mods/DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar"
-hash = "dfe9ddec229a2b8d09b1e156dcdcd57ee740ef3e6840bd7fceca93f960339be4"
+file = "mods/DistantHorizons.pw.toml"
+hash = "81a4f93743ad3465bcf73e8d839b32fe83e0be54fe180f107f92d0970ea5ba2e"
+metafile = true
+
+[[files]]
+file = "mods/Do_a_barrel_roll.pw.toml"
+hash = "8485b3e4ad6f18003434114c59b0dd09ed1de8054c850132592f029daf9b003c"
+metafile = true
 
 [[files]]
 file = "mods/EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar"
@@ -1209,6 +1215,11 @@ file = "mods/ImmediatelyFast-Fabric-1.5.3+1.20.4.jar"
 hash = "534c6045cb69cf5e99315d846807058fe46bc8260b3d88bd19416b9c9c3e652a"
 
 [[files]]
+file = "mods/Iris.pw.toml"
+hash = "56433bcd687f8d5fc3c14603e729f7a026f3a31f7d6c60b54bdb8b5c0bfe6324"
+metafile = true
+
+[[files]]
 file = "mods/Jade-1.20-Fabric-11.13.1.jar"
 hash = "02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c"
 
@@ -1245,6 +1256,11 @@ file = "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
 hash = "8ff70525b0fbc5fa7592424872aa8092db1f7646d53817590bd9f9b88c75babc"
 
 [[files]]
+file = "mods/Observable.pw.toml"
+hash = "a4ddff872766a1410db1e16f787934f3e7f9690acb3b50f989a66eb88d75f465"
+metafile = true
+
+[[files]]
 file = "mods/Origins-1.10.2+mc.1.20.x.jar"
 hash = "ac663bf651482475050d3edf11fa8078e384f5b35e779fb787753ef3ce48ee9e"
 
@@ -1277,12 +1293,28 @@ file = "mods/Slate_Work-1.0.6.jar"
 hash = "a55e78bedce0da6adf38de066ac5862f5475b34abc2f62345928c107eb3c9f74"
 
 [[files]]
-file = "mods/Sounds-2.2.1+1.20.1+fabric.jar"
-hash = "e4d5cd2cf60913d9254a2be70c32145e22275eb5903843ec5ff66ac1138cb71f"
+file = "mods/SmoothSwapping.pw.toml"
+hash = "4063580126a01efd43df1c81e891aefcf3bd7d334ef6003c12627705369ba2c5"
+metafile = true
+
+[[files]]
+file = "mods/Sound-physics-remastered.pw.toml"
+hash = "0bda735f84588f82dc0f5e390cdcf80a8da6782a3282d706a23aa7e7126d1570"
+metafile = true
+
+[[files]]
+file = "mods/Sounds.pw.toml"
+hash = "d53581a359d2e434d155187f805139a64aef75ac5fc6141f39985d39a246a91a"
+metafile = true
 
 [[files]]
 file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
 hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
+
+[[files]]
+file = "mods/Watson.pw.toml"
+hash = "96df40e6e7a43f7021fad1922674ba7ad26f624f277fe20edfa20f583b1917f5"
+metafile = true
 
 [[files]]
 file = "mods/XaeroZoomout-Fabric-1.20-1.1.0.jar"
@@ -1657,10 +1689,6 @@ file = "mods/ioticblocks-fabric-1.0.2+1.20.1.jar"
 hash = "5b9b08e94c35c58d2e5a2066850530af3027ba172709772c7a0a5808e9d6ca1c"
 
 [[files]]
-file = "mods/iris-1.7.6+mc1.20.1.jar"
-hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"
-
-[[files]]
 file = "mods/jupiter-2.3.2-1.20.1-fabric.jar"
 hash = "f68c5fcd87bc4e46afc933ac4452c9673c4105a1bb0d46aae33442a59daa89d9"
 
@@ -1833,10 +1861,6 @@ file = "mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar"
 hash = "dafca4311f94ed5eff18f34077e7ab91a169863a4bde2cc82ae525d869ee9396"
 
 [[files]]
-file = "mods/sound-physics-remastered-fabric-1.20.1-1.5.1.jar"
-hash = "275467bef6e56aab50b0c66ed42b2984160d36c65edb1b986e3c7c81d37e9253"
-
-[[files]]
 file = "mods/spark-1.10.53-fabric.jar"
 hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
 
@@ -1891,6 +1915,14 @@ hash = "f86c5d1d8766a384be61ac7f456edb654b91cb9b73b6b1b327db26a47dc0a829"
 [[files]]
 file = "options.txt"
 hash = "6d209fa79bb4c6fef1b953be589873ba80858c0b661e622053efb66abcb26cd6"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex.zip"

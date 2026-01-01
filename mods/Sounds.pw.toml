@@ -1,0 +1,14 @@
+name = "Sounds"
+filename = "Sounds-2.2.1+1.20.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/EoAqSkiW/Sounds-2.2.1%2B1.20.1%2Bfabric.jar"
+hash-format = "sha1"
+hash = "f3acf84a8bf5249032a488bc8f0167d413583a59"
+
+[option]
+optional = true
+default = true
+description = "Полное обновление звуковых эффектов Minecraft с более чем 170 новыми звуковыми эффектами для элементов интерфейса, предметов"
+

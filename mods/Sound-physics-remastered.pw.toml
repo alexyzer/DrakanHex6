@@ -1,0 +1,14 @@
+name = "Sound-physics-remastered"
+filename = "sound-physics-remastered-fabric-1.20.1-1.5.1.jar"
+side = "client"
+
+[download]	
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/sCsWXt85/sound-physics-remastered-fabric-1.20.1-1.5.1.jar"
+hash-format = "sha1"
+hash = "b06a2eb31bcfe3d98463d1323e4787ac2b378bff"
+
+[option]
+optional = true
+default = true
+description = "Мод для Minecraft, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками."
+
