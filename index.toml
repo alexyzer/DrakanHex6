@@ -1626,8 +1626,8 @@ file = "mods/hex_machina-1.0.1.jar"
 hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.1.jar"
-hash = "c235b5f3c72b15bb8473815a2986d61cdf55ac2ef94b6531328b5656af80380c"
+file = "mods/hexal-fabric-1.20.1-0.3.1-wisp-tweak.jar"
+hash = "f3ebb546f5fbd6da863cf8497b8da548d9d8654fbcee153ff3e634a8ec979ae7"
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-b7d281b.jar"
