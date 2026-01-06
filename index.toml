@@ -1870,6 +1870,10 @@ file = "mods/rrls-4.0.6.1+mc1.20.1-fabric.jar"
 hash = "da477c897a8bc0e080aa1e00b813c1d4bba26af80be2dbda10afd12a0ca40115"
 
 [[files]]
+file = "mods/scryglass-1.0.0.jar"
+hash = "2047f832c9de13f19c9bd3468e528326f6792bc8dea80d31fae78a8dc829c8c6"
+
+[[files]]
 file = "mods/show-me-your-skin-1.9.0+1.20.jar"
 hash = "7145f140d00c7d58bf73fb2d1cd161d22df450aa1cc87a136df51fdc1192b100"
 
