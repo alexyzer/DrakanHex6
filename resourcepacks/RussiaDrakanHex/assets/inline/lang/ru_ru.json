@@ -1,0 +1,36 @@
+{
+    "ui.inline.nothingtoshowoff": "Нечего показать",
+
+    "config.inline.title": "Inline",
+    "config.inline.category.matchers": "Сопоставители",
+    "config.inline.category.extras": "Дополнительно",
+
+    "config.inline.extras.modicon": "Иконка мода в подсказке",
+    "config.inline.extras.modicon.desc": "Добавляет иконки модов рядом с их названиями в подсказках к предметам, обычно добавляются jei/emi",
+
+    "config.inline.extras.chatcap": "Лимит масштаба чата",
+    "config.inline.extras.chatcap.desc": "1: [item:diamond_sword] 1.5: [item!diamond_sword] 2: [item+diamond_sword] Предотвращает блокировку чата крупными элементами",
+
+    "config.inline.extras.createinterop": "Совместимость с [mod:create] Display Board",
+    "config.inline.extras.createinterop.desc": "Позволяет inline-отображению работать на дисплейных досках.",
+
+    "matcher.inline.modicon.title": "Иконка мода",
+    "matcher.inline.modicon.title.styled": "Иконка мода [mod:inline]",
+    "matcher.inline.modicon.description": "Отображает иконку мода",
+    "matcher.inline.modicon.example": "[mod:inline]",
+
+    "matcher.inline.item.title": "Предмет",
+    "matcher.inline.item.title.styled": "Предмет [item:writable_book]",
+    "matcher.inline.item.description": "Отображает предмет по его идентификатору",
+    "matcher.inline.item.example": "[item:diamond_sword][item:book]",
+
+    "matcher.inline.entity.title": "Сущность",
+    "matcher.inline.entity.title.styled": "Сущность [entity:pig]",
+    "matcher.inline.entity.description": "Отображает сущность по её типу",
+    "matcher.inline.entity.example": "[entity:pig]",
+
+    "matcher.inline.playerface.title": "Голова игрока",
+    "matcher.inline.playerface.title.styled": "Голова игрока [face:MHF_Steve]",
+    "matcher.inline.playerface.description": "Отображает голову игрока",
+    "matcher.inline.playerface.example": "[face:MHF_Steve]"
+}

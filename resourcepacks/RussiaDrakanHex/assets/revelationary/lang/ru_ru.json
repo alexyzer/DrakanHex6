@@ -1,0 +1,10 @@
+{
+  "commands.revelationary.advancement.revoke": "Отозвано %d достижений у %s в %s:%s",
+  "commands.revelationary.advancement.grant": "Выдано %d достижений %s в %s:%s", 
+  "commands.revelationary.advancement.sync": "Синхронизировано %d достижений от %s к %s в %s:%s",
+
+  "text.autoconfig.Revelationary.title": "Revelationary",
+  "text.autoconfig.Revelationary.option.UseTargetBlockOrItemNameInsteadOfScatter": "Использовать название целевого блока/предмета вместо его разбрасывания",
+  "text.autoconfig.Revelationary.option.NameForCloakedBlocks": "Название для скрытых блоков",
+  "text.autoconfig.Revelationary.option.NameForCloakedItems": "Название для скрытых предметов"
+}

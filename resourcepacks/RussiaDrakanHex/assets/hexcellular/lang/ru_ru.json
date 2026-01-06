@@ -1,0 +1,23 @@
+{
+	"hexcasting.action.book.hexcellular:create_property": "Отраж. Шрёдингера",
+	"hexcasting.action.book.hexcellular:readonly_property": "Очищ. Шрёдингера",
+	"hexcasting.action.book.hexcellular:set_property": "Гамбит Шрёдингера",
+	"hexcasting.action.book.hexcellular:observe_property": "Очищ. Наблюдения",
+
+	"hexcasting.mishap.invalid_value.class.property": "йота свойства",
+	"hexcasting.mishap.invalid_value.writeable_prop": "записываемая йота свойства",
+
+	"hexcellular.page.properties.title": "Йота Свойства",
+	"hexcellular.page.properties.0": "Я могу высечь йоты как сами законы вселенной, известные как $(thing)Свойства$(). Любая среда _Гексзаклинания может взаимодействовать с $(thing)Свойствами$() через ссылку, называемую йотой свойства.$(br2)Два _Заклинателя с йотами свойства, указывающими на одно и то же $(thing)Свойство$(), могут записывать в одну копию и читать из другой для мгновенной передачи информации.",
+	"hexcellular.page.properties.1": "$(thing)Свойства$() также можно использовать для передачи $(o)состояния$() внутри и между моими приборами _Гексзаклинания. Например, $(l:items/hexcasting)заклинательное устройство$(), использующее $(thing)Свойство$(), которое оно увеличивает, чтобы запомнить, сколько раз оно было использовано, и делать что-то разное каждый раз.$(br2)$(o)Жуткое действие на расстоянии...$()",
+	"hexcasting.action.hexcellular:create_property": "Отражение Шрёдингера",
+	"hexcellular.page.create_property.summary": "Создаёт йоту свойства для случайного $(thing)Свойства$(). Стоит около пяти $(l:items/amethyst)$(item)Заряженных Аметистов$(), чтобы высечь этот закон во вселенной.",
+	"hexcellular.page.properties.2": "При использовании $(thing)Свойств$() созданная йота свойства является $(o)единственной$() ссылкой на $(thing)Свойство$(). Мне следует немедленно сохранить йоту, чтобы не потерять единственный интерфейс к ней.$(br2)Хотя стоимость создания одной высока, после создания йота свойства позволяет просто подключаться к $(thing)Свойству$(), позволяя мне дешёво читать и записывать в него вечно.",
+	"hexcasting.action.hexcellular:observe_property": "Очищение Наблюдения",
+	"hexcellular.page.observe_property.summary": "Наблюдает текущее значение йоты свойства.",
+	"hexcasting.action.hexcellular:set_property": "Гамбит Шрёдингера",
+	"hexcellular.page.set_property.summary": "Устанавливает значение йоты свойства. Стоит около одной десятой $(l:items/amethyst)$(item)Аметистовой Пыли$().",
+	"hexcellular.page.properties.3": "Иногда я могу захотеть раздавать йоты свойства без риска, что кто-то другой перезапишет их содержимое. В таких случаях я могу создавать копии только для чтения. Их всё ещё можно читать с помощью $(l:properties#hexcellular:observe_property)$(action)Очищения Наблюдения$(), и они будут ссылаться на $(thing)Свойство$() как обычно, но в них нельзя записывать с помощью $(l:properties#hexcellular:set_property)$(action)Гамбита Шрёдингера$().$(br2)Для отличия йоты свойства только для чтения окрашены в цвет морской волны.",
+	"hexcasting.action.hexcellular:readonly_property": "Очищение Шрёдингера",
+	"hexcellular.page.readonly_property.summary": "Создаёт йоту свойства только для чтения из данной йоты свойства."
+}

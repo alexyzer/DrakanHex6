@@ -1,0 +1,8 @@
+{
+  "foodeffecttooltips.food.withChance": "%s [%d%%]",
+  "foodeffecttooltips.food.whenEaten": "При употреблении:",
+
+  "text.autoconfig.FoodEffectTooltips.option.UseAsWhitelistInstead": "Использовать списки как белые списки",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "Чёрный список идентификаторов предметов",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedModsIDs": "Чёрный список ID модов"
+}

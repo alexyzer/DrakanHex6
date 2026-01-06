@@ -1,0 +1,12 @@
+{
+  "widget.spellwheel.page": "Страница %s",
+  "widget.spellwheel.page.suffix": " (стр. %s)",
+  "widget.spellwheel.chapter": "Глава %s",
+  "widget.spellwheel.empty": "Пусто",
+  "widget.spellwheel.empty.desc": "Не назначено.",
+  "key.spellwheel.open": "Открыть Колесо Заклинаний",
+  "category.spellwheel.main": "Колесо Гекс-Заклинаний",
+  "text.spellwheel.no_icon": "Нельзя установить значок для безымянной страницы!",
+  "text.spellwheel.you_sure": "Вы уверены, что хотите изменить значок для этой ячейки?",
+  "text.spellwheel.not_artifact": "Не артефакт/безделушка: %s"
+}

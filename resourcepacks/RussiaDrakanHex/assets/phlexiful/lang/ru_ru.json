@@ -1,0 +1,42 @@
+{
+  "category.phlexiful_tab": "Phlexiful",
+
+  "enchantment.phlexiful.battery_pants_pool_buff": "Затопление Ткани",
+
+  "block.phlexiful.cobbled_bedrock": "Булыжный бедрок",
+
+  "item.phlexiful.welding_mask": "Капюшон Заклинателя",
+  "item.phlexiful.battery_pants": "Уловитель Медиума",
+  "item.phlexiful.media_weave": "Ткань Медиума",
+
+  "hexcasting.action.phlexiful:destroy_block": "Уничтожить Блок",
+  "hexcasting.action.phlexiful:set_pants_threshhold": "Записать Порог Уловителя",
+  "hexcasting.action.phlexiful:get_pants_threshhold": "Прочитать Порог Уловителя",
+  "hexcasting.action.phlexiful:read_pants_media": "Прочитать Медиум Уловителя",
+
+  "hexcasting.mishap.no_item.armor": "Требуется %s в слоте %s, но ничего нет",
+  "hexcasting.mishap.bad_item.armor": "Требуется %s в слоте %s, но вместо этого получен %s",
+
+  "phlexiful.page.media_weave.title": "Ткань Медиума",
+  "phlexiful.page.media_weave.1": "Я обнаружил, что при большой осторожности медиум можно напрямую вплетать в ткань.",
+  "phlexiful.page.media_weave.2": "Кажется, он реагирует на _медиум, как железо на магнит. Одежда, сделанная из этой ткани, имела бы интересные свойства... Возможно, не помешало бы расширить мой гардероб?",
+
+  "phlexiful.page.battery_pants.title": "Уловитель Медиума",
+  "phlexiful.page.battery_pants.1": "Я обнаружил, что небольшая стоимость некоторых заклинаний со временем может накапливаться в весьма существенное количество _медиума. Приложив немного усилий и использовав несколько рулонов $(l:items/media_weave)$(item)Ткани Медиума/$, я создал нечто, чтобы сдерживать эти растущие суммы.",
+  "phlexiful.page.battery_pants.2": "$(l:items/battery_pants)$(item)Уловитель Медиума/$ медленно накапливает _медиум. Он не может вместить много, поэтому мне, возможно, пригодится $(l:patterns/battery_pants_patterns)$(action)его настройка/$, чтобы ограничить высвобождение _медиума.$(br2)Я полагаю, не будет неразумным предположить, что вокруг могут быть следовые количества _медиума, но даже тогда то, что он улавливает, - это слишком много... Откуда он берётся?/$",
+  "phlexiful.page.battery_pants.crafting.desc": "$(o)О, брюки!",
+
+  "phlexiful.page.battery_pants_patterns.title": "Паттерны Уловителя Медиума",
+  "phlexiful.page.battery_pants_patterns.1": "Бороться с огнём с помощью огня, как говорится! (Что-то о горящем мире. Неважно). Нет лучшего способа управлять моим $(l:items/media_catcher)$(item)Уловителем Медиума/$, чем с помощью того, что он питает: $(hex)паттернов/$.",
+  "phlexiful.page.battery_pants_patterns.get_threshhold": "Добавляет порог $(item)уловителя медиума/$, который я ношу, в стек. Возвращает $(l:casting/influences)$(thing)Null/$, если я не установил порог.",
+  "phlexiful.page.battery_pants_patterns.set_threshhold": "Извлекает число с вершины стека и сохраняет его как порог $(item)уловителя медиума/$, который я ношу.",
+  "phlexiful.page.battery_pants_patterns.read_pants_media": "Добавляет _медиум, содержащийся в $(item)уловителе медиума/$, который я ношу, в стек.",
+
+  "phlexiful.page.welding_mask.title": "Капюшон Заклинателя",
+  "phlexiful.page.welding_mask.1": "Свет, производимый в моей работе, утомляет глаза. Вспышки света кратковременны, но задерживаются в моём vision.$(br)Позаимствовав вдохновение у друзей из ремесленников, я смастерил маску, чтобы защитить мои глаза от резкого света _Чародейства.",
+  "phlexiful.page.welding_mask.crafting.desc": "$(l:items/welding_mask)$(item)Капюшоны Заклинателя/$ блокируют вспышки света, испускаемые заклинаниями, которые мы называем частицами.",
+
+  "phlexiful.page.destroy_block.title": "Уничтожить Блок",
+  "phlexiful.page.destroy_block.1": "Полное уничтожение. Стоит ничтожное количество _медиума для всего менее прочного, чем $(item)булыжник/$.",
+  "phlexiful.page.destroy_block.2": "Это заклинание заставляет меня чувствовать себя некомфортно... Я боюсь, что случайно применю его на чём-то, что предпочёл бы не трогать.$(br2)...Мне всё же интересно, если это неостановимая сила, то какой была бы подходящая стена?$(br2)$(o)Иди, соверши преступление."
+}

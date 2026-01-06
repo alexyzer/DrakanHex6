@@ -1,0 +1,16 @@
+{
+  "ae2-emi-crafting.category_condenser": "Конденсатор Материи",
+  "ae2-emi-crafting.category_inscriber": "Инскрайбер",
+  "ae2-emi-crafting.category_attunement": "Настройка P2P Туннелей",
+  "ae2-emi-crafting.category_transform": "Преобразование в Мире",
+  "ae2-emi-crafting.category_charger": "Зарядное Устройство",
+  "ae2-emi-crafting.category_entropy_manipulator": "Манипулятор Энтропии",
+  "ae2-emi-crafting.error.crafting.storage_terminal": "Невозможно крафтить через Терминал Хранилища ПХ",
+  "text.autoconfig.ae2-emi-crafting.title": "AE2 EMI Crafting Integration",
+  "text.autoconfig.ae2-emi-crafting.category.emi": "EMI",
+  "text.autoconfig.ae2-emi-crafting.category.integration": "Интеграция модов",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync": "Синхронизация BOM",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync.@Tooltip": "Позволяет EMI читать содержимое системы ПХ",
+  "text.autoconfig.ae2-emi-crafting.option.exmi": "Дополнительная интеграция",
+  "text.autoconfig.ae2-emi-crafting.option.exmi.@Tooltip": "Убирает рецепты ExMI AE2 из регистрации"
+}

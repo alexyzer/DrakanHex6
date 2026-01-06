@@ -1,0 +1,11 @@
+{
+	"category.toomanybinds": "Too Many Binds",
+	"key.toomanybinds.launcher": "Запуск привязок",
+	"key.toomanybinds.favorite": "Пометить привязку как избранную",
+
+	"text.autoconfig.toomanybinds.title": "Too Many Binds",
+	"text.autoconfig.toomanybinds.option.hideBoundKeys": "Показывать только непривязанные клавиши",
+	"text.autoconfig.toomanybinds.option.maxSuggestions": "Макс. количество предложений",
+	"text.autoconfig.toomanybinds.option.bgOpacity": "Непрозрачность фона",
+	"text.autoconfig.toomanybinds.option.pauseGameWhileOpen": "Приостанавливать игру при открытом меню привязок"
+}

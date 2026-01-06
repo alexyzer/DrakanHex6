@@ -1,0 +1,24 @@
+{
+  "gui.appspec.ink": "Чернила",
+
+  "itemGroup.appspec.tab": "Applied Spectrometry",
+
+  "item.appspec.ink_cell_housing": "Корпус Ячейки для Чернил",
+
+  "item.appspec.ink_storage_cell_1k": "1K Ячейка Хранилища Чернил",
+  "item.appspec.ink_storage_cell_4k": "4K Ячейка Хранилища Чернил",
+  "item.appspec.ink_storage_cell_16k": "16K Ячейка Хранилища Чернил",
+  "item.appspec.ink_storage_cell_64k": "64K Ячейка Хранилища Чернил",
+  "item.appspec.ink_storage_cell_256k": "256K Ячейка Хранилища Чернил",
+
+  "item.appspec.portable_ink_cell_1k": "1K Портативная Ячейка Чернил",
+  "item.appspec.portable_ink_cell_4k": "4K Портативная Ячейка Чернил",
+  "item.appspec.portable_ink_cell_16k": "16K Портативная Ячейка Чернил",
+  "item.appspec.portable_ink_cell_64k": "64K Портативная Ячейка Чернил",
+  "item.appspec.portable_ink_cell_256k": "256K Портативная Ячейка Чернил",
+
+  "recipeGroup.spectrum.ink_cells": "Ячейки Чернил",
+
+  "book.appspec.ink_cells.page0.text": "Похоже, Прикладная Энергетика может передавать и хранить [Чернила](entry://ink/ink) гораздо эффективнее, перемещая их напрямую, вместо того чтобы позволять им течь самостоятельно.",
+  "book.appspec.ink_cells.page1.text": "Ячейки Чернил позволяют мне хранить огромное количество [Чернил](entry://ink/ink)."
+}

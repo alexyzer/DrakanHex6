@@ -1,0 +1,4 @@
+{
+  "commands.config.getwithtype": "Конфиг для %s типа %s найден в %s",
+  "commands.config.noconfig": "Конфиг для %s типа %s не найден"
+}

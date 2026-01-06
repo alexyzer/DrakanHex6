@@ -1,0 +1,47 @@
+{
+  "config.ichunutil.cat.general.name": "Общие",
+  "config.ichunutil.cat.general.desc": "Эти настройки являются общими и не подходят ни к одной другой категории.",
+  "config.ichunutil.cat.gameplay.name": "Игровой процесс",
+  "config.ichunutil.cat.gameplay.desc": "Эти настройки влияют на игровой процесс при использовании мода.",
+  "config.ichunutil.cat.global.name": "Глобальные",
+  "config.ichunutil.cat.global.desc": "Эти настройки влияют как на серверы, так и на клиенты, на которых установлен мод.",
+  "config.ichunutil.cat.serverOnly.name": "Только для сервера",
+  "config.ichunutil.cat.serverOnly.desc": "Эти настройки влияют только на сервер, на котором установлен мод.",
+  "config.ichunutil.cat.clientOnly.name": "Только для клиента",
+  "config.ichunutil.cat.clientOnly.desc": "Эти настройки влияют только на клиент, на котором установлен мод.",
+  "config.ichunutil.cat.block.name": "Блоки",
+  "config.ichunutil.cat.block.desc": "Эти настройки влияют на блоки в моде.",
+
+  "config.ichunutil.cat.bns.name": "Окошки и прочее (B&S)",
+  "config.ichunutil.cat.bns.desc": "Эти настройки влияют на графические интерфейсы, использующие B&S.",
+  "config.ichunutil.prop.bnsMinecraftStyle.name": "B&S в стиле Minecraft",
+  "config.ichunutil.prop.bnsMinecraftStyle.desc": "Отрисовывает графические интерфейсы B&S в стиле Minecraft.\n0 = Стандартный стиль\n1 = Стиль Vanilla\n2 = Стиль текстуры.",
+  "config.ichunutil.prop.bnsDockPadding.name": "Отступ пристыковки",
+  "config.ichunutil.prop.bnsDockPadding.desc": "Сколько отступа добавлять к закреплённым окнам.",
+  "config.ichunutil.prop.bnsDockBorder.name": "Размер границы стыковки",
+  "config.ichunutil.prop.bnsDockBorder.desc": "Количество пикселей, после которого iChunUtil считает, что вы пытаетесь закрепить окно.",
+  "config.ichunutil.prop.bnsDoubleClickSpeed.name": "Скорость двойного клика",
+  "config.ichunutil.prop.bnsDoubleClickSpeed.desc": "Скорость (в тиках) для регистрации двойного клика.",
+  "config.ichunutil.prop.bnsTooltipCooldown.name": "Задержка подсказки",
+  "config.ichunutil.prop.bnsTooltipCooldown.desc": "Как долго наводить курсор на элемент (в тиках), прежде чем показывать подсказку.",
+  "config.ichunutil.prop.bnsTheme.name": "Тема",
+  "config.ichunutil.prop.bnsTheme.desc": "Тема для использования в Boxes & Stuff",
+
+  "gui.ichunutil.configs.title": "Редактор конфигурации",
+  "gui.ichunutil.configs.configs": "Конфиги",
+  "gui.ichunutil.configs.needsRestart": "Для применения некоторых изменённых настроек требуется перезапуск!",
+
+  "gui.ichunutil.configs.noEditingServerConfig": "Вы можете редактировать СЕРВЕРНЫЙ конфиг только в одиночной игре!",
+
+  "gui.ichunutil.element.textField": "Текстовое поле",
+
+  "window.popup.title": "Внимание!",
+
+  "window.saveAs.title": "Сохранить как",
+  "window.saveAs.fileName": "Имя файла",
+  "window.saveAs.overwrite": "Перезаписать?",
+  "window.saveAs.confirmOverwrite": "Файл уже существует! Подтвердите перезапись?",
+  "window.saveAs.failed": "Не удалось сохранить файл.",
+
+  "element.button.clear": "Очистить"
+}

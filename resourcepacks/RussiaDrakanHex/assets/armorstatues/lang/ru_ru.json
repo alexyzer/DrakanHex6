@@ -1,0 +1,23 @@
+{
+  "armorstatues.dataSync.failure": "Не удалось изменить данные бронестенда: %s",
+  "armorstatues.dataSync.failure.noArmorStand": "Нет подходящего бронестенда",
+  "armorstatues.dataSync.failure.noPermission": "Нет разрешения",
+  "armorstatues.dataSync.failure.notFinished": "Очередь не пуста",
+  "armorstatues.dataSync.failure.outOfRange": "Вне зоны действия",
+  "armorstatues.dataSync.finished": "Завершена отправка данных бронестендов из очереди",
+  "armorstatues.screen.vanillaTweaks.checkTarget": "Выделить ближайший бронестенд",
+  "armorstatues.screen.vanillaTweaks.checkTarget.description": "Подсвечивает ближайший бронестенд в пределах трёх блоков от игрока, который будет отрегулирован. Из-за особенностей работы дата-паков это не обязательно тот бронестенд, из которого открыто это меню.",
+  "armorstatues.screen.vanillaTweaks.lock": "Заблокировать",
+  "armorstatues.screen.vanillaTweaks.lock.description": "Блокировка бронестенда предотвращает его изменение через это меню и отключает взаимодействие со слотами экипировки.",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead": "Поменять местами предмет в основной руке и шлем",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead.description": "Меняет предметы местами между слотом основной руки и слотом шлема.",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand": "Поменять местами предмет в основной и дополнительной руке",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand.description": "Меняет предметы местами между слотом основной руки и слотом дополнительной руки.",
+  "armorstatues.screen.vanillaTweaks.toolRack": "Выровнять под стойку для инструментов",
+  "armorstatues.screen.vanillaTweaks.toolRack.description": "Выравнивает бронестенд вместе с крюком для растяжки на стене над ним так, чтобы инструмент в его руке выглядел подвешенным. Также блокирует бронестенд и отключает все слоты, кроме основной руки.",
+  "armorstatues.screen.vanillaTweaks.triggerSent": "Отправлено!",
+  "armorstatues.screen.vanillaTweaks.unlock": "Разблокировать",
+  "armorstatues.screen.vanillaTweaks.unlock.description": "Разблокировка бронестенда отменяет все настройки, сделанные при предыдущей блокировке.",
+  "puzzlesapi.screen.type.alignments": "Выравнивания",
+  "puzzlesapi.screen.type.vanillaTweaks": "Vanilla Tweaks"
+}
