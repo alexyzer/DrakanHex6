@@ -1,0 +1,25 @@
+{
+    "name": "Высший Дварф",
+    "description": "Маленький Дварф, хорошо подходящий для добычи руды и боя.",
+    "powers": [
+        "dragon_origins:speed",
+        "dragon_origins:size2",
+        "origins:fall_immunity",
+        "origins:climbing",
+        "dragon_origins:haste",
+        "origins:no_shield",
+        "dragon_origins:less_hp",
+        "dragon_origins:speedswim",
+        "dragon_origins:speed_boost",
+        "origins:carnivore",
+        "dragon_origins:slow",
+        "dragon_origins:jump_boost",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:cobblestone",
+        "amount": 1
+    },
+    "impact": 3,
+    "loading_priority": 1
+}

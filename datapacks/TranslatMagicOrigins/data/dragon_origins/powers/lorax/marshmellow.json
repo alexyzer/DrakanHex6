@@ -1,0 +1,11 @@
+{
+    "name": "Marshmellow",
+    "description": "You have achieved the ability to make marshmallows as you love them, craft them with 2 sugar.",
+    "type": "origins:modify_crafting",
+    "recipe": "minecraft:marshmellow",
+    "result": {
+        "item": "minecraft:cookie",
+        "amount": 1,
+        "tag": "{display:{Name:'{\"text\":\"Marshmallow\",\"italic\":false}'},CustomModelData:690015}"
+    }
+}

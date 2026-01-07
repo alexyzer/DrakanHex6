@@ -1,0 +1,41 @@
+{
+    "name": "Grapple",
+    "description": "Grapple your enemies towards you, both of you are unable to move though.",
+    "badges": [
+        {
+            "type": "origins:keybind",
+            "text": "Grapple with %s",
+            "sprite": "origins:textures/gui/badge/active.png"
+        }
+    ],
+    "type": "origins:active_self",
+    "cooldown": 200,
+    "entity_action": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:daytime",
+            "inverted": false
+        },
+        "if_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:toggle",
+                    "power": "no"
+                }
+            ]
+        },
+        "else_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:toggle",
+                    "power": "no"
+                }
+            ]
+        }
+    },
+    "key": {
+        "key": "key.loadToolbarActivator"
+    }
+}

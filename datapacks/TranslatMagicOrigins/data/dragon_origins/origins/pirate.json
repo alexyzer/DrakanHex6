@@ -1,0 +1,18 @@
+{
+    "name": "Пират",
+    "description": "Вы любите семь морей.",
+    "powers": [
+        "dragon_origins:pirate/hook",
+        "dragon_origins:pirate/eye_patch",
+        "dragon_origins:pirate/swim_speed",
+        "dragon_origins:pirate/home",
+        "dragon_origins:pirate/shiny",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:map",
+        "amount": 1
+    },
+    "impact": 1,
+    "loading_priority": 1
+}

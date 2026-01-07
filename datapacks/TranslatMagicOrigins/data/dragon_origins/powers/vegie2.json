@@ -1,0 +1,8 @@
+{
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:meat"
+    },
+    "name": "Вегетарианец",
+    "description": "Вы не любите убивать животных, поэтому едите только растительную пищу."
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Друид",
+    "description": "Волшебное существо леса",
+    "powers": [
+        "dragon_origins:f_buf",
+        "dragon_origins:nether2",
+        "dragon_origins:hot_debuf",
+        "dragon_origins:vegie3",
+        "dragon_origins:roots",
+        "dragon_origins:roots2",
+        "dragon_origins:roots3",
+        "dragon_origins:roots4",
+        "dragon_origins:heal2",
+        "dragon_origins:regen",
+        "dragon_origins:plant_v",
+        "dragon_origins:green2",
+        "dragon_origins:hunger",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:oak_sapling",
+        "amount": 1
+    },
+    "impact": 3,
+    "loading_priority": 1
+}

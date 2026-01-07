@@ -1,0 +1,65 @@
+{
+    "1": {
+        "hidden": true,
+        "type": "origins:action_on_callback",
+        "entity_action_chosen": {
+            "type": "origins:grant_power",
+            "power": "origins:water_breathing"
+        },
+        "execute_chosen_when_orb": true,
+        "entity_action_lost": {
+            "type": "origins:revoke_power",
+            "power": "origins:water_breathing"
+        },
+        "entity_action_added": {
+            "type": "origins:grant_power",
+            "power": "origins:water_breathing"
+        },
+        "entity_action_removed": {
+            "type": "origins:revoke_power",
+            "power": "origins:water_breathing"
+        },
+        "entity_action_respawned": {
+            "type": "origins:grant_power",
+            "power": "origins:water_breathing"
+        }
+    },
+    "name": "Sea Monster",
+    "description": "You are a creature of the sea and therefore can only breath on land for so long.",
+    "type": "origins:multiple",
+    "effect": {
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:water"
+        },
+        "type": "origins:stacking_status_effect",
+        "min_stacks": 0,
+        "max_stacks": 5,
+        "duration_per_stack": 1200,
+        "tick_rate": 200,
+        "effect": {
+            "effect": "minecraft:water_breathing",
+            "duration": 1200,
+            "amplifier": 99,
+            "show_particles": false,
+            "show_icon": true
+        }
+    },
+    "rain": {
+        "condition": {
+            "type": "origins:in_rain"
+        },
+        "type": "origins:stacking_status_effect",
+        "min_stacks": 0,
+        "max_stacks": 5,
+        "duration_per_stack": 1200,
+        "tick_rate": 200,
+        "effect": {
+            "effect": "minecraft:water_breathing",
+            "duration": 1200,
+            "amplifier": 99,
+            "show_particles": false,
+            "show_icon": false
+        }
+    }
+}

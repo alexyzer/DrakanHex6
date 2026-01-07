@@ -1,0 +1,27 @@
+{
+    "name": "Кракен",
+    "description": "Огромное мифическое существо, охотящееся на пиратов.",
+    "powers": [
+        "dragon_origins:kraken/bigger_kraken",
+        "dragon_origins:kraken/tentacles",
+        "dragon_origins:kraken/grapple",
+        "dragon_origins:kraken/grappledesc",
+        "dragon_origins:kraken/grappletp",
+        "origins:air_from_potions",
+        "origins:aquatiq",
+        "origins:aqua_affinity",
+        "origins:more_exhaustion",
+        "origins:carnivore",
+        "origins:water_vision",
+        "origins:conduit_power_on_land",
+        "origins:like_water",
+        "origins:water_breathing",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:glow_ink_sac",
+        "amount": 1
+    },
+    "impact": 3,
+    "loading_priority": 1
+}

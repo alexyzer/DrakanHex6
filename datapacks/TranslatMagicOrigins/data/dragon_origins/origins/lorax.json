@@ -1,0 +1,19 @@
+{
+    "name": "Лоракс",
+    "description": "Маленькое мифическое существо, защищающее деревья.",
+    "powers": [
+        "dragon_origins:lorax/phase",
+        "dragon_origins:lorax/no_tree_chopping",
+        "dragon_origins:lorax/size",
+        "dragon_origins:lorax/friendly",
+        "dragon_origins:lorax/marshmellow",
+        "dragon_origins:lorax/food",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:red_sand",
+        "amount": 1
+    },
+    "impact": 2,
+    "loading_priority": 1
+}

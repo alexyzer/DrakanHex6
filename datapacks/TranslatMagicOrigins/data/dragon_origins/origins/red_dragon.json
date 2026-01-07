@@ -1,0 +1,22 @@
+{
+    "name": "Красный Дракон",
+    "description": "Мифическое существо, обитающее в Нижнем мире.",
+    "powers": [
+        "origins:fire_immunity",
+        "origins:nether_spawn",
+        "origins:burning_wrath",
+        "origins:water_vulnerability",
+        "origins:hotblooded",
+        "dragon_origins:freeze",
+        "dragon_origins:size69",
+        "dragon_origins:wreckless",
+        "origins:carnivore",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:redstone",
+        "amount": 1
+    },
+    "impact": 3,
+    "loading_priority": 1
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Роботизированный глаз",
+    "description": "Ваш роботизированный глаз позволяет вам видеть в темноте.",
+    "type": "origins:night_vision",
+    "strength": 0.4,
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water",
+        "inverted": true
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "operation": "addition",
+        "value": 12,
+        "attribute": "generic.armor"
+    },
+    "name": "Metal Skin",
+    "description": "Your metal skin provides natural armor, but makes any armor not wearable."
+}

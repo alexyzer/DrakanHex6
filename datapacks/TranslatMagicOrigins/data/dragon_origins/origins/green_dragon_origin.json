@@ -1,0 +1,23 @@
+{
+    "name": "Зелёный Дракон",
+    "description": "Этот дракон очень любим жителями деревни. Чтобы его зубы блестели, он может есть только овощи. У него большие крылья, и ему нужно много еды.",
+    "powers": [
+        "dragon_origins:good_neighboer",
+        "dragon_origins:green",
+        "dragon_origins:elytra",
+        "dragon_origins:white_teeth",
+        "dragon_origins:vegie",
+        "dragon_origins:food",
+        "dragon_origins:size",
+        "dragon_origins:emerald",
+        "dragon_origins:droar",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:emerald",
+        "amount": 1
+    },
+    "impact": 3,
+    "order": 10,
+    "loading_priority": 1
+}

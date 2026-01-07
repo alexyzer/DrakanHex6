@@ -1,0 +1,17 @@
+{
+    "name": "Семья",
+    "description": "Вы в шутку сражаетесь со своими друзьями-зомби, зомби даже обнимают вас.",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:attacker",
+        "entity_condition": {
+            "type": "origins:entity_group",
+            "group": "undead"
+        }
+    },
+    "modifier": {
+        "operation": "set_base",
+        "value": 1,
+        "name": "Family"
+    }
+}

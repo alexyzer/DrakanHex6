@@ -1,0 +1,8 @@
+{
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:meat"
+    },
+    "name": "Плохое самочувствие",
+    "description": "В мясе содержатся бесполезные витамины, поэтому лучше есть овощи."
+}

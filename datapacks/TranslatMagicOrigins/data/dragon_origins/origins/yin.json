@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "dragon_origins:yinyang/yin/yangtransform",
+        "dragon_origins:yinyang/yin/heal",
+        "dragon_origins:test/lightning",
+        "dragon_origins:yinyang/yin/transparency",
+        "dragon_origins:yinyang/yin/darkweak",
+        "dragon_origins:advancement"
+    ],
+    "icon": "minecraft:white_concrete",
+    "order": 1,
+    "impact": 2,
+    "name": "Инь",
+    "description": "Могущественное существо света, обладающее удивительными способностями, но у него есть и темная сторона — Янь.",
+    "loading_priority": 1
+}

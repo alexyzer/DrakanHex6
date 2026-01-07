@@ -1,0 +1,28 @@
+{
+    "name": "Нежить",
+    "description": "Вы воскресли в виде нежити в мире, населенном людьми.",
+    "powers": [
+        "dragon_origins:zombie",
+        "dragon_origins:daylight",
+        "dragon_origins:hugs",
+        "dragon_origins:body",
+        "dragon_origins:body_",
+        "dragon_origins:gloom",
+        "dragon_origins:undead",
+        "dragon_origins:unnerving",
+        "dragon_origins:attacker",
+        "dragon_origins:target",
+        "dragon_origins:join_team",
+        "dragon_origins:create_team",
+        "dragon_origins:summon",
+        "dragon_origins:shovel",
+        "dragon_origins:stone_sword",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:zombie_head",
+        "amount": 1
+    },
+    "impact": 2,
+    "loading_priority": 1
+}

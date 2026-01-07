@@ -1,0 +1,17 @@
+{
+    "name": "Панда",
+    "description": "Ты воскрес в образе животного, панды!",
+    "powers": [
+        "dragon_origins:panda/food",
+        "dragon_origins:panda/food_dis",
+        "dragon_origins:kraken/langtest",
+        "origins:vegetarian",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:panda_spawn_egg",
+        "amount": 1
+    },
+    "impact": 1,
+    "loading_priority": 1
+}

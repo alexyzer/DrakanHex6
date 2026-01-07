@@ -1,0 +1,49 @@
+{
+    "type": "origins:multiple",
+    "name": "Disguise",
+    "cooldown": 200,
+    "ability": {
+        "type": "origins:toggle",
+        "key": {
+            "key": "key.origins.primary_active",
+            "continuous": false
+        }
+    },
+    "effects": [
+        {
+            "type": "origins:attribute",
+            "attribute": "generic.movement_speed",
+            "value": 0
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "execute as @s run data modify entity @s ArmorItems[0] set value {id: \"minecraft:trapped_chest\", Count: 1b, tag: {display: {Name: \"[{\\\"text\\\":\\\"Chest\\\"}]\", Lore: []}}}"
+        },
+        {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
+    ],
+    "disable_effects": [
+        {
+            "type": "origins:attribute",
+            "attribute": "generic.movement_speed",
+            "value": 0.1
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "execute as @e[type=minecraft:armor_stand,name=Chest] run kill @s"
+        },
+        {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
+    ],
+    "key3": {
+        "type": "origins:action_on_hit",
+        "damage_condition": {
+            "type": "origins:and"
+        },
+        "cooldown": 1
+    }
+}

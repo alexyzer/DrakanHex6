@@ -1,0 +1,41 @@
+{
+    "type": "origins:active_self",
+    "name": "Корни",
+    "description": "Используйте силу природы, чтобы задушить ближайших врагов на 5 секунд.",
+    "cooldown": 600,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @e[distance=0.1..10] minecraft:slowness 5 30"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @e[distance=0.1..10] minecraft:wither 5 1"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "playsound entity.evoker_fangs.attack master @a[distance=0..10]"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "tag @e[distance=0.1..10] add druid_rooting"
+            },
+            {
+                "type": "origins:delay",
+                "action": {
+                    "type": "origins:execute_command",
+                    "command": "tag @e remove druid_rooting"
+                },
+                "ticks": 95
+            }
+        ]
+    },
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 22
+    },
+    "key": "key.origins.primary_active"
+}

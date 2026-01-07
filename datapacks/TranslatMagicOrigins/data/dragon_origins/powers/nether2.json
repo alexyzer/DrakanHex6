@@ -1,0 +1,15 @@
+{
+    "name": "Unhumid",
+    "description": "You start to burn in the nether.",
+    "condition": {
+        "type": "origins:biome",
+        "biomes": [
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes",
+            "minecraft:soul_sand_valley"
+        ]
+    },
+    "type": "origins:burn",
+    "interval": 20,
+    "burn_duration": 1
+}

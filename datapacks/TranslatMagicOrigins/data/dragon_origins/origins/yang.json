@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "dragon_origins:yinyang/yang/yintransform",
+        "dragon_origins:yinyang/yang/cloud",
+        "dragon_origins:yinyang/yang/posess",
+        "dragon_origins:yinyang/yang/transparency1",
+        "dragon_origins:yinyang/yang/dayweak",
+        "dragon_origins:yinyang/yang/invis_temp",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:black_concrete",
+        "amount": 1
+    },
+    "impact": 2,
+    "unchoosable": true,
+    "name": "Янь",
+    "description": "Могущественное темное существо со смертоносными силами, но у него есть и светлая сторона Инь.",
+    "loading_priority": 1
+}

@@ -12,7 +12,7 @@
         "item": "minecraft:trapped_chest",
         "amount": 1
     },
-    "impact": 1
+    "impact": 1,
     "unchoosable": true,
     "loading_priority": 1
 }

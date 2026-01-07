@@ -1,0 +1,8 @@
+{
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:meat"
+    },
+    "name": "Белые зубы",
+    "description": "Вы хотите выглядеть как можно лучше, поэтому едите только овощи, чтобы сохранить зубы белыми."
+}

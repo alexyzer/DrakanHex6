@@ -1,0 +1,20 @@
+{
+    "name": "Киборг",
+    "description": "Получеловек-полуробот. Новые способности и превосходство над людьми.",
+    "powers": [
+        "dragon_origins:metal_skin",
+        "dragon_origins:water",
+        "dragon_origins:xtrajump",
+        "dragon_origins:fire_immunity",
+        "dragon_origins:no_armor",
+        "dragon_origins:fall_dam",
+        "dragon_origins:night_v",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:redstone",
+        "amount": 1
+    },
+    "impact": 2,
+    "loading_priority": 1
+}

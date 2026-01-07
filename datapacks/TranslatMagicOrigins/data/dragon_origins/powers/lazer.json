@@ -1,0 +1,21 @@
+{
+    "type": "origins:fire_power",
+    "name": "Projectile Lazer",
+    "description": "Shoot a lazer with a 10 second cooldown.",
+    "entity_type": "minecraft_arrow",
+    "cooldown": "100",
+    "count": "1",
+    "speed": "3",
+    "divergence": "0.5",
+    "sound": "beacon.activate",
+    "tag": "{Pickup:0b},{Fire:2s}",
+    "key": {
+        "key": "origins.primary_active",
+        "continous": false
+    },
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+        "bar_index": "7"
+    }
+}

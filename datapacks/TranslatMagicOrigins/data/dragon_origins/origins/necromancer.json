@@ -1,0 +1,21 @@
+{
+    "name": "Некромант",
+    "description": "Мифическое существо, использующее силу ночи для призыва союзников.",
+    "powers": [
+        "dragon_origins:gloom",
+        "dragon_origins:gloom2",
+        "dragon_origins:mysterous",
+        "dragon_origins:emume",
+        "dragon_origins:summon/sz_summon",
+        "dragon_origins:summon/a_summon",
+        "dragon_origins:summon/d_summon",
+        "dragon_origins:cloak",
+        "dragon_origins:advancement"
+    ],
+    "icon": {
+        "item": "minecraft:soul_soil",
+        "amount": 1
+    },
+    "impact": 2,
+    "loading_priority": 1
+}

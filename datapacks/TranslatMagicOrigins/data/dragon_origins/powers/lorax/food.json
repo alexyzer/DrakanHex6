@@ -1,0 +1,16 @@
+{
+    "hidden": true,
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:nbt",
+        "nbt": "{display:{Name:'{\"text\":\"Marshmallow\",\"italic\":false}'},CustomModelData:690015}"
+    },
+    "food_modifier": {
+        "operation": "set_total",
+        "value": 6
+    },
+    "saturation_modifier": {
+        "operation": "set_total",
+        "value": 0.6
+    }
+}
