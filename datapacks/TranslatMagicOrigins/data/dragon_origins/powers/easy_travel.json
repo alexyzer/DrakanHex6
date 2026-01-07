@@ -1,6 +1,6 @@
 {
-    "name": "Gift Of The Forest",
-    "description": "When you are in the forest you get some buffs.",
+    "name": "Дары леса",
+    "description": "Когда вы находитесь в лесу, вы получаете некоторые положительные эффекты.",
     "condition": {
         "type": "origins:biome",
         "biomes": [

@@ -1,7 +1,7 @@
 {
     "type": "origins:active_self",
-    "name": "Roar",
-    "description": "You can roar which freezes enemies for a short period of time.",
+    "name": "Рев",
+    "description": "Вы можете рычать, замораживая врагов на короткое время.",
     "cooldown": 600,
     "entity_action": {
         "type": "origins:and",

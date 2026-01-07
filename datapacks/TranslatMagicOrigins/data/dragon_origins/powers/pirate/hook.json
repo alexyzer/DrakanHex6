@@ -1,6 +1,6 @@
 {
-    "name": "Ye Hook",
-    "description": "Ye deal more damage wit' yer barehand.",
+    "name": "Йейх Крюк",
+    "description": "Вы наносите больше урона голыми руками.",
     "condition": {
         "type": "origins:equipped_item",
         "equipment_slot": "mainhand",

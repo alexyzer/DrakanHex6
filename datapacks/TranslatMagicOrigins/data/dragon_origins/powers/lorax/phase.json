@@ -1,6 +1,6 @@
 {
-    "name": "Advanced Tree Climber",
-    "description": "You can move throughout leaves without any problem.",
+    "name": "Продвинутый альпинист по деревьям",
+    "description": "Вы можете без проблем перемещаться по листьям.",
     "type": "origins:phasing",
     "block_condition": {
         "type": "origins:and",

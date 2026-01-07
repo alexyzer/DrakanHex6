@@ -1,6 +1,6 @@
 {
-    "name": "Dehydration",
-    "description": "When you are in hot biomes you start to dry up.",
+    "name": "Обезвоживание",
+    "description": "Когда вы находитесь в жарких биомах, вы начинаете высыхать.",
     "condition": {
         "type": "origins:biome",
         "condition": {

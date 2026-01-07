@@ -1,6 +1,6 @@
 {
-    "name": "Darkly weakness",
-    "description": "You get weak in the night.",
+    "name": "Мрачная слабость",
+    "description": "Ночью ты становишься слабым.",
     "condition": {
         "inverted": true,
         "type": "origins:brightness",

@@ -1,6 +1,6 @@
 {
-    "name": "Mysterous",
-    "description": "You are very mysterous which makes iron golems and villagers think you are a threat.",
+    "name": "Таинственный",
+    "description": "Вы очень загадочны, что заставляет железных големов и жителей деревни думать, что вы представляете угрозу.",
     "type": "origins:multiple",
     "illager": {
         "type": "origins:entity_group",

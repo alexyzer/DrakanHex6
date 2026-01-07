@@ -1,6 +1,6 @@
 {
-    "name": "Double Jump",
-    "description": "Your light body allows you to propel yourself in the air for a second jump, it consumes energy though.",
+    "name": "Двойной прыжок",
+    "description": "Ваше легкое тело позволяет вам подняться в воздух для второго прыжка, однако оно потребляет энергию.",
     "type": "origins:multiple",
     "air": {
         "condition": {

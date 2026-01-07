@@ -1,8 +1,8 @@
 {
     "type": "origins:multiple",
     "hidden": false,
-    "name": "Blend",
-    "description": "You may become hidden at any time, night is your friend, work swiftly as it’s limited.",
+    "name": "Смешивать",
+    "description": "Вы можете скрыться в любой момент, ночь – ваш друг, работайте быстро, ведь она ограничена.",
     "badges": [
         {
             "type": "origins:keybind",

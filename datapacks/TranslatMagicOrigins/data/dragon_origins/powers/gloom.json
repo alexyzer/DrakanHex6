@@ -1,6 +1,6 @@
 {
-    "name": "Creature Of The Night",
-    "description": "Night time envelops your body with power.",
+    "name": "Существо Ночи",
+    "description": "Ночное время окутывает ваше тело силой.",
     "condition": {
         "inverted": true,
         "type": "origins:daytime"

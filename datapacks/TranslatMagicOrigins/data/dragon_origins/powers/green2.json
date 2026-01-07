@@ -1,6 +1,6 @@
 {
-    "name": "Green",
-    "description": "Your clothes are made out of plants.",
+    "name": "Зеленый",
+    "description": "Ваша одежда сделана из растений.",
     "hidden": true,
     "loading_priority": 1,
     "type": "origins:model_color",

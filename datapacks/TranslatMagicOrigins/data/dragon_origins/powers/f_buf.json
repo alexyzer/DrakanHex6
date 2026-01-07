@@ -1,6 +1,6 @@
 {
-    "name": "Nature's Gift",
-    "description": "When you are in nature biomes, like a forest you get some buffs.",
+    "name": "Дар природы",
+    "description": "Когда вы находитесь в природных биомах, например в лесу, вы получаете некоторые положительные эффекты.",
     "condition": {
         "type": "origins:biome",
         "biomes": [

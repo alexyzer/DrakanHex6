@@ -1,6 +1,6 @@
 {
-    "name": "Seethrough",
-    "description": "You blend more with the light, only if it’s yellow though.",
+    "name": "Смотреть насквозь",
+    "description": "Вы больше смешиваетесь со светом, только если он желтый.",
     "type": "origins:model_color",
     "red": 0.9,
     "green": 0.9,

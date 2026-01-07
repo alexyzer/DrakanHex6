@@ -1,6 +1,6 @@
 {
-    "name": "Eye Patch",
-    "description": "Ye put on yer eyepatch t' adapt t' the dark.",
+    "name": "Повязка на глазу",
+    "description": "Ты надел повязку на глаз, чтобы адаптироваться к темноте.",
     "type": "origins:toggle_night_vision",
     "active_by_default": true,
     "strength": 1

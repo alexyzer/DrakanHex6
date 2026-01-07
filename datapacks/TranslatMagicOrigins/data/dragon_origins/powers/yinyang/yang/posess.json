@@ -1,8 +1,8 @@
 {
     "type": "origins:multiple",
     "hidden": false,
-    "name": "Stun",
-    "description": "Stun your enemies in a 5 block radius when you are in an dark area.",
+    "name": "Оглушить",
+    "description": "Оглушите своих врагов в радиусе 5 блоков, когда вы находитесь в темной зоне.",
     "badges": [
         {
             "type": "origins:keybind",

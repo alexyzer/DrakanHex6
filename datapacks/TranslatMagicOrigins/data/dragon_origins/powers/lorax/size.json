@@ -1,6 +1,6 @@
 {
-    "name": "Small creature",
-    "description": "You are smaller than normal humans.",
+    "name": "Маленькое существо",
+    "description": "Вы меньше обычных людей.",
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
         "type": "origins:and",

@@ -1,6 +1,6 @@
 {
-    "name": "Great beast",
-    "description": "You have to be larger to scare off enemies.",
+    "name": "Великий зверь",
+    "description": "Вы должны быть больше, чтобы отпугнуть врагов.",
     "loading_priority": 8,
     "type": "origins:action_on_callback",
     "entity_action_chosen": {

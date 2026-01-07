@@ -1,6 +1,6 @@
 {
-    "name": "Rotting Body",
-    "description": "Due to your time in the grave your skin is pale and decompostion has weakened your body.",
+    "name": "Гниющее тело",
+    "description": "Из-за времени, проведенного в могиле, твоя кожа стала бледной, а разложение ослабило твое тело.",
     "loading_priority": 0,
     "type": "origins:attribute",
     "modifier": {

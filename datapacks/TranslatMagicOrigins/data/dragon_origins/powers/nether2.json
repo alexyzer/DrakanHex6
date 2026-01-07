@@ -1,6 +1,6 @@
 {
-    "name": "Unhumid",
-    "description": "You start to burn in the nether.",
+    "name": "Не влажный",
+    "description": "Вы начинаете гореть в преисподней.",
     "condition": {
         "type": "origins:biome",
         "biomes": [

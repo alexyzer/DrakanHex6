@@ -1,6 +1,6 @@
 {
-    "name": "Friendly",
-    "description": "You cannot harm passive mobs.",
+    "name": "Дружелюбный",
+    "description": "Вы не можете причинить вред пассивным мобам.",
     "type": "origins:modify_damage_dealt",
     "target_condition": {
         "type": "origins:or",

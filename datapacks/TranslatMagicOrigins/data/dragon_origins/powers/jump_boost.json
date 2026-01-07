@@ -1,6 +1,6 @@
 {
-    "name": "Spare Energy",
-    "description": "Every 30 seconds you can activate a 3 minute jump boost after it runs out.",
+    "name": "Запас энергии",
+    "description": "Каждые 30 секунд вы можете активировать 3-минутный бонус к прыжку после того, как он закончится.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:apply_effect",

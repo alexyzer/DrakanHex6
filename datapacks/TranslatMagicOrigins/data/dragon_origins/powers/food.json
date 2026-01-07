@@ -1,6 +1,6 @@
 {
-    "name": "Hungry Dragon",
-    "description": "As a dragon, you need to eat ALOT of food.",
+    "name": "Голод Дракона",
+    "description": "Будучи драконом, вам нужно есть МНОГО еды.",
     "loading_priority": 7,
     "type": "origins:modify_exhaustion",
     "modifier": {

@@ -24,8 +24,8 @@
             "power": "origins:water_breathing"
         }
     },
-    "name": "Sea Monster",
-    "description": "You are a creature of the sea and therefore can only breath on land for so long.",
+    "name": "Морское чудовище",
+    "description": "Вы морское существо и поэтому можете долго дышать только на суше.",
     "type": "origins:multiple",
     "effect": {
         "condition": {

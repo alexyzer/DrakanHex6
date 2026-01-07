@@ -1,6 +1,6 @@
 {
-    "name": "Forestation",
-    "description": "You cannot break trees with leaves. You can only break wood with no leaves around them.",
+    "name": "Лесопосадка",
+    "description": "Нельзя ломать деревья листьями. Вы можете сломать дерево только без листьев вокруг него.",
     "type": "origins:modify_break_speed",
     "block_condition": {
         "type": "origins:and",

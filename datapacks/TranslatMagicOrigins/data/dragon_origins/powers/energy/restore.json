@@ -1,6 +1,6 @@
 {
-    "name": "Nanobots",
-    "description": "Due to the nanobot technology inside Arkevas, they possess fulltime healing. often being able to heal from any injuries within minutes or hours",
+    "name": "Наноботы",
+    "description": "Благодаря технологии наноботов внутри Аркеваса они обладают постоянным исцелением. часто удается исцелиться от любых травм в течение нескольких минут или часов",
     "type": "origins:action_over_time",
     "entity_action": {
         "type": "origins:apply_effect",

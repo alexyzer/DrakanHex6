@@ -56,8 +56,8 @@
         }
     },
     "type": "origins:multiple",
-    "name": "Yummy",
-    "description": "You can eat Bamboo!",
+    "name": "Вкусный",
+    "description": "Вы можете съесть бамбук!",
     "res": {
         "type": "origins:resource",
         "min": 0,

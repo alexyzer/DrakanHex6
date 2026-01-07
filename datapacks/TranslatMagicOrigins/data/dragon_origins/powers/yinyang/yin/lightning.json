@@ -1,8 +1,8 @@
 {
     "type": "origins:multiple",
     "hidden": false,
-    "name": "Holy Strike",
-    "description": "Use the holy light to weaken and strike those who oppose your holiness.",
+    "name": "Святой удар",
+    "description": "Используйте святой свет, чтобы ослабить и поразить тех, кто противостоит вашей святости.",
     "badges": [
         {
             "type": "origins:keybind",

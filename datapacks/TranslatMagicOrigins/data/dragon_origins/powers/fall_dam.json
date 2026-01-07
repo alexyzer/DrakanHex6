@@ -1,6 +1,6 @@
 {
-    "name": "Iron Feet",
-    "description": "Your strong feet allow you to take no fall damage.",
+    "name": "Железные ноги",
+    "description": "Ваши сильные ноги позволяют вам не получить урона от падения.",
     "type": "origins:invulnerability",
     "damage_condition": {
         "type": "origins:name",

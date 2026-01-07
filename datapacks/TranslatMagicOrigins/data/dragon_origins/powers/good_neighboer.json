@@ -1,6 +1,6 @@
 {
-    "name": "Protector of the Village",
-    "description": "Gives Hero of the Village effect.",
+    "name": "Защитник деревни",
+    "description": "Дает эффект Героя деревни.",
     "loading_priority": 2,
     "type": "origins:stacking_status_effect",
     "min_stacks": 0,

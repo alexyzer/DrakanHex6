@@ -1,6 +1,6 @@
 {
-    "name": "Ye' Travlin Knowledge",
-    "description": "Ye know yer way around the ocean.",
+    "name": "Знания Йейх Травлина",
+    "description": "Ты знаешь дорогу вокруг океана.",
     "type": "origins:modify_swim_speed",
     "modifier": {
         "operation": "multiply_total",

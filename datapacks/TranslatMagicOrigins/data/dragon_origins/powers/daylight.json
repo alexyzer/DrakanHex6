@@ -1,6 +1,6 @@
 {
-    "name": "Solar Laser",
-    "description": "The sun is a deadly laser",
+    "name": "Солнечные Лучи",
+    "description": "Солнце — смертоносный лазер",
     "condition": {
         "type": "origins:exposed_to_sun"
     },

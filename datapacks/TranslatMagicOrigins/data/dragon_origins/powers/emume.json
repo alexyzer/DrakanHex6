@@ -1,6 +1,6 @@
 {
-    "name": "One With Monsters",
-    "description": "Because you live under the monsters you have become immune to some effects.",
+    "name": "Один с монстрами",
+    "description": "Поскольку вы живете под властью монстров, вы стали невосприимчивы к некоторым эффектам.",
     "type": "origins:effect_immunity",
     "effects": [
         "minecraft:wither",

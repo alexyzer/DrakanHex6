@@ -1,6 +1,6 @@
 {
-    "name": "One With Undead",
-    "description": "You are undead aswell so the sun is your weakness.",
+    "name": "Един с нежитью",
+    "description": "Ты тоже нежить, поэтому солнце — твоя слабость.",
     "condition": {
         "type": "origins:exposed_to_sun"
     },

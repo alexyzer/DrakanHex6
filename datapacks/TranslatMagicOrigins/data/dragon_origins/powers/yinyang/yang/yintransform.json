@@ -1,6 +1,6 @@
 {
-    "name": "Yin",
-    "description": "Switch to your yin form.",
+    "name": "Инь",
+    "description": "Переключитесь на форму Инь.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

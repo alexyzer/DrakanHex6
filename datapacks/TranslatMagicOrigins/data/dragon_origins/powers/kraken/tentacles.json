@@ -1,6 +1,6 @@
 {
-    "name": "Tentacles",
-    "description": "You have 8 tentacles that make you swim faster.",
+    "name": "Щупальца",
+    "description": "У вас есть 8 щупалец, которые заставляют вас плавать быстрее.",
     "type": "origins:attribute",
     "modifier": {
         "attribute": "additionalentityattributes:water_speed",

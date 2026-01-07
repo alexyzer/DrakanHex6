@@ -1,7 +1,7 @@
 {
     "type": "origins:fire_power",
-    "name": "Projectile Lazer",
-    "description": "Shoot a lazer with a 10 second cooldown.",
+    "name": "Снаряд Лазер",
+    "description": "Выстрелите лазером с временем восстановления 10 секунд.",
     "entity_type": "minecraft_arrow",
     "cooldown": "100",
     "count": "1",

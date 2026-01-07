@@ -1,6 +1,6 @@
 {
-    "name": "Mystic Awareness",
-    "description": "You are able to heighten your senses for a short period of time.",
+    "name": "Мистическое осознание",
+    "description": "Вы можете обострить свои чувства на короткий период времени.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

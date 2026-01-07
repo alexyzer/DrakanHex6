@@ -1,6 +1,6 @@
 {
-    "name": "Canibalism",
-    "description": "Eat yourself to gain some food.",
+    "name": "Каннибализм",
+    "description": "Ешьте себя, чтобы получить немного еды.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

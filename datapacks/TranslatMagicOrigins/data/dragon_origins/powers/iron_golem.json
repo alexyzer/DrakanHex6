@@ -1,7 +1,7 @@
 {
     "type": "origins:active_self",
-    "name": "Hire Help",
-    "description": "You can summon an iron golem out of thin air.",
+    "name": "Наймите помощь",
+    "description": "Вы можете вызвать железного голема из воздуха.",
     "cooldown": 6000,
     "entity_action": {
         "type": "origins:and",

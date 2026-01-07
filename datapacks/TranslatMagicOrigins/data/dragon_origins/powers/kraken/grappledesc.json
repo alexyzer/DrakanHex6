@@ -1,6 +1,6 @@
 {
-    "name": "Grapple",
-    "description": "Grapple your enemies towards you, both of you are unable to move though.",
+    "name": "Борьба",
+    "description": "Прижмите врагов к себе, но вы оба не можете двигаться.",
     "badges": [
         {
             "type": "origins:keybind",

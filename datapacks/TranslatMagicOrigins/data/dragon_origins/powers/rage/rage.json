@@ -1,6 +1,6 @@
 {
-    "name": "Ghostly Temper",
-    "description": "You are able to unleash your true power when you are angry .Usable after 30 kills (7 flames will appear on your hotbar when you are able to use it)",
+    "name": "Призрачный характер",
+    "description": "Вы можете раскрыть свою истинную силу, когда злитесь. Можно использовать после 30 убийств (7 огней появятся на вашей панели быстрого доступа, когда вы сможете ее использовать).",
     "condition": {
         "type": "origins:resource",
         "resource": "revenant:zres",

@@ -1,6 +1,6 @@
 {
-    "name": "Mystic Elusion",
-    "description": "You are able to transcend into an invulnerable state for a short period of time to avoid upcoming attacks.",
+    "name": "Мистическое ускользание",
+    "description": "Вы можете на короткое время перейти в неуязвимое состояние, чтобы избежать предстоящих атак.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

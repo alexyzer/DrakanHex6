@@ -1,8 +1,8 @@
 {
     "type": "origins:multiple",
     "hidden": false,
-    "name": "Healing Aura",
-    "description": "Make the entities around you stronger by bringing them back to full health.",
+    "name": "Исцеляющая аура",
+    "description": "Сделайте существ вокруг вас сильнее, вернув им полное здоровье.",
     "badges": [
         {
             "type": "origins:keybind",

@@ -1,6 +1,6 @@
 {
-    "name": "Materialist",
-    "description": "e love the feel o' gold, ye cannot wear anythin' other.",
+    "name": "Материалист",
+    "description": "Мне нравится ощущение золота, ты не можешь носить ничего другого.",
     "type": "origins:restrict_armor",
     "head": {
         "inverted": true,

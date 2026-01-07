@@ -1,6 +1,6 @@
 {
-    "name": "Shedding",
-    "description": "Collect all your dead skin.",
+    "name": "Линька",
+    "description": "Соберите всю свою мертвую кожу.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:execute_command",

@@ -360,6 +360,6 @@
             "sprite": "origins:textures/gui/badge/active.png"
         }
     ],
-    "name": "Dark Matter",
-    "description": "You can transform yourself into dark energy with your secondary, but its to unstable to stay in that form for long and it can only be activated when there is enough darkness around you."
+    "name": "Темная Материя",
+    "description": "Вы можете превратить себя в темную энергию с помощью вторичной энергии, но оставаться в этой форме долго нестабильно, и ее можно активировать только тогда, когда вокруг вас достаточно тьмы."
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Cold",
-    "description": "When you are in a cold biome you begin to freeze.",
+    "name": "Холодный",
+    "description": "Когда вы находитесь в холодном биоме, вы начинаете замерзать.",
     "type": "origins:freeze",
     "condition": {
         "type": "origins:biome",

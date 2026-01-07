@@ -1,6 +1,6 @@
 {
-    "name": "Lightly Weakness",
-    "description": "You get weak to the light.",
+    "name": "Легкая слабость",
+    "description": "Ты становишься слабым к свету.",
     "condition": {
         "type": "origins:brightness",
         "comparison": ">=",

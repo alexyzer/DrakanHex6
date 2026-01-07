@@ -1,6 +1,6 @@
 {
-    "name": "Miner's Blood",
-    "description": "Gives Haste 3 when you are fully healed.",
+    "name": "Кровь шахтера",
+    "description": "Дает Ускорение 3, когда вы полностью исцелены.",
     "loading_priority": 2,
     "condition": {
         "type": "origins:health",

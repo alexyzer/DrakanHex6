@@ -1,6 +1,6 @@
 {
-    "name": "Yang",
-    "description": "Change into Yang.",
+    "name": "Янь",
+    "description": "Превратиться в Янь.",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

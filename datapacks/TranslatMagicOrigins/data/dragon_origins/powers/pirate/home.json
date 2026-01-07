@@ -1,6 +1,6 @@
 {
-    "name": "Ye Ship",
-    "description": "Ye feel more comfortable on a ship.",
+    "name": "Даээ корабль",
+    "description": "На корабле вы чувствуете себя комфортнее.",
     "condition": {
         "type": "origins:riding",
         "bientity_condition": {

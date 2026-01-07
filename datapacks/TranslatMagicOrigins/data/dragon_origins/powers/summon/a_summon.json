@@ -1,6 +1,6 @@
 {
-    "name": "Summon",
-    "description": "Be able to summon some alies to fight with you during the night",
+    "name": "Вызвать",
+    "description": "Возможность призвать союзников, чтобы сражаться вместе с вами ночью.",
     "condition": {
         "type": "origins:and",
         "conditions": [

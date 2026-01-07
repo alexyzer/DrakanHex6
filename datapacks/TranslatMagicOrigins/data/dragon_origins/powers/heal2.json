@@ -1,8 +1,8 @@
 {
     "type": "origins:multiple",
     "hidden": false,
-    "name": "Heal",
-    "description": "Heal yourself and others by emitting healing vapors, you can still emit them during the night but they will be less strong.",
+    "name": "Лечение",
+    "description": "Исцеляйте себя и других, испуская исцеляющие пары. Вы все равно можете испускать их ночью, но они будут менее сильными.",
     "badges": [
         {
             "type": "origins:keybind",

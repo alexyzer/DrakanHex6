@@ -1,7 +1,7 @@
 {
     "type": "origins:stacking_status_effect",
-    "name": "Dark Powers",
-    "description": "You become stronger at night.",
+    "name": "Темные силы",
+    "description": "Ночью ты становишься сильнее.",
     "min_stacks": 0,
     "max_stacks": 2,
     "duration_per_stack": 20,

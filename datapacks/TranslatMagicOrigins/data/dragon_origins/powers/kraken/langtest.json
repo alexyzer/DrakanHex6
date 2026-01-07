@@ -1,7 +1,7 @@
 {
     "type": "origins:active_self",
-    "name": "Roots",
-    "description": "Use the power of nature to strangle nearby enemies for 5 seconds.",
+    "name": "Корни",
+    "description": "Используйте силу природы, чтобы задушить ближайших врагов на 5 секунд.",
     "cooldown": 600,
     "entity_action": {
         "type": "origins:area_of_effect",

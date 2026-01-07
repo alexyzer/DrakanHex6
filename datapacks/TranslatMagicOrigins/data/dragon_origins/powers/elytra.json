@@ -1,6 +1,6 @@
 {
-    "name": "Winged",
-    "description": "You have wings on your back.",
+    "name": "Крылатый",
+    "description": "У тебя есть крылья на спине.",
     "loading_priority": 4,
     "type": "origins:elytra_flight",
     "texture_location": "minecraft:textures/entity/green_wings.png",

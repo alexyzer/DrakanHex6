@@ -1,6 +1,6 @@
 {
-    "name": "Village Outlier",
-    "description": "Villagers and iron golems don't like you.",
+    "name": "Деревенский отщепенец",
+    "description": "Жители деревни и железные големы вас не любят.",
     "type": "origins:action_over_time",
     "interval": 10,
     "entity_action": {
