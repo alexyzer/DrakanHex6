@@ -1,6 +1,7 @@
 {
     "name": "Мистическое ускользание",
     "description": "Вы можете на короткое время перейти в неуязвимое состояние, чтобы избежать предстоящих атак.",
+    "loading_priority": 10,
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

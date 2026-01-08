@@ -1,6 +1,7 @@
 {
     "name": "Низкий метаболизм",
     "description": "Вы теряете чувство голода медленнее.",
+    "loading_priority": 10,
     "type": "origins:modify_exhaustion",
     "modifier": {
         "operation": "multiply_total",

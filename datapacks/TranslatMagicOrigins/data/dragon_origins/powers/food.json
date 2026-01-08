@@ -1,7 +1,7 @@
 {
     "name": "Голод Дракона",
     "description": "Будучи драконом, вам нужно есть МНОГО еды.",
-    "loading_priority": 7,
+    "loading_priority": 10,
     "type": "origins:modify_exhaustion",
     "modifier": {
         "name": "Increased exhaustion",

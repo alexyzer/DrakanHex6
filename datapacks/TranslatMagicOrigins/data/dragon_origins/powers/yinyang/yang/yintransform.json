@@ -1,6 +1,7 @@
 {
     "name": "Инь",
     "description": "Переключитесь на форму Инь.",
+    "loading_priority": 10,
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

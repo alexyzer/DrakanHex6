@@ -1,5 +1,6 @@
 {
     "name": "Помедленнее",
+    "loading_priority": 10,
     "description": "Вы меньше ростом, поэтому ваши ноги короче.",
     "type": "origins:simple"
 }

@@ -1,6 +1,7 @@
 {
     "name": "Щупальца",
     "description": "У вас есть 8 щупалец, которые заставляют вас плавать быстрее.",
+    "loading_priority": 10,
     "type": "origins:attribute",
     "modifier": {
         "attribute": "additionalentityattributes:water_speed",

@@ -1,6 +1,7 @@
 {
     "name": "Фотосинтез",
     "description": "Находясь на солнце, вы быстрее залечиваете раны.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:and",
         "conditions": [

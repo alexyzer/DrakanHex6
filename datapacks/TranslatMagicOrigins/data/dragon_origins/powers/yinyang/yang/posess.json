@@ -3,6 +3,7 @@
     "hidden": false,
     "name": "Оглушить",
     "description": "Оглушите своих врагов в радиусе 5 блоков, когда вы находитесь в темной зоне.",
+    "loading_priority": 10,
     "badges": [
         {
             "type": "origins:keybind",

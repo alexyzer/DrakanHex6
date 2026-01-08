@@ -1,6 +1,7 @@
 {
     "name": "Роботизированный глаз",
     "description": "Ваш роботизированный глаз позволяет вам видеть в темноте.",
+    "loading_priority": 10,
     "type": "origins:night_vision",
     "strength": 0.4,
     "condition": {

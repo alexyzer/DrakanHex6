@@ -1,6 +1,7 @@
 {
     "name": "Существо Ночи",
     "description": "Ночное время окутывает ваше тело силой.",
+    "loading_priority": 10,
     "condition": {
         "inverted": true,
         "type": "origins:daytime"

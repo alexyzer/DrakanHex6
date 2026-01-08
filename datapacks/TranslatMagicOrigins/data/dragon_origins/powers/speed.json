@@ -1,7 +1,7 @@
 {
     "name": "Избыточная энергия",
+    "loading_priority": 10,
     "description": "Когда у вас слишком много энергии, вы высвобождаете её через ноги.",
-    "loading_priority": 2,
     "condition": {
         "type": "origins:food_level",
         "comparison": "==",

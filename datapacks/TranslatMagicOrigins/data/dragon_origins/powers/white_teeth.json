@@ -1,7 +1,7 @@
 {
     "name": "Заслуживающий доверия",
     "description": "Из-за особенностей ваших отношений с жителями деревни, вы не можете получить «Плохое предзнаменование».",
-    "loading_priority": 3,
+    "loading_priority": 10,
     "type": "origins:effect_immunity",
     "effect": "minecraft:bad_omen"
 }

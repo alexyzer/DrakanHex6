@@ -1,6 +1,7 @@
 {
     "name": "Меньше HP",
     "description": "У вас меньше HP, потому что вы меньше.",
+    "loading_priority": 10,
     "type": "origins:attribute",
     "modifier": {
         "attribute": "minecraft:generic.max_health",

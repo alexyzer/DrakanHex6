@@ -1,5 +1,6 @@
 {
     "name": "Разлив",
+    "loading_priority": 10,
     "description": "Удивите своих врагов, рассыпав тесто повсюду.",
     "type": "origins:active_self",
     "entity_action": {

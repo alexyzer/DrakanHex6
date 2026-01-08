@@ -2,6 +2,7 @@
     "type": "origins:active_self",
     "name": "Наймите помощь",
     "description": "Вы можете вызвать железного голема из воздуха.",
+    "loading_priority": 10,
     "cooldown": 6000,
     "entity_action": {
         "type": "origins:and",

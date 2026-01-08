@@ -1,6 +1,7 @@
 {
     "name": "Знания Йейх Травлина",
     "description": "Ты знаешь дорогу вокруг океана.",
+    "loading_priority": 10,
     "type": "origins:modify_swim_speed",
     "modifier": {
         "operation": "multiply_total",

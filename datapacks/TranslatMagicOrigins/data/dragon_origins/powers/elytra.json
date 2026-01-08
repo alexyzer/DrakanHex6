@@ -1,7 +1,7 @@
 {
     "name": "Крылатый",
     "description": "У тебя есть крылья на спине.",
-    "loading_priority": 4,
+    "loading_priority": 10,
     "type": "origins:elytra_flight",
     "texture_location": "minecraft:textures/entity/green_wings.png",
     "render_elytra": true

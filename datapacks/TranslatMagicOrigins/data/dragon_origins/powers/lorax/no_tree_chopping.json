@@ -1,6 +1,7 @@
 {
     "name": "Лесопосадка",
     "description": "Нельзя ломать деревья листьями. Вы можете сломать дерево только без листьев вокруг него.",
+    "loading_priority": 10,
     "type": "origins:modify_break_speed",
     "block_condition": {
         "type": "origins:and",

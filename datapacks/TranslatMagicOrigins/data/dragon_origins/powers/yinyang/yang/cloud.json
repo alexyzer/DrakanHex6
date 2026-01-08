@@ -175,7 +175,6 @@
         }
     },
     "team": {
-        "loading_priority": 8,
         "type": "origins:action_on_callback",
         "entity_action_chosen": {
             "type": "origins:and",
@@ -360,6 +359,7 @@
             "sprite": "origins:textures/gui/badge/active.png"
         }
     ],
+    "loading_priority": 10,
     "name": "Темная Материя",
     "description": "Вы можете превратить себя в темную энергию с помощью вторичной энергии, но оставаться в этой форме долго нестабильно, и ее можно активировать только тогда, когда вокруг вас достаточно тьмы."
 }

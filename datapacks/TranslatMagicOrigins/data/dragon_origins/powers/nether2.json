@@ -1,6 +1,7 @@
 {
     "name": "Не влажный",
     "description": "Вы начинаете гореть в преисподней.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:biome",
         "biomes": [

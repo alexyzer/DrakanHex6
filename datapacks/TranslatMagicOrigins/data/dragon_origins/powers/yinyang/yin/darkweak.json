@@ -1,6 +1,7 @@
 {
     "name": "Мрачная слабость",
     "description": "Ночью ты становишься слабым.",
+    "loading_priority": 10,
     "condition": {
         "inverted": true,
         "type": "origins:brightness",

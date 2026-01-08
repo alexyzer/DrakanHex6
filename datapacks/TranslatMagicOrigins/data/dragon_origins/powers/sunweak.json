@@ -1,5 +1,6 @@
 {
     "name": "Запретный свет",
+    "loading_priority": 10,
     "description": "Солнечный свет ослабляет мышцы.",
     "condition": {
         "type": "origins:exposed_to_sun"

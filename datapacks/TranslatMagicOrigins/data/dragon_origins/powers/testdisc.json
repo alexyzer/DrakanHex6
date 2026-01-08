@@ -1,6 +1,7 @@
 {
     "type": "origins:active_self",
     "name": "Теневой плащ",
+    "loading_priority": 10,
     "description": "Проникните в тени, чтобы стать невидимым, но помните, что это длится недолго.",
     "key": {
         "key": "key.sneak"

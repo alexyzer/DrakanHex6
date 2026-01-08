@@ -1,6 +1,7 @@
 {
     "name": "Таинственный",
     "description": "Вы очень загадочны, что заставляет железных големов и жителей деревни думать, что вы представляете угрозу.",
+    "loading_priority": 10,
     "type": "origins:multiple",
     "illager": {
         "type": "origins:entity_group",

@@ -1,5 +1,6 @@
 {
     "type": "origins:no_shield",
+    "loading_priority": 10,
     "name": "Тяжелый щит",
     "description": "Ты слишком мал, чтобы держать щит."
 }

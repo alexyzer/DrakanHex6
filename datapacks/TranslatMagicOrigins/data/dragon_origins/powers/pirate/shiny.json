@@ -1,6 +1,7 @@
 {
     "name": "Материалист",
     "description": "Мне нравится ощущение золота, ты не можешь носить ничего другого.",
+    "loading_priority": 10,
     "type": "origins:restrict_armor",
     "head": {
         "inverted": true,

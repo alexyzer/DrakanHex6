@@ -2,6 +2,7 @@
     "type": "origins:stacking_status_effect",
     "name": "Темные силы",
     "description": "Ночью ты становишься сильнее.",
+    "loading_priority": 10,
     "min_stacks": 0,
     "max_stacks": 2,
     "duration_per_stack": 20,

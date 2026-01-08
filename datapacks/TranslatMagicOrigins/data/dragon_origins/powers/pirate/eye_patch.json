@@ -1,6 +1,7 @@
 {
     "name": "Повязка на глазу",
     "description": "Ты надел повязку на глаз, чтобы адаптироваться к темноте.",
+    "loading_priority": 10,
     "type": "origins:toggle_night_vision",
     "active_by_default": true,
     "strength": 1

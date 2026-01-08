@@ -1,6 +1,7 @@
 {
     "name": "Растительный материал",
     "description": "Ваша одежда сделана из растений, поэтому вы уязвимы для огня.",
+    "loading_priority": 10,
     "type": "origins:modify_damage_taken",
     "modifier": {
         "name": "More fire damage taken",

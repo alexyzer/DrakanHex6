@@ -1,6 +1,7 @@
 {
     "name": "Линька",
     "description": "Соберите всю свою мертвую кожу.",
+    "loading_priority": 10,
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:execute_command",

@@ -3,6 +3,7 @@
     "hidden": false,
     "name": "Исцеляющая аура",
     "description": "Сделайте существ вокруг вас сильнее, вернув им полное здоровье.",
+    "loading_priority": 10,
     "badges": [
         {
             "type": "origins:keybind",

@@ -1,5 +1,6 @@
 {
     "name": "Нежить",
+    "loading_priority": 10,
     "description": "Вы — представитель нежити, поэтому вы уязвимы к некоторым специфическим зачарованиям и зельям нежити.",
     "type": "origins:entity_group",
     "group": "undead"

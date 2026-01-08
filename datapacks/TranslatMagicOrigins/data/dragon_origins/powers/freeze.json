@@ -1,6 +1,7 @@
 {
     "name": "Холодный",
     "description": "Когда вы находитесь в холодном биоме, вы начинаете замерзать.",
+    "loading_priority": 10,
     "type": "origins:freeze",
     "condition": {
         "type": "origins:biome",

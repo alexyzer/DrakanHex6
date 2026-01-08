@@ -1,7 +1,7 @@
 {
     "name": "Кровь шахтера",
     "description": "Дает Ускорение 3, когда вы полностью исцелены.",
-    "loading_priority": 2,
+    "loading_priority": 10,
     "condition": {
         "type": "origins:health",
         "comparison": ">=",

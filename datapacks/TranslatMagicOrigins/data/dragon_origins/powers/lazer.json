@@ -1,5 +1,6 @@
 {
     "type": "origins:fire_power",
+    "loading_priority": 10,
     "name": "Снаряд Лазер",
     "description": "Выстрелите лазером с временем восстановления 10 секунд.",
     "entity_type": "minecraft_arrow",

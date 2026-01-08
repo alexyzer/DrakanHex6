@@ -1,5 +1,6 @@
 {
     "name": "Увядание",
+    "loading_priority": 10,
     "description": "Вы освоили искусство иссушения, поскольку стали едины с иссушащими скелетами.",
     "condition": {
         "type": "origins:equipped_item",

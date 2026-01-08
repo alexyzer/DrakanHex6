@@ -1,7 +1,7 @@
 {
     "name": "Огромный",
     "description": "Вы крупнее обычных людей.",
-    "loading_priority": 8,
+    "loading_priority": 10,
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
         "type": "origins:and",

@@ -1,5 +1,6 @@
 {
     "name": "Ускорение",
+    "loading_priority": 10,
     "description": "Каждые 30 секунд после окончания перезарядки вы можете активировать ускорение, которое длится 3 минуты.",
     "type": "origins:active_self",
     "entity_action": {

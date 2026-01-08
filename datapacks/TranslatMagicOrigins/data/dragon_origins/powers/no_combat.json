@@ -2,6 +2,7 @@
     "type": "origins:active_self",
     "name": "Зона без боевых действий",
     "description": "Вы можете остановить весь урон в радиусе 30 блоков на 2 минуты.",
+    "loading_priority": 10,
     "cooldown": 600,
     "entity_action": {
         "type": "origins:and",

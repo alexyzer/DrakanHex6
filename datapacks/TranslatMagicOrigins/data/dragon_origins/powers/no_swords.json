@@ -1,6 +1,7 @@
 {
     "description": "Боги не хотят, чтобы вы убивали кого-либо, поэтому острота лезвия — смертный грех.",
     "name": "Острота — грех.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:enchantment",
         "enchantment": "sharpness",

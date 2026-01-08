@@ -1,5 +1,6 @@
 {
     "name": "Семья",
+    "loading_priority": 10,
     "description": "Вы в шутку сражаетесь со своими друзьями-зомби, зомби даже обнимают вас.",
     "type": "origins:modify_damage_taken",
     "damage_condition": {

@@ -1,6 +1,7 @@
 {
     "name": "Один с монстрами",
     "description": "Поскольку вы живете под властью монстров, вы стали невосприимчивы к некоторым эффектам.",
+    "loading_priority": 10,
     "type": "origins:effect_immunity",
     "effects": [
         "minecraft:wither",

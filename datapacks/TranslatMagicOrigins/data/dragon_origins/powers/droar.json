@@ -2,6 +2,7 @@
     "type": "origins:active_self",
     "name": "Рев",
     "description": "Вы можете рычать, замораживая врагов на короткое время.",
+    "loading_priority": 10,
     "cooldown": 600,
     "entity_action": {
         "type": "origins:and",

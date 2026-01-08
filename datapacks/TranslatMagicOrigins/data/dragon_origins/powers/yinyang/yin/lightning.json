@@ -1,6 +1,7 @@
 {
     "type": "origins:multiple",
     "hidden": false,
+    "loading_priority": 10,
     "name": "Святой удар",
     "description": "Используйте святой свет, чтобы ослабить и поразить тех, кто противостоит вашей святости.",
     "badges": [

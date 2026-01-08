@@ -1,7 +1,7 @@
 {
     "name": "Крылатый",
     "description": "У тебя на спине маленькие серые крылышки.",
-    "loading_priority": 4,
+    "loading_priority": 10,
     "type": "origins:elytra_flight",
     "texture_location": "minecraft:textures/entity/vex_wings.png",
     "render_elytra": true

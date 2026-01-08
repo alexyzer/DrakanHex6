@@ -1,6 +1,7 @@
 {
     "name": "Един с нежитью",
     "description": "Ты тоже нежить, поэтому солнце — твоя слабость.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:exposed_to_sun"
     },

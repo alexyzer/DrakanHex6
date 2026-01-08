@@ -2,6 +2,7 @@
     "name": "Запас энергии",
     "description": "Каждые 30 секунд вы можете активировать 3-минутный бонус к прыжку после того, как он закончится.",
     "type": "origins:active_self",
+    "loading_priority": 10,
     "entity_action": {
         "type": "origins:apply_effect",
         "effect": {

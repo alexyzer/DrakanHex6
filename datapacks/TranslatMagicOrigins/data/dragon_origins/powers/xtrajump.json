@@ -1,6 +1,7 @@
 {
     "name": "Сильные ноги",
     "description": "Поднимитесь в воздух.",
+    "loading_priority": 10,
     "type": "origins:launch",
     "cooldown": 400,
     "hud_render": {

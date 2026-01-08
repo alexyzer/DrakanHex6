@@ -1,6 +1,7 @@
 {
     "name": "Продвинутый альпинист по деревьям",
     "description": "Вы можете без проблем перемещаться по листьям.",
+    "loading_priority": 10,
     "type": "origins:phasing",
     "block_condition": {
         "type": "origins:and",

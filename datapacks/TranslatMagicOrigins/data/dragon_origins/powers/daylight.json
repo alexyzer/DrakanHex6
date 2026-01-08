@@ -1,6 +1,7 @@
 {
     "name": "Солнечные Лучи",
     "description": "Солнце — смертоносный лазер",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:exposed_to_sun"
     },

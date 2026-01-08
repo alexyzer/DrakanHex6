@@ -1,7 +1,7 @@
 {
     "name": "Гниющее тело",
     "description": "Из-за времени, проведенного в могиле, твоя кожа стала бледной, а разложение ослабило твое тело.",
-    "loading_priority": 0,
+    "loading_priority": 10,
     "type": "origins:attribute",
     "modifier": {
         "attribute": "minecraft:generic.max_health",

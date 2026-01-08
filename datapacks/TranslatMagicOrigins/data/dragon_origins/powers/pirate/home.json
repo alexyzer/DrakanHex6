@@ -1,6 +1,7 @@
 {
     "name": "Даээ корабль",
     "description": "На корабле вы чувствуете себя комфортнее.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:riding",
         "bientity_condition": {

@@ -1,6 +1,7 @@
 {
     "name": "Деревенский отщепенец",
     "description": "Жители деревни и железные големы вас не любят.",
+    "loading_priority": 10,
     "type": "origins:action_over_time",
     "interval": 10,
     "entity_action": {

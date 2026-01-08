@@ -1,6 +1,7 @@
 {
     "name": "Маршмеллоу",
     "description": "Вы получили возможность делать зефир так, как вы его любите, используя 2 сахара.",
+    "loading_priority": 10,
     "type": "origins:modify_crafting",
     "recipe": "minecraft:marshmellow",
     "result": {

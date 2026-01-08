@@ -1,6 +1,7 @@
 {
     "name": "Маленькое существо",
     "description": "Вы меньше обычных людей.",
+    "loading_priority": 10,
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
         "type": "origins:and",

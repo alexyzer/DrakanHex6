@@ -1,6 +1,7 @@
 {
     "name": "Борьба",
     "description": "Прижмите врагов к себе, но вы оба не можете двигаться.",
+    "loading_priority": 10,
     "badges": [
         {
             "type": "origins:keybind",

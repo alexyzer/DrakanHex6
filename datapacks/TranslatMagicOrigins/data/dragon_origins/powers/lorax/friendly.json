@@ -1,6 +1,7 @@
 {
     "name": "Дружелюбный",
     "description": "Вы не можете причинить вред пассивным мобам.",
+    "loading_priority": 10,
     "type": "origins:modify_damage_dealt",
     "target_condition": {
         "type": "origins:or",

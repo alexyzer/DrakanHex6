@@ -1,6 +1,7 @@
 {
     "name": "Смотреть насквозь",
     "description": "Вы более естественно скрыты (во тьме)",
+    "loading_priority": 10,
     "type": "origins:model_color",
     "red": 0.5,
     "green": 0.5,

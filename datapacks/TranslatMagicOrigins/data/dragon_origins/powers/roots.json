@@ -2,6 +2,7 @@
     "type": "origins:active_self",
     "name": "Корни",
     "description": "Используйте силу природы, чтобы задушить ближайших врагов на 5 секунд.",
+    "loading_priority": 10,
     "cooldown": 600,
     "entity_action": {
         "type": "origins:and",

@@ -3,6 +3,7 @@
     "hidden": false,
     "name": "Смешивать",
     "description": "Вы можете скрыться в любой момент, ночь – ваш друг, работайте быстро, ведь она ограничена.",
+    "loading_priority": 10,
     "badges": [
         {
             "type": "origins:keybind",

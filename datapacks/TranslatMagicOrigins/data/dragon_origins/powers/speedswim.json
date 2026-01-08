@@ -1,8 +1,8 @@
 {
     "name": "Быстрый Дварф",
+    "loading_priority": 10,
     "description": "Когда у вас слишком много энергии, вы высвобождаете её из рук.",
     "hidden": true,
-    "loading_priority": 2,
     "conditions": [
         {
             "type": "origins:food_level",

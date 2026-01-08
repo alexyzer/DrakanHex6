@@ -1,5 +1,6 @@
 {
     "type": "origins:fire_immunity",
+    "loading_priority": 10,
     "name": "Металлический корпус",
     "description": "Ваша половина робота позволяет вам быть невосприимчивым к огню."
 }

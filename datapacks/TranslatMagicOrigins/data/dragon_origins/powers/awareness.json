@@ -1,6 +1,7 @@
 {
     "name": "Мистическое осознание",
     "description": "Вы можете обострить свои чувства на короткий период времени.",
+    "loading_priority": 10,
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",

@@ -1,6 +1,7 @@
 {
     "name": "Железные ноги",
     "description": "Ваши сильные ноги позволяют вам не получить урона от падения.",
+    "loading_priority": 10,
     "type": "origins:invulnerability",
     "damage_condition": {
         "type": "origins:name",

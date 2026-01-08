@@ -1,5 +1,6 @@
 {
     "name": "Вербовать",
+    "loading_priority": 10,
     "description": "Нанимайте зомби из мертвых, чтобы они сражались на вашей стороне.",
     "type": "origins:active_self",
     "entity_action": {

@@ -58,6 +58,7 @@
     "type": "origins:multiple",
     "name": "Вкусный",
     "description": "Вы можете съесть бамбук!",
+    "loading_priority": 10,
     "res": {
         "type": "origins:resource",
         "min": 0,

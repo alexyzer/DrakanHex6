@@ -1,6 +1,7 @@
 {
     "name": "Знаменитое оружие",
     "description": "Железные лопаты наносят больший урон.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:equipped_item",
         "equipment_slot": "mainhand",

@@ -1,6 +1,7 @@
 {
     "name": "Нижний воздух",
     "description": "Вы начинаете гореть в преисподней.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:dimension",
         "dimension": "minecraft:the_nether"

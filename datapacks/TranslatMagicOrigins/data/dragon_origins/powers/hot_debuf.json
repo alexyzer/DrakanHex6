@@ -1,6 +1,7 @@
 {
     "name": "Обезвоживание",
     "description": "Когда вы находитесь в жарких биомах, вы начинаете высыхать.",
+    "loading_priority": 10,
     "condition": {
         "type": "origins:biome",
         "condition": {
