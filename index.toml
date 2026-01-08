@@ -1133,8 +1133,8 @@ file = "config/zoomify.json"
 hash = "a498f39b73d4e4107650cff8749f05dae8edab089f455bf882d27dda0311442d"
 
 [[files]]
-file = "datapacks/DrakanHexOriginTweak/data/dragon_origins/origins/magic_fly.json"
-hash = "493ad97055684ce7b4dbbaa3718140448faba3c84f5db2a823e67aa4b760fdb7"
+file = "datapacks/DrakanHexOriginTweak/data/dragon_origins/origins/mimic.json"
+hash = "d4f7f62e98a6b20a6db19ef10f1136df5810531e252ee62857271db9aef73076"
 
 [[files]]
 file = "datapacks/DrakanHexOriginTweak/data/origins/tags/ignore_diet.json"
@@ -1147,6 +1147,478 @@ hash = "74824c99b9cdc4098e834ba1f0ba8e36cc206f5e0d46259477f57b550bc1c24b"
 [[files]]
 file = "datapacks/OneironautTweak.zip"
 hash = "9d94f68fb92cf59761b3dadf9af4823067639aef227bb6a829464e76bba248bb"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/cyborg.json"
+hash = "90020edd73cda013841dc2b5a54ec958660be13619ffa8a6b4e50689dce75ae1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/druid.json"
+hash = "1bb6fd68667b36afedcd87dae808f495a50f7ac16a695e6545cbfc09d7fea49e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/green_dragon_origin.json"
+hash = "8805c26d47e5c9eff13c18f42a0da968165dd6b4dea24d6717911896f7ea6586"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/kraken.json"
+hash = "7546f2fa489909f8a2bfe611c588ba397bd995efc2d171ebc11d99b417a52d45"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/lorax.json"
+hash = "50de8046f4de0ebd6bfa948886368e51dc1d22537d1c676913aa9c15fc6e773f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/magic_fly.json"
+hash = "62f2270746d13e78c9a1c273b3c0ac6f9998e8d0840c474a456ee48643e4c4cb"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/mini.json"
+hash = "cf17315ef397ff1e817d1b024055010d84ec03cf69b3dd27e1346ae14cc362be"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/necromancer.json"
+hash = "82281d691e9e78f76ff712ddf7b939fb6a40f5b99862aa67ccdbb69b577237ee"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/panda.json"
+hash = "732ad8b5b9060d618ed2ceb92f181aefc33bf019a7f06e4c29ed5b84d35c36fe"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/pirate.json"
+hash = "e803a0264eb824e81efc06a66c97b986858c4138166bf7a768c4f50b152c2b8f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/red_dragon.json"
+hash = "46ad3b640bbef59d0def5cc8a53020680c1a5438a2994207baca333d67e8dc96"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/undead.json"
+hash = "d65781a3f312c13560c861b4366f2158b5431d508ad340b7c6b1f6096b249e4c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/yang.json"
+hash = "4c46e9101adb48617ed62faee9117beb95acb176c6b38a59659479b9f247e5e8"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/yin.json"
+hash = "948585000c160011dc73d4bc0925ce5fe1077584c9fc64098902a9602234d14e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/6hp.json"
+hash = "bd94b0ff04f561ae163d8f0184802ef78cb729d062dde83f89b9e6caba8ba750"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/awareness.json"
+hash = "ef33453b02d3b80f9749b74a81b066fae9536133a3ed848941a3f3e896940128"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/body.json"
+hash = "6de5d6d7ae8f622201e84012721965bd204a7831ef998b9a7bb13390da8caf89"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/canibalism.json"
+hash = "3d4f4a38b6c0d576c36e82017e1cef80661224f0dbd138312a75911f3e8f8f56"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/cloak.json"
+hash = "6c0f976146b32f45932082a896e67b1c733b66cc504c67a5a42315917532d613"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/daylight.json"
+hash = "0e45b97ba26d16aeb7de3c9468e443e6d7ede3e700944f64469f18ac12accb01"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/double_jump.json"
+hash = "c9113db9be24bbc54fd1d163042af01f341d7183d02632abeac46d467470e18c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/droar.json"
+hash = "31a7449101a8884c53d53cd0d63a94c73b0b31c38f233b4d960172e9c659d293"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/easy_travel.json"
+hash = "2e0f4f1c55161e6da279161be4c752f297f3966317382a301d22d73154c48d92"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/elytra.json"
+hash = "15b529ec1bd3cb6c81c20f5a367d358b81b6db26899da97a9ee5a110a3655e90"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/emerald.json"
+hash = "24214277fdfcc6b1a8e8209af9f283dd6e554bc4f12cb8b421528027c493c0cc"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/emume.json"
+hash = "d87d4a0e101f1a055be8d1552d039970d1aa9347ff08382daddafd01b07dece1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/energy/restore.json"
+hash = "b49fd506cb470973392b5d8355bb27112dd6a61e084957d2a79bfc39e6c435c1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/f_buf.json"
+hash = "a7ab68c4bf367231c19bad42afabfb90276d07a8d1938ad9075f3bc238b6c543"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/fairy_wings.json"
+hash = "bc5cdc4d97c06ff0e1f6199ed83d96ed6d1a55cc4a9695b6b771c23a6b47d2d1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/fall_dam.json"
+hash = "1c865bb265de08db3564e58de87090959887bea9cd726607276804cc5206f203"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/fire_immunity.json"
+hash = "41195305a46d728b206a397146baf2158bb1b3dbec2b0673cae41d7a3d320915"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/food.json"
+hash = "a460aad453b05ce4367b06bdae8fa3f71e4573488bd2a8b08e826d638a1aaafe"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/freeze.json"
+hash = "642c4f857308b4b71b9175b375734597116eb359dd43f8723d95a200419c681c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/ghostsprint.json"
+hash = "38bdf8dea6867717e07fdc5ebefdcdf74af68e670228bcedccfa31d0cd1f88b1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/gloom.json"
+hash = "52f1dd675fb9bad8e5a42fd835d60efbb40eb6ae9afe9fd92b7d2d6eb89ed945"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/good_neighboer.json"
+hash = "ac54a6d7bc38c19e12bf40d7613cd8b0bbf6d77220ef714e5d1357acd3539549"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/green.json"
+hash = "7f6b4410247b58ee739adce1a210e5fb4856cda4b19a325f43db5744d235c06d"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/green2.json"
+hash = "49bc54d187fd172eb3cd3af8ed2e0a899e79159e9a1eb24ebccc3ef817354be5"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/haste.json"
+hash = "947a084c51342ee484c3a3c1d77b66baba9f49da925a6ab73adf5f9b420bded9"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/heal.json"
+hash = "9144a8344a17ff59c4592c23b49642f26dfc10369c16e11a58ec058bcaede5c1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/heal2.json"
+hash = "d7fa1323e316922c1999490e1401230e544d322c695db6ccd69d8665bda409bd"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/hot_debuf.json"
+hash = "7a47d886d1e492d63bec6e0cf8a6eb77b7af409f3d819e69fba53fcb75f5be61"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/hunger.json"
+hash = "600cbd9a88ceb063a53f9baea14e5afc068bf77e01c46f038cc212036fd432d7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/iron_anger.json"
+hash = "4f367e5be975feb21d0022a6491bddaa8e9ee86cb1f32a03662dbc8bd5496ac0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/iron_golem.json"
+hash = "051020f803eed2b1445c6ec8804fc18c38fbfea04e78217f8ef21ed7ea87dde1"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/jump_boost.json"
+hash = "bda8837d7f4eb48ebd18de18381ddabe685bca1e4808e28dcc8a7100f4c44d62"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/kraken/bigger_kraken.json"
+hash = "c428c8b3c2ce3698430ab549cd987a0863ba7883714870db6464f62dd3c26a7d"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/kraken/grapple.json"
+hash = "b65fc81e3ceed8c7660afa76a2793dee486ba122dedbc229b22efeb3806f8cc0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/kraken/grappledesc.json"
+hash = "f2c942583a402ad7a01287d6fd33e75ad68ad21229525f41baad44fff1db227e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/kraken/langtest.json"
+hash = "33e97676f7b270f8242f211084b5fbb3a3156573a5892e6a15bdb4fb7037747f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/kraken/tentacles.json"
+hash = "f291c681c8a03418605d6b4ebfdcbcbf62a7d6292a48021638896f9d9e965ee5"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lazer.json"
+hash = "d70367ce00348632ee22da1a275d1a1e489ad7f9c99c5f65a056383ce3f6b85a"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/less_hp.json"
+hash = "6e6c934e2d659cc1a2085187ae0b9c1c8ccdfd9b8fba7466d69d11ddab6d6668"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lorax/friendly.json"
+hash = "2af0f481245c889772045c413dc164152e77c7f78b9d32005ff1061d11684cdc"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lorax/marshmellow.json"
+hash = "0f82beec9c65975f0c0417aebf89914375dfb79f41ab49161338532c08fa3b23"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lorax/no_tree_chopping.json"
+hash = "5b64e99b0a5e1c5c21f8d210acb65ab47adb61e40912217fa4ce5e49cd152a95"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lorax/phase.json"
+hash = "523d1a91b6ce32a7d1250c8b72a2e01e8efc172d32e6c092f7a32220f9469fc5"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/lorax/size.json"
+hash = "911c8c4a1d7a6101afe3b7c359d8c290dc9fd1216b7562ee342d2e9416f41bf7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/metal_skin.json"
+hash = "00ff41cc5bf85fb7013a12e0817bfbad22f1641a9bf141271556975311ddeb14"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/mysterous.json"
+hash = "6684ea28fc9dbcb377679aaf52624faad7110fd9781154d24c3c525b7b8d96f7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/nether.json"
+hash = "d0f1cf289ff44b6c4c0e44b309eee9bcf986006cbed58c088620448164f155bb"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/nether2.json"
+hash = "09f962c33dfc50613f37270959f6bc895824a1bf2e18b6e1e3fee096178a58b2"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/night_v.json"
+hash = "8b5f5bbef817a1f1c1f0312099432166e887aba0bfffcf503dde5a8b7af95c3c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/no_combat.json"
+hash = "322e2a68ca08fde32c8a8a44b1fc5962dedd508f13db90e31f81b857aae24971"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/no_swords.json"
+hash = "8a3484305192c865ad6affe18fdcf53f3b033394664a92e9f2709394838e6668"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/panda/bamboo.json"
+hash = "b69c9ac878177d8b6fc52f06d6804698d133c3770f2971b51f6ea4e26a9fef42"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/panda/bamboo_edible.json"
+hash = "b69c9ac878177d8b6fc52f06d6804698d133c3770f2971b51f6ea4e26a9fef42"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/panda/food_dis.json"
+hash = "e0985da8c21646fb7b05dbf5d3071bb0396f99c7c1b71c7aa21bac54c3b814a7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/pirate/eye_patch.json"
+hash = "178d253eb9bd89cfab80ab016a57983cf4188ade1670f2f5ca85b59727503931"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/pirate/home.json"
+hash = "ceed060c371fcf031acc2563bda03e77c91eb1daf1483a5c5e11520c5b1f57e3"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/pirate/hook.json"
+hash = "969889cbe53cb9bd548e087c30ca806e627460937413ac29cec38d3990d38478"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/pirate/shiny.json"
+hash = "025512cc9e140ecdb3f22cee1b4c46bc60005d4a44a3212b9ad747f8ff2e6b38"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/pirate/swim_speed.json"
+hash = "efaceced8372bf31503de71f3bc520ee393781c3a87e6c723c3a244989a5650e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/plant_v.json"
+hash = "ae0ebd4056c13eb401c7271cba828f6d605dea7a9559f2c49042328f042b7aa3"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/rage/rage.json"
+hash = "e0465ce020a088eeb1db295c88c2e7163064c88f0c35884a464a1698fc48c81f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/regen.json"
+hash = "289ce76d346cab21c15b7cb610b87dac06fc67944e42e18f4d73965c2cfdc74e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/roots.json"
+hash = "3a9842b569962c24181d53664c121d8fd126e739f4489303ad7d8a7812edb5f7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/shield.json"
+hash = "4b37f0d5f6bdfd2dc44a3e70552bad6c0c74b7614c72fafabc89ea430682cc63"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/shovel.json"
+hash = "4cff8a4b90c53c5852ef765b84badce1dac9637e9999077b9b7ba7d6768d915f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/size.json"
+hash = "8cab623328e6c97af2eb61cf0eab255d9432e1d79688eeab60b8f2004ecd19c8"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/size2.json"
+hash = "c8a5c5d3e13d905c8110309afce91c61ee3a065a87d40ba77998598a2f466e71"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/size3.json"
+hash = "ddb589c6446ee2a128b2b5bd64f2d707224856490e2c041fac1c666e82819f9a"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/size69.json"
+hash = "3a82a7d4ff6dcaed7acceeb34f5c3e2841f59d9db43d48c2ea1a7c8f6e666e7c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/slow.json"
+hash = "e43e4474eb5ad2988dbf0d15f3116605fe38bfcca5fd1e75b0da7d16f2ddb4b7"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/speed.json"
+hash = "f3bac3b72ff4690684cbcf82039fa80fe57197ac8e434799484102985d58a884"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/speed_boost.json"
+hash = "e38fb2bb1e582d6012b3b261a5e944469b60c11da809378e0ed49896020ff21e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/speedswim.json"
+hash = "174e05f2b1cb1a8624308782358f387174ee335a159ba5e5b12910ac859da837"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/spillage.json"
+hash = "a3c8ead35fe1aa471351a4ba96dc81ddc2164c2c89bc650f14573992b012691f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/stone_sword.json"
+hash = "1cdb44b066bdafcf93754b1dc9f489e83e986e43a2238c64d867f9b3277faa20"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/summon.json"
+hash = "edbc68f5ed0b4ebf4352f400171b0aa10f95fda25d4fe6b08b496af75663a4f5"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/summon/a_summon.json"
+hash = "80021feadbb3408121db140a9b73587b6eae38928e591344553b35dd2b83b8c8"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/sunweak.json"
+hash = "7af4d04aab206591c3f273dfecd90ad881567f45a5d2e102316eeb96349ed40b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/testdisc.json"
+hash = "2c6931cd78bccd5248719878e6d0ebbc320fb682a37d42ca672dbcd729d1ec99"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/undead.json"
+hash = "cc04a5042562289f65576240dbd703571c720266c04673153cf74a86b6060d3b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/unnerving.json"
+hash = "05b88de0fe7bbb35fafbe06a9dbd1c5b417b2abbff904637c3e61218484a7a03"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/vegie.json"
+hash = "7666a2e624b28e0c3ace7a82f861ab68b248ee30828bb4b87ebff9771e2c748b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/vegie2.json"
+hash = "1a062a814225adb0aecf696e05ee8611e9465dc438f7906080b20c5a9f1ea48b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/vegie3.json"
+hash = "65aac5afe32c6ac09a7dfe0156075f91dc57f2d3f1d60a5b8438059c17be5a1d"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/villager.json"
+hash = "3a3af5f53574aaabb57d6c50beae3a5f4bb594ed3990e194b1a2ce1eedb774f0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/water.json"
+hash = "64d6c75c754e0a42739d07850a62fec3283622f55638751fc7b8154b35dafa60"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/white_teeth.json"
+hash = "24101a4033116d81864a1fed6e7a393347a8f93d602e4ffb2860ce1c5226be8e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/wreckless.json"
+hash = "4b58818a7253491f57b60833c3d1b5cdacc24eb1ba91993be0c152057bbe2f38"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/xtrajump.json"
+hash = "dbe2c715c0d77dc34e8e0557eab1c0c0005b276762c566bbfc5ac0798cebbe99"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/cloud.json"
+hash = "4b5c8820b2d3a827fbd528e2e0bb71cf1db6f12aae8c65ef186dc0dfa9b4429b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/dayweak.json"
+hash = "a23898d703ad594ca292bcfd57b1c47b6252e76805e39982de3354a1044fd004"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/invis_temp.json"
+hash = "63dfe976b08cec6b731a017f8104c44f43b7c36f916d1d2cc5b964c8bc7bc56c"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/nightstr.json"
+hash = "a3a9c1507995d958f7cb5b464fa4f487b9bdc2f3b33d63be7e6fd59e25b6879d"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/posess.json"
+hash = "586783360d46ba51ffe5b3ec6bff80b1b1fd561c0ad0bede10738524f1e48fc0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/transparency1.json"
+hash = "26d34cb8c394164907f7d05a9642e4fe0109a6382e6921d2896b22b7b2619fa0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yang/yintransform.json"
+hash = "5818a4dddf4f0f386cd21fd76a4ae9affa1a233e630821a884a8d12272633612"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yin/darkweak.json"
+hash = "1d2d3839afebc90454ae966cd355ba3183820acd76cb1995344a150c279e2c8f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yin/heal.json"
+hash = "50c50a46ed8aa4345f48ef17092337b7b99095af8f9e4af047b211200f31fe5e"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yin/lightning.json"
+hash = "6b7da24d715308142210e5d2358efece893019e822a4089462433683d8d5e62b"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yin/transparency.json"
+hash = "5c5c355766d6886d102e6aaf799664104f1a2380954c8decec1ec43a28d82a2f"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/yinyang/yin/yangtransform.json"
+hash = "ef3c88680d4f9874b6b43aae547c615bfba7c4e1f7bfb93aa86573940231fbc0"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/zombie.json"
+hash = "f15c2b02da814c5d38a8063ddfa8d25211911bb7daff43fad9a419a9df432239"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/data/dragon_origins/powers/zombies.json"
+hash = "adf8d2fc16a6c82c84e4f71d0eed4253237957f84ffd607a6f1482f280f48f08"
+
+[[files]]
+file = "datapacks/TranslatMagicOrigins/pack.mcmeta"
+hash = "47c311fd8dcedb44482760288f731742828c44d964e3ffe4bbe18619ba39515b"
 
 [[files]]
 file = "kubejs/server_scripts/phial_merge.js"
