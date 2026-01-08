@@ -1,6 +1,6 @@
 {
     "name": "Янь",
-    "description": "Превратиться в Янь.",
+    "description": "Перевоплотится в Янь",
     "loading_priority": 10,
     "type": "origins:active_self",
     "entity_action": {
