@@ -1,7 +1,7 @@
 {
   "pingVolume": 100,
   "pingDuration": 7,
-  "pingDistance": 2048,
+  "pingDistance": 32,
   "correctionPeriod": 1.0,
   "itemIconVisible": true,
   "directionIndicatorVisible": true,
@@ -9,7 +9,9 @@
   "teamColorMode": "FULL",
   "pingSize": 100,
   "channel": "",
-  "serverChannels": {},
+  "serverChannels": {
+    "213.152.43.53:25753": ""
+  },
   "removeRadius": 10,
   "raycastDistance": 1024,
   "safeZoneLeft": 5,
