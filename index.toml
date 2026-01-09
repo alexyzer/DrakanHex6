@@ -810,7 +810,7 @@ hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
 [[files]]
 file = "config/pingwheel.json"
-hash = "6ec876dc7a1ae1b4d18e0d6bec7a0205e5f8799aa4b49c63a54f7b6d1a741e1e"
+hash = "2ad1bdd1e4ab237ea5e36fc49b76c2c37b697687f07d358760436d350113cc61"
 
 [[files]]
 file = "config/pingwheel.server.json"
@@ -1890,10 +1890,6 @@ file = "mods/better-end-4.0.11.jar"
 hash = "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420"
 
 [[files]]
-file = "mods/borderless-mining-1.1.8+1.20.1.jar"
-hash = "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a"
-
-[[files]]
 file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
 hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
 
@@ -1972,6 +1968,11 @@ hash = "552b39dee2cc8b0a92b0336d123e01862c856c709ddf6930b9d20a8837146aa4"
 [[files]]
 file = "mods/createoreexcavation-fabric-1.20-1.5.4.jar"
 hash = "261a4243cc599a444a34755fd120000ee9c8d5f8107e195a735a2df8437b711c"
+
+[[files]]
+file = "mods/cwb.pw.toml"
+hash = "7634447463f9781b39c6cc51f83c964cccc1964f331e8117a33ae1dd6b481f77"
+metafile = true
 
 [[files]]
 file = "mods/defaultoptions-fabric-1.20.1-18.0.4.jar"
