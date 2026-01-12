@@ -1,0 +1,14 @@
+name = "litematica"
+filename = "litematica-fabric-1.20.1-0.15.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/1ZTpW1lr/litematica-fabric-1.20.1-0.15.4.jar"
+hash-format = "sha1"
+hash = "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
+
+[option]
+optional = true
+default = false
+description = "Клиентский схематический мод с дополнительными функциями для работы в творческом режиме"
+
