@@ -2223,8 +2223,8 @@ file = "mods/language-reload-1.7.5+1.20.1.jar"
 hash = "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332"
 
 [[files]]
-file = "mods/lapisworks-1.5.8-ee28cc.jar"
-hash = "6aa9c0b3c2ebed5d1a7cad57bf6ced49289f046bae48302c0f19ac9dd163a3f6"
+file = "mods/lapisworks-1.5.8-c0b77e7.jar"
+hash = "5a5f0fb951e9923b73933078dce7770383b1c0d727a1a6993f3c434eba65e409"
 
 [[files]]
 file = "mods/litematica.pw.toml"
