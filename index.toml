@@ -2440,10 +2440,6 @@ file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
-file = "resourcepacks/RussiaDrakanHex.zip"
-hash = "0d909c282f2658e1825b182d979c5d806b6bf994542678bb1d435bf2fb0f80e6"
-
-[[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/ae2-emi-crafting/lang/ru_ru.json"
 hash = "ee0fcb15c6e5f5e25bd10acf31b2cab197d6c12a75234706f7ce795a5cc29273"
 
@@ -3730,10 +3726,6 @@ hash = "6bffe2bebd0c09881e7e5c0c603f55e963091ba4334379508510aebfd9a479a2"
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/oneironaut/lang/ru_ru.json"
 hash = "0c8e1562290ba90de97b26b19baa4220a5d0d73a9b2441a6fd748bf212985a3d"
-
-[[files]]
-file = "resourcepacks/RussiaDrakanHex/assets/openpartiesandclaims/lang/ru_ru.json"
-hash = "3b84797de6ba262c6028e69857dcb004f8ab6446d49ef5f833845f7f77231112"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/overevaluate/lang/ru_ru.json"
