@@ -1149,6 +1149,18 @@ file = "datapacks/OneironautTweak.zip"
 hash = "9d94f68fb92cf59761b3dadf9af4823067639aef227bb6a829464e76bba248bb"
 
 [[files]]
+file = "datapacks/SupplementariesTweak/data/minecraft/tags/items/music_discs.json"
+hash = "4089f35149896ab24c934ddb68fccf7c4e23b6c621298d70485c6a9d7009739a"
+
+[[files]]
+file = "datapacks/SupplementariesTweak/data/supplementaries/worldgen/placed_feature/cave_urns.json"
+hash = "9a820de7e0c81d6c8a77b3a646e9cf6fddd420adb5011abbfbd6d224c72a910a"
+
+[[files]]
+file = "datapacks/SupplementariesTweak/pack.mcmeta"
+hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
+
+[[files]]
 file = "datapacks/TranslatMagicOrigins/data/dragon_origins/origins/cyborg.json"
 hash = "90020edd73cda013841dc2b5a54ec958660be13619ffa8a6b4e50689dce75ae1"
 
@@ -2390,6 +2402,10 @@ hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
 [[files]]
 file = "mods/spectrum-1.8.11.jar"
 hash = "37173f99cad4dc7c6de8142b8da3cf7b35d49528bd3c1f6bd3d008ddcd6d3891"
+
+[[files]]
+file = "mods/supplementaries-1.20-3.1.42-fabric.jar"
+hash = "cae13cdcfc8f9b6fa2eb1f073fb6de8b4ff9271b29c1677f91f98d77fc0dd8e7"
 
 [[files]]
 file = "mods/timeoutout-1.0.3+1.19.1.jar"

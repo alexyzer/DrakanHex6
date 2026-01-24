@@ -1,0 +1,9 @@
+{
+  "feature": "supplementaries:cave_urns",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 0
+    }
+  ]
+}
