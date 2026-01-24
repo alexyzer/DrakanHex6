@@ -945,6 +945,10 @@ file = "config/stackdeobf.json"
 hash = "4c3767687d63be299e6cf1ed4b1955e5cd42c7b5a7cfc1c4a0fdeb73ab2c7660"
 
 [[files]]
+file = "config/supplementaries-client.json"
+hash = "d48a42250edf2354d929d00c657e6002c883180698f1a737d187169125999df6"
+
+[[files]]
 file = "config/timeoutout.json"
 hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
 
