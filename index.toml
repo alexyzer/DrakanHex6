@@ -3549,7 +3549,7 @@ hash = "85bf0ad83c6727c4fc167d5604f2ae3d8f84bfdc32c7dfd59fbf9e5b7c065d5f"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/ae2/lang/ru_ru.json"
-hash = "b13e0de520b37b1d1faa711c431bc676d244f084b0646db8fa0c98fe6d78ba27"
+hash = "fb26a6fcdbc425bd17f2bce74b441c8291c4aa1b1c0b0f2db55a3bb283ee3e35"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/amethystgravity/lang/ru_ru.json"
@@ -3618,6 +3618,118 @@ hash = "08c7369e4f80f791b0031a3eada0e6abdbfd4fa35f32af3732196e79082754fd"
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/expanded_ecosphere/lang/ru_ru.json"
 hash = "cdb0570b1036be6c255a1e1a7a476f7077ed90293013fea0548645aacdcbec42"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/active_formation_plane.md"
+hash = "e48f45513f01e205ff5be4117592d6c1651f7883eadaf5196e4a60ddf6dc81fa"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/caner.md"
+hash = "23e24967f98f2f0c00eaf79de552a0fbe23588e4a33c28e0a30fbdb7f8a9083a"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/crystal_fixer.md"
+hash = "058e1faafa6faff86ecea445806a5d013e31bf57bf6881f4295aa7a67b47c90b"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/epp_intro-index.md"
+hash = "2a4fa75179b3ee3ae825c7b9f79c1dc89af21fbf3b3d0c8a1e4efeb454a5d919"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_charger.md"
+hash = "5845d1ebf38523952b97c77ed76fa8c12290321b4154eec7a416cacd263541e1"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_drive.md"
+hash = "4fc7a2812d864bfba14573b294fe95bd5f1bdbb643d1b3c1dbd795463734df3e"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_inscriber.md"
+hash = "56481d521c02addd2a83860a95e01d5a68d3a0ac5b0bd7f8c00e27ec5e2753c4"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_interface.md"
+hash = "c0e5f9f28e450d6a87cb041492d710eea09805246d5d72812b76594e9c1e6791"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_io_bus.md"
+hash = "de0226765cde6b55afddeb69cefff7c256b9eaaee554278d42ba945a14714288"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_io_port.md"
+hash = "607b0c5c8425138a61974056382f7e9593f2964ff18149753d8c03c74384f0f9"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_modecular_assembler.md"
+hash = "c439107d9af6944a35f34ff5bed5b06598841edcfe29c53a4d3c45172ff339dc"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_pattern_provider.md"
+hash = "d716348f45a6acc7a7512d29c89cdd437bf2d0d8d2d67938114da884c361d68b"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/extended_pattern_terminal.md"
+hash = "93feac2eecab99aeda336c6ccd59357a672a6bf55f70326c199d84d0a3deeb82"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/infinity_cell.md"
+hash = "077001d4f2da17a39468209cc65a99ab02852ffa8b13ac4096a17a28cc940684"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/ingredient_buffer.md"
+hash = "149d51f8105224f10379389a1131e715bde740ab8c72cd55e136d16f0e4ae51f"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/mod_export_bus.md"
+hash = "77f0a96bbf7bef54adb15a6779942a4adef0433da2846d6adc60cc448d57a46b"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/mod_storage_bus.md"
+hash = "ed1ecd6c08743318c54e43095285689b951aecf1e52c3db144b6ebadfc7f9851"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/packing_tape.md"
+hash = "9c6aeced76724c6fe294b47d57fa6a796595a9caf0a7f36dec1969a3d0e1409b"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/pattern_modifier.md"
+hash = "d52758a8454f9608cd4428c86ee7cdebdf37e2d33973ef668c6b0d151e5568d5"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/precise_export_bus.md"
+hash = "24f37a5820bab8644d2046d9d984b631b28f7cad755e73d5b74268f22c9699de"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/precise_storage_bus.md"
+hash = "65f6ba5f997f6e329fa5a6005ab9d3cd427d4b170ce894fcdbdf6d9bb9aba813"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/tag_export_bus.md"
+hash = "d1958bd35a7335d7485e2ef24011a483c51a78dbc0c86d5bc74b0545f67a15ef"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/tag_storage_bus.md"
+hash = "a367480c1568653465d5265ffb35fc8d835c704fea3b231d7fca3d7bad95a6b8"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/threshold_export_bus.md"
+hash = "233b6e1a9a6010fd78be376f9b7efb9db0ee2109a4ae79afec5b7fc91dcf6e52"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/threshold_level_emitter.md"
+hash = "2e4bd1bd9eaaf25ea7ee529b5f8285e8f53e8103f57d09d82bf46de61ef03593"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/upgrade_items.md"
+hash = "51d7fbc1f29766ef2c9d454e0abd73f96d7686752bbe1d52f7bcfd5e38f5d168"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/ae2guide/epp_intro/wireless_connector.md"
+hash = "f4b5e91386f382b72455cb738593e9ac0fef07def840050a825bcc1e75150764"
+
+[[files]]
+file = "resourcepacks/RussiaDrakanHex/assets/extendedae/lang/en_us.json"
+hash = "ad087846436e783f6330a55c7a555dcc7ccfc48ed4aa3c2bf60ee7406828bd73"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/extrabotany/lang/ru_ru.json"
