@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Updata.bat"
+hash = "1dd956b047afa15fbd13e785e027c0a5101a06c945c6be56c880fb8836589335"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "20d209324caef2cf3aa1e7031a2cf7f4ef6622354f4f466893a90d98b39d8e68"
 
