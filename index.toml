@@ -1642,7 +1642,7 @@ hash = "47c311fd8dcedb44482760288f731742828c44d964e3ffe4bbe18619ba39515b"
 
 [[files]]
 file = "kubejs/server_scripts/phial_merge.js"
-hash = "1bb31c7eb00f52d69a99d3e0118210ea6cb47ba55bb5ea8a31f4f15309a407db"
+hash = "35e8d55e15704dabb5202c27e66c4bc6d5626b7161927ac14c70c4978b3fa22d"
 
 [[files]]
 file = "mods/DistantHorizons.pw.toml"
@@ -2091,11 +2091,6 @@ metafile = true
 [[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "5cf2681b47c622932dcf4736a855f98e65a1bf3c18c6613601c62a366855c1b1"
-metafile = true
-
-[[files]]
-file = "mods/hand-over-your-items.pw.toml"
-hash = "9c4612c27ea8f095d05edb78feafb81a5efefdbb441a03ab84b79e1338a7f451"
 metafile = true
 
 [[files]]
