@@ -1894,6 +1894,11 @@ hash = "229a9aafde40a56a08713b97807b6b0f16225c45d517ffc7539d87e4f2bae8a9"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "76aba8d8cc62f325d52613c1b66d17dae77dd1df918b1153fc2bd5fb80b42a27"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b83c21870a5b2092db83f746c1aa926a46d27583e2af6fb36a834bf55a517538"
 metafile = true
