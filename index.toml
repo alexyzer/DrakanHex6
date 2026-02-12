@@ -1923,8 +1923,9 @@ hash = "7db2a836d9ae0a1a437766dec36743da803b6c692d0e0d9a57c2ba5815f63451"
 metafile = true
 
 [[files]]
-file = "mods/display-1.0.2-fabric-1.20.1.jar"
-hash = "eabd0d3d07a59458e8131048d07e861ff0e70f9f74c694e3603cdf81821bc9e4"
+file = "mods/displayed.pw.toml"
+hash = "d96f1a64ecc19bfe4f51e823e4e8990ff32b81194917775d4e73e5780a217016"
+metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
@@ -2032,8 +2033,9 @@ hash = "5bf40d5ac5eaa69816058851918171425939c509fdda567e6239a62665566391"
 metafile = true
 
 [[files]]
-file = "mods/fabrication-3.6.5+1.20.jar"
-hash = "b13cdcf611bbf4bbac9013685b5dd646f4fa1725b4a6c26d78e765147b343481"
+file = "mods/fabrication.pw.toml"
+hash = "e882b283ae9d9126c5ca3c8e19c33297ed07faa34307dd9e6b023b1e19050146"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"

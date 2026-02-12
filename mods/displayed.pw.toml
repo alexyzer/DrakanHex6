@@ -1,0 +1,13 @@
+name = "Displayed"
+filename = "display-1.0.2-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3kGEtzbd/versions/4HvOkh4V/display-1.0.2-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "49867fc0501a3457fd6eadebb560d125c90332ba91b7ca4178425ef2613eae93e29b9ea0f89624303d7666a691ad8ba0ef3dc1a22ce69fc467b0bf0ce0385e6b"
+
+[update]
+[update.modrinth]
+mod-id = "3kGEtzbd"
+version = "4HvOkh4V"
