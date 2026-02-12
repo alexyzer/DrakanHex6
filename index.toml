@@ -2588,6 +2588,11 @@ hash = "42925e25b51ebeb340adf69514d857da94b907f3a38225d23fbfea03d732b771"
 metafile = true
 
 [[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "3f7fa4ab51644df5018ea004be7fccddbb8a1690fa3fee39c70e770c48ff08c5"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "0c1ae1cd0c50b211221f872abcb2fc63300ea0be23cfe6060b37f61694690e0c"
 metafile = true
