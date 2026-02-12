@@ -5,10 +5,6 @@ file = "Updata.bat"
 hash = "1dd956b047afa15fbd13e785e027c0a5101a06c945c6be56c880fb8836589335"
 
 [[files]]
-file = "__pycache__/packwizUtil.cpython-313.pyc"
-hash = "480071f2327a3a8d3b92fe4c652bd0c0abab642dac204ff2a060aaa5e6d01602"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "20d209324caef2cf3aa1e7031a2cf7f4ef6622354f4f466893a90d98b39d8e68"
 
@@ -2645,10 +2641,6 @@ file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
-file = "packwizUtil.py"
-hash = "14fd95e6acdb9fda0b32d7e9cf6811fd457fe55aa6d680f0da8239e4ab57502b"
-
-[[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/ae2-emi-crafting/lang/ru_ru.json"
 hash = "ee0fcb15c6e5f5e25bd10acf31b2cab197d6c12a75234706f7ce795a5cc29273"
 
@@ -4123,7 +4115,3 @@ hash = "387ecc0ed231e9e36111237e6c9630dc838a846b09d25db9ae1b10ce7f773172"
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
 hash = "96505b3d8dc58bfd96e55728f8f674ecabe992e0deffe02ae0274186a86c1858"
-
-[[files]]
-file = "Конвертировать моды в pw.toml.py"
-hash = "813adbb31a5f41e289e691cad50eddab5c6201c0406fe2f7b83b339ea5a73905"
