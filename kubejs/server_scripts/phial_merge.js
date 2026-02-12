@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
 	event.shapeless("hexcasting:battery", [Item.of("hexcasting:battery"), Item.of("hexcasting:battery")]).modifyResult((grid, result) => {
-		let phials = grid.findAll(Item.of("hexcasting:battery").ignoreNBT())
+		let phials = grid.findAll(Item.of("hexcasting:battery"))
 		let media = 0
 		let nbt
 		phials.forEach(phial => {
