@@ -1,0 +1,8 @@
+name = "applied-botanics"
+filename = "applied-botanics-fabric-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/7eH0ddTk/applied-botanics-fabric-1.5.1.jar"
+hash-format = "sha1"
+hash = "a9d0e8c678c043f40683004bf63ea9c13a391c71"

@@ -1,0 +1,8 @@
+name = "hexflow"
+filename = "hexFlow-fabric-1.20.1-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/dR9e6M1j/hexFlow-fabric-1.20.1-0.3.3.jar"
+hash-format = "sha1"
+hash = "d3012087d5efb91313633b89f16c132c8e96a1e0"

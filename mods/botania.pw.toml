@@ -1,0 +1,8 @@
+name = "botania"
+filename = "Botania-1.20.1-450-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/X2tY0LhB/Botania-1.20.1-450-FABRIC.jar"
+hash-format = "sha1"
+hash = "6b183bae0505df3fed36298381a29aa814542af9"

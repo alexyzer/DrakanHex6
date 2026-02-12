@@ -1,0 +1,8 @@
+name = "wax-item-frames"
+filename = "wax-item-frames-1.20.4-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3bCeNMwK/versions/EjsMjdpH/wax-item-frames-1.20.4-1.1.1.jar"
+hash-format = "sha1"
+hash = "92c7fde7c5ed0f51b945d5c789ebbf1629fe8439"

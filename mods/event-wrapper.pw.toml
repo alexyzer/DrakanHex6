@@ -1,0 +1,8 @@
+name = "event-wrapper"
+filename = "eventwrapper-fabric-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k7JPYdTv/versions/BBPvazDb/eventwrapper-fabric-1.20.1-1.1.4.jar"
+hash-format = "sha1"
+hash = "5f711aa04b9e6ec580d0760ac5388ccb047c2e64"

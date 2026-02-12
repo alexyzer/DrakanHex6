@@ -1,0 +1,8 @@
+name = "ae2"
+filename = "appliedenergistics2-fabric-15.4.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/kA3rm9EP/appliedenergistics2-fabric-15.4.10.jar"
+hash-format = "sha1"
+hash = "c8e746a11c4a658457b61e54d7da9f749b3ae03c"

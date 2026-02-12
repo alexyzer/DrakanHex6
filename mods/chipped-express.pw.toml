@@ -1,0 +1,8 @@
+name = "chipped-express"
+filename = "ChippedExpress-universal-20x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQIcJONI/versions/afYSWdXF/ChippedExpress-universal-20x.jar"
+hash-format = "sha1"
+hash = "47fd0dc3aff5b5069e657629646541c688383bc0"

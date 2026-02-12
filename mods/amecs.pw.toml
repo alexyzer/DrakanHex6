@@ -1,0 +1,8 @@
+name = "amecs"
+filename = "amecs-1.4.0+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/9BRqBVZY/amecs-1.4.0%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "280438262f0563e89f5d338f9aea118bb2fac60f"

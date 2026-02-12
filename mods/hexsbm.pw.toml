@@ -1,0 +1,8 @@
+name = "hexsbm"
+filename = "hexsbm-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/807KD9aL/versions/hQdAvcDE/hexsbm-0.1.1.jar"
+hash-format = "sha1"
+hash = "3f225b75383dbea23e1f17d90614b0382c76ee4d"
