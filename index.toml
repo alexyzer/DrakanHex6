@@ -1824,11 +1824,6 @@ file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
 hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
 
 [[files]]
-file = "mods/Starlight.pw.toml"
-hash = "daeaf971b77b9f9af25a1cfdde9a7fbf086d27b429a2ed0e04ead1c96a04a8d6"
-metafile = true
-
-[[files]]
 file = "mods/Watson.pw.toml"
 hash = "96df40e6e7a43f7021fad1922674ba7ad26f624f277fe20edfa20f583b1917f5"
 metafile = true
@@ -3769,7 +3764,7 @@ hash = "de143cbc411564aa3340784e11fe2fffe25df1d3d7c56f5227dc18665d8941fc"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/hex_machina/lang/ru_ru.json"
-hash = "48198885c29c238488cfabc7799eebf4bc208a67b8c3d36390fb3674e5cbda40"
+hash = "4603660799f89ca5cf756da8aa6abaf5dc71ea6299ada1329cc7262f407e129e"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/hexal/lang/ru_ru.json"
