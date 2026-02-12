@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/nrikgvxm/versions/cGaEo5dv/particlerain-4.0.0-beta.3%2B1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "39e6421c02d65aa2509fa255f272de728df5eb74"
+
+[option]
+optional = true
+default = false
+description = "Делает погодные явления более красивыми, изменяя их на динамические частицы.\nМожет вызывать вылеты в пустынях."

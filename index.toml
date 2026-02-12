@@ -1779,6 +1779,11 @@ hash = "79e49d88a0a2cef3fe7197b1b413ae63a9373741192f555632fa6ca955ebe618"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "406f65aae2d8b5cae536b659ead195651ba9fab0feba3e961d8199ce84fc551f"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "1a9a1154e78f7a916cf3e6d40b55eaa7f056ca677b2833dcf292894f1d5f7cd3"
 metafile = true
@@ -2429,7 +2434,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "b3280f5ec05681c1ed33bad35ec7ed23b0b9e87eb727588a6ee8b8e5efbd6f82"
+hash = "6d7ca245e5e107e26d436b96a5f077a76968b345b62737f151cb50985f7d9847"
 metafile = true
 
 [[files]]
