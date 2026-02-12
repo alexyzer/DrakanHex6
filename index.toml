@@ -1680,11 +1680,6 @@ hash = "d53581a359d2e434d155187f805139a64aef75ac5fc6141f39985d39a246a91a"
 metafile = true
 
 [[files]]
-file = "mods/Watson.pw.toml"
-hash = "96df40e6e7a43f7021fad1922674ba7ad26f624f277fe20edfa20f583b1917f5"
-metafile = true
-
-[[files]]
 file = "mods/absorption-fix.pw.toml"
 hash = "e6c5e1b6cdec176e10a928cab76089a619fa18215fc7ee439eb045b603565c5a"
 metafile = true
