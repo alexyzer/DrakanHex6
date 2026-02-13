@@ -1904,6 +1904,11 @@ hash = "b83c21870a5b2092db83f746c1aa926a46d27583e2af6fb36a834bf55a517538"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "dad8bf88666aaceb20c1aaf4ef3c78c7d750effc1bf3c8bdb7d0fda083db1398"
+metafile = true
+
+[[files]]
 file = "mods/cwb.pw.toml"
 hash = "7634447463f9781b39c6cc51f83c964cccc1964f331e8117a33ae1dd6b481f77"
 metafile = true
@@ -2425,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "2152283e8b45ed446848551365ec209c06bf8bc05aefb604cfa889f951183eb3"
+hash = "4fafd70dead8fb72addc05e6634c58247df66cca4cf956a52e27584635616aff"
 metafile = true
 
 [[files]]
