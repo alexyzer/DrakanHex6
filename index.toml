@@ -2420,8 +2420,8 @@ hash = "a92b11cbb6d96b7912974f22793d3d4bb001c2b3e46056e0d63c564cd4e8ac58"
 metafile = true
 
 [[files]]
-file = "mods/overevaluate-1.0.0-c5e4087.jar"
-hash = "bfc7c65526568b1abdd62e9a385019041d37a1ee9d33d4f12a121f0d4c21457e"
+file = "mods/overevaluate-1.0.0-dec128.jar"
+hash = "ca08e208c1aa615bfaaf0eed0eee1cf9f1e94a4db4e41829d89b0eadce60adf2"
 
 [[files]]
 file = "mods/particle-core.pw.toml"
