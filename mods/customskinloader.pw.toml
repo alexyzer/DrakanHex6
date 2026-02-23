@@ -14,5 +14,5 @@ version = "Fsrt5ueW"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Система пиратских скинов через ely.by\n"

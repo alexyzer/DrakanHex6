@@ -1884,11 +1884,6 @@ hash = "8e9ff94f8a5f13dbd367c9b38f205ad7a132900887df854ee10f264b6b9c2787"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "9af957851e4779d4844c090b8af12d267ac71683bb6be0041890407f076c2909"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "229a9aafde40a56a08713b97807b6b0f16225c45d517ffc7539d87e4f2bae8a9"
 metafile = true
@@ -1905,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "dad8bf88666aaceb20c1aaf4ef3c78c7d750effc1bf3c8bdb7d0fda083db1398"
+hash = "a5bcd4ebfd905cd09551d500526793cec800d7952512cfdc6da69f05ebbc5ba6"
 metafile = true
 
 [[files]]
