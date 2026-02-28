@@ -1,1 +1,2 @@
+cd pack
 packwiz refresh

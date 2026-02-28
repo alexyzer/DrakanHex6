@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Updata.bat"
-hash = "1dd956b047afa15fbd13e785e027c0a5101a06c945c6be56c880fb8836589335"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "20d209324caef2cf3aa1e7031a2cf7f4ef6622354f4f466893a90d98b39d8e68"
 
@@ -31,6 +27,10 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/Revelationary.json"
@@ -2644,14 +2644,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "62da730d31d934409f88faf8613b3f37056237740dbb44c0b8be5ef8d243609c"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "resourcepacks/RussiaDrakanHex/assets/ae2-emi-crafting/lang/ru_ru.json"

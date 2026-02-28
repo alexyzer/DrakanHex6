@@ -1,12 +1,12 @@
-name = "DrakanHex"
-author = "alexyzer"
-version = "1.4.2"
+name = "DrakanHex6"
+author = "DrakanHex"
+version = "6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8654759f49b448a03de9683de212ecb577868a48c9625c17087ccbc94d9d8617"
+hash = "dd7a9a5897e4750d50f9eae321b23d1eadb9e49c6acde951a2451d5fc791f319"
 
 [versions]
 fabric = "0.18.4"
