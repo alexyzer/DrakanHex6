@@ -1655,11 +1655,6 @@ hash = "8485b3e4ad6f18003434114c59b0dd09ed1de8054c850132592f029daf9b003c"
 metafile = true
 
 [[files]]
-file = "mods/Iris.pw.toml"
-hash = "56433bcd687f8d5fc3c14603e729f7a026f3a31f7d6c60b54bdb8b5c0bfe6324"
-metafile = true
-
-[[files]]
 file = "mods/Observable.pw.toml"
 hash = "a4ddff872766a1410db1e16f787934f3e7f9690acb3b50f989a66eb88d75f465"
 metafile = true
@@ -2227,6 +2222,10 @@ hash = "7ab0447cb32d5f8bc9d84146b5ca87c3b297f0decf5355d96da1068123ae3af9"
 metafile = true
 
 [[files]]
+file = "mods/iris-1.7.6+mc1.20.1.jar"
+hash = "44d72080846db8b323c452d5beafc351141f21e9a63f3b8793ddd81eee67647e"
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "f52e23fabc4f75a16d46381f9c30c2cfd5f0e4193ced77a80cecae47898cbc1a"
 metafile = true
@@ -2533,9 +2532,8 @@ hash = "4a35161a7b5f85d87fe7905ada80ea9491c8bbd83702488d89de6077d0783349"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "f5b99d39edbbf9eda51876718f3efb98b8937297d7f77b90f0fa08b0b4f7e613"
-metafile = true
+file = "mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+hash = "0ffaba59f7217222b011df932b2663924a7b2537350bb99f0aaefa6390d545a0"
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
