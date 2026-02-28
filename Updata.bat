@@ -1,1 +1,0 @@
-java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/alexyzer/DrakanHex6/client/pack.toml -bootstrap-no-update

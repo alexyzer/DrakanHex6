@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a9f48b5-23d2-4b28-b404-2ff018cca117" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Updata.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/absorption-fix.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/ae2-emi-crafting.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/ae2-mousetweaks-fix.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/amecs.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/amethyst-gravity-reattracted.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/appleskin.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/applied-botanics.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/applied-energistics-2-wireless-terminals.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/appspec.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/architectury-api.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/armor-statues.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/athena-ctm.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/auth-me.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/balm.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/bclib.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/better-ping-display-fabric.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/betterend.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/botania.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/botarium.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/caduceus.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cardinal-components-api.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/carpet-fixes.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/carpet.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/carry-on.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cc-tweaked.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cccbridge.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/chipped-express.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/chipped.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cicada.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cloth-config.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/collective.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/colorful-hearts.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/continuity.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-dreams-and-desires.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-fabric.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-let-the-adventure-begin.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-ore-excavation.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/creativecore.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packwizUtil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Конвертировать моды в pw.toml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сделать pw.toml из mods.txt.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alexyzer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alexyzer/DrakanHex6.git",
+    "accountId": "4253ffad-30ed-459d-b59c-af9afbb678b1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AI5Xs7u7qgUTe2yepVkovEiwQw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.packUtil.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "refactor"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="packUtil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DrakanHex6" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.packUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9f48b5-23d2-4b28-b404-2ff018cca117" name="Changes" comment="" />
+      <created>1772267288840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772267288840</updated>
+    </task>
+    <servers />
+  </component>
+</project>
