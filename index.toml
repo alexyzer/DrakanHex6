@@ -2178,6 +2178,16 @@ hash = "3f48598d942ef521c6585f2dae9104348a2b0631d93104b8bb13aca6f90a103b"
 metafile = true
 
 [[files]]
+file = "mods/hexthings.pw.toml"
+hash = "0b79fd93bfd185bf2d618cf6edf735a25a822580329d8a5511b92c186b19e624"
+metafile = true
+
+[[files]]
+file = "mods/hextra-patterns.pw.toml"
+hash = "8b8e010b9585161950e15e1f87846c4772fa9d16b6c6a24131be167a857d344e"
+metafile = true
+
+[[files]]
 file = "mods/hextweaks-5.3.3-3ca51ac.jar"
 hash = "a9d7ed8b272186c07102872df528b65c35961f315c098de7aa423ef510267488"
 
@@ -2633,6 +2643,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "e825807a20443ff0d6818f66c4fe3aaf9f2d199dd4fce50063b144dcc518903c"
+metafile = true
+
+[[files]]
+file = "mods/yaha.pw.toml"
+hash = "21a499e88959df2a37848f21612c6cfd525abc8ed47466bd78f9fde98499095c"
 metafile = true
 
 [[files]]
