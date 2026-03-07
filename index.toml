@@ -2365,11 +2365,6 @@ hash = "e17974657ebe761373b4f0f0dc2aeed933175f860a3d4476c4a02322031dbdcc"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "8803063e975de653d4e6a9f22a4bf59361ab57d5a274ee378a82bccb935b01d4"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "100388ddc29d4c2100f889b753786208e5c1232269947918ff92ca684bf209c3"
 metafile = true
