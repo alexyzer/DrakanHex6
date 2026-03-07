@@ -1924,6 +1924,11 @@ hash = "7db2a836d9ae0a1a437766dec36743da803b6c692d0e0d9a57c2ba5815f63451"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "96245c61b1c34e338c2f35534c9c87139430eb019e970b2bd92a697a6317394b"
+metafile = true
+
+[[files]]
 file = "mods/displayed.pw.toml"
 hash = "d96f1a64ecc19bfe4f51e823e4e8990ff32b81194917775d4e73e5780a217016"
 metafile = true
