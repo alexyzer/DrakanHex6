@@ -1894,11 +1894,6 @@ hash = "b83c21870a5b2092db83f746c1aa926a46d27583e2af6fb36a834bf55a517538"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "a5bcd4ebfd905cd09551d500526793cec800d7952512cfdc6da69f05ebbc5ba6"
-metafile = true
-
-[[files]]
 file = "mods/cwb.pw.toml"
 hash = "7634447463f9781b39c6cc51f83c964cccc1964f331e8117a33ae1dd6b481f77"
 metafile = true
@@ -2465,6 +2460,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6ee1ae8b7011e35768655f1a2487b47fe6da36ec9aa1b6e0a1a0c80dbc24c916"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "b4c3ade8ee945bf9674f74750708762ffe95cec6dea469e8681cc767abd5ad8b"
 metafile = true
 
 [[files]]
