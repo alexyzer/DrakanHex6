@@ -1680,6 +1680,16 @@ hash = "e6c5e1b6cdec176e10a928cab76089a619fa18215fc7ee439eb045b603565c5a"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "d4a3976aadc64d31b420e648d05ce0c1399afd6e6c0cee98d403426cb411f349"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "686dd9226d3190572093c7ea6844aef545ccd7d71dfd5824784fb49bfd8821a8"
 metafile = true
@@ -1781,7 +1791,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "a7053f1dc37f73158bd2e3401323008614f1fc70c4f150dee4946100c8b7a441"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
@@ -2025,7 +2035,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "341434af205d781e126a23d788dc804a4cda22e52ed9d6c2d6d1047fa2639d01"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -2483,8 +2493,13 @@ hash = "41f51e75e4d71d5422f03158a252af73131b0fbb17243c519506f46069c29aa1"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "390c547014e83d805bb9d95d5fcae5d436781f6431c02365e1aa99fa17e182d6"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
