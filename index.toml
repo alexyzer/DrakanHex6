@@ -65,6 +65,10 @@ file = "config/authme.json5"
 hash = "f8fb1898e59a69e6c0494afd877b52e3fb9d2c33746d9afb436c9e7beded156f"
 
 [[files]]
+file = "config/autotranslation.json5"
+hash = "ed23f4e282f592bb07bd3da99a0197761c478a479d644a33e232cad45c1d5ad6"
+
+[[files]]
 file = "config/azurelib.json"
 hash = "8c42e766e37cf5c82026118a743fc6647a7728769247b3f0faf0fc6ed7dc6352"
 
