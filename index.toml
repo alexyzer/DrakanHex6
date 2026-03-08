@@ -1736,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c0c9a73b3aec1b715887209b3704fcad5c3ab47aacfd27ec84f69ddd8427d0e9"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -1752,6 +1752,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "a0e764a78e2d2335c271d17b2526ace6675ded5e1730c866f63a45efdae649a4"
+metafile = true
+
+[[files]]
+file = "mods/autotranslation.pw.toml"
+hash = "9fccba8850856603889e263abdcacca81d05f084332071d6a35cb1073225fdd3"
 metafile = true
 
 [[files]]
@@ -1846,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9fe4156613e0f6f2b61e862d38268181ea679c63d1bea370ff997e20b9477b56"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
