@@ -1,116 +1,118 @@
-import json
-import os
-import zipfile
-import hashlib
-import requests
+import json #Сериализация-десериализация json
+import os #Работа с файлами
+import tomllib #Чтение .toml
+import tomli_w #Запись .toml
+import zipfile #Чтение архивов
+import hashlib #Хеши для сверки файла
+import requests #Запросы к Modrinth
 
-def makeTOMLFile(name:str,filename:str,side:str,download:str,sha1:str):
-    with open('mods/'+name+'.pw.toml', 'w') as pwtoml: pwtoml.write(
-        f'name = "{name}"\n'
-        f'filename = "{filename}"\n'
-        f'side = "{side}"\n'
-        f'\n[download]\n'
-        f'url = "{download}"\n'
-        f'hash-format = "sha1"'
-        f'\nhash = "{sha1}"\n'
-    )
-
-def pwtomlFromModrinth(url:str):
-    url = url.replace("modrinth.com/mod","api.modrinth.com/v2/project")
-    project = requests.get(url.rsplit("/",2)[0]).json()
-    version = requests.get(url).json()
-    for file in version.get("files"):
-        if not file.get("primary"): continue
-        makeTOMLFile(
-            project.get("slug"),
-            file.get("filename"),
-            ["both", "server", "client"][(len(project.get("client_side")) == 11) | (len(project.get("server_side")) == 11) << 1],  # Чистый код
-            file.get("url"),
-            file.get("hashes").get("sha1")
-        )
-        break
-
-def getFromModrinth(project:dict,filename:str,replace:bool=True)->bool:
-    filehash = hashlib.sha1(open(filename,"rb").read(),usedforsecurity=False).hexdigest()
-    modID = project.get("slug")
-    print(f"Получение {filename.split('/')[-1]} с Modrinth как {modID}...",end=' ')
-    versionQuery = requests.get(f"https://api.modrinth.com/v2/project/{modID}/version",{
-        "loaders":json.dumps(["fabric"]),
-        "game_versions":json.dumps(["1.20.1"]),
-        "include_changelog":"false"
-    }).json()
-    for version in versionQuery:
-        for modrinthFile in version.get("files"):
-            if not modrinthFile.get("primary"): continue #Пропуск побочных файлов
-            if filehash==modrinthFile.get("hashes").get("sha1"): #Если точно такой же файл существует на Modrint
-                makeTOMLFile(
-                    modID,
-                    modrinthFile.get("filename"),
-                    ["both","server","client"][(len(project.get("client_side"))==11)|(len(project.get("server_side"))==11)<<1], #Чистый код
-                    modrinthFile.get("url"),
-                    filehash
-                )
-                if replace: os.remove(filename)
-                print("Успешно")
-                return True
-    else:
-        print("Файл не найден")
-        return False
+from typing import Literal
 
 
-def getFabricModJSON(jar:str)->dict:
-    with zipfile.ZipFile(jar) as jar:
-        return json.loads(jar
-              .read("fabric.mod.json")
-              .decode('utf-8')
-              .replace('\n', '')
-              .encode('utf-8')
-        )
+def makePwToml(download: dict, filename: str, name: str, option: dict = None, side: Literal["both","client","server"] = None, update: dict = None)-> dict:
+    toml = {
+        "download": download,
+        "filename": filename,
+        "name": name
+    }
+    if option: toml["option"] = option
+    if side: toml["side"] = side
+    if update: toml["update"] = update
+    return toml
 
-def searchProj(query: str) -> dict | None:
-    if len(projects := requests.get("https://api.modrinth.com/v2/search", params={
-        "query": query,
+def scanProjectForVersion(projectId:str, sha1:str = None):
+    response = requests.get(f"https://api.modrinth.com/v2/project/{projectId}/version", {
+        "loaders": json.dumps(["fabric"]),
+        "game_versions": json.dumps(["1.20.1"]),
+        "include_changelog": "false"
+    })
+    if response.status_code == 200:
+        for version in response.json():
+            for versionFile in version["files"]:
+                if not versionFile["primary"]: continue
+
+                if sha1 is None or versionFile["hashes"]["sha1"] == sha1:
+                    return version, versionFile
+
+    return None, None
+
+
+def askModrinth(name:str, sha1:str = None):
+    for project in requests.get("https://api.modrinth.com/v2/search", params={
+        "query": name,
         "facets": json.dumps([
             ["project_type:mod"], ["categories:fabric"], ["versions:1.20.1"]
         ]),
         "limit": 1,
-    }).json().get("hits"))!=0: return projects[0]
-    else: return None
-
-def parseFolder(folder:str):
-    jars = dict() #Хранить путь до файла мода и его fabric.mod.json под его id, id:[путь,fabric.mod.json]
-    print("Индексирование файлов...",end='')
-    for name in os.listdir(folder):
-        path=folder+"/"+name
-        if path.endswith(".jar"):
-            fabricModJSON = getFabricModJSON(path)
-            jars[fabricModJSON.get("id")]=[path,fabricModJSON]
-        elif path.endswith(".disabled"): os.remove(path)
-    print("Готово")
-
-    print("\n=====Запросы по ID мода=====")
-    for project in requests.get(f"https://api.modrinth.com/v2/projects?ids={json.dumps([j for j in jars.keys()])}").json():
-        if (modID := project.get("slug")) is not None:
-            if getFromModrinth(project,jars[modID][0]): jars.pop(modID)
-
-    print("\n=====Запросы по названию мода=====")
-    for modID, pathPlusJson in jars.copy().items():
-        if (project := searchProj(pathPlusJson[1].get("name"))) is not None:
-            if getFromModrinth(project,pathPlusJson[0]): jars.pop(modID)
-
-    print("\n=====Поиск по имени файла=====")
-    for modID, pathPlusJson in jars.copy().items():
-        if (project := searchProj(
-            str(pathPlusJson[0]).split("/")[-1].removesuffix(".jar").removesuffix(pathPlusJson[1].get("version"))
-        )) is not None:
-            if getFromModrinth(project,pathPlusJson[0]): jars.pop(modID)
+    }).json()["hits"]:
+        version, versionFile = scanProjectForVersion(project["project_id"], sha1)
+        if versionFile: return project, version, versionFile
+    return None, None, None
 
 
-    print("\nНеобработанные моды:")
-    for v in jars.values():
-        print(str(v[0].split("/")[-1]))
+if __name__ == "__main__":
+    print(os.getcwd())
+    os.chdir("pack/mods")
+    for path in os.scandir():
+        if not path.is_file(): continue
 
-def processModlist(path:str):
-    with open(path,"r") as modlist:
-        for mod in modlist.read().splitlines():
-            pwtomlFromModrinth(mod)
+        #Добавление обновлений к .pw.toml
+        if path.name.endswith(".pw.toml"):
+            file = open(path, "br+")
+            pwToml = tomllib.load(file)
+            if "update" in pwToml: continue
+            print(f"Обработка {pwToml["name"]}", end='')
+            option = pwToml.get("option")
+
+            project, version, versionFile = askModrinth(name=pwToml["name"], sha1=pwToml["download"]["hash"])
+            if project is None:
+                print(" неуспешно")
+                continue
+            print()
+
+            pwToml["name"] = project["title"]
+            pwToml["update"] = {
+                "modrinth":{
+                    "mod-id":project["project_id"],
+                    "version":version["id"]
+                }
+            }
+            file.seek(0)
+            tomli_w.dump(pwToml, file)
+            file.truncate()
+
+        #Обработка .jar-ников
+        elif path.name.endswith(".jar"):
+            fabricModJson = json.load(zipfile.ZipFile(path, "r").open("fabric.mod.json", "r"))
+            print(f"Обработка {fabricModJson["name"]} ({fabricModJson["id"]})",end='')
+            project, version, versionFile = askModrinth(
+                name=fabricModJson["id"],
+                sha1=hashlib.sha1(open(path, "rb").read()).hexdigest()
+            )
+            if versionFile:
+                tomli_w.dump(
+                    makePwToml(
+                        download={
+                            "hash-format": "sha1",
+                            "hash": versionFile["hashes"]["sha1"],
+                            "url": versionFile["url"]
+                        },
+                        filename=versionFile["filename"],
+                        name=project["title"],
+                        update={
+                            "modrinth":{
+                                "modrinth": {
+                                    "mod-id": project["project_id"],
+                                    "version": version["id"]
+                                }
+                            }
+                        }
+                    ),
+                    open(project["slug"]+".pw.toml", "wb")
+                )
+                os.remove(path.name)
+                print()
+            else: print(" неуспешно")
+
+        #Чистка отключённых модов
+        elif path.name.endswith(".disabled"): os.remove(path.name)
