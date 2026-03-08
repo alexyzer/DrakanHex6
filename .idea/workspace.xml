@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a9f48b5-23d2-4b28-b404-2ff018cca117" name="Changes" comment="Моды">
-      <change beforePath="$PROJECT_DIR$/pack/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/index.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/amecs.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/amecs.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/appleskin.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/appleskin.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/applied-botanics.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/applied-botanics.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/appspec.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/appspec.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/axiom.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/axiom.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/balm.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/balm.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/botania.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/botania.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/caduceus.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/caduceus.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/cc-tweaked.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/cc-tweaked.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/dynamic-fps.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/dynamic-fps.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/easyauth.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/easyauth.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/emi-loot.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/emi-loot.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/entityculling.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/entityculling.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/exposure.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/exposure.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/extreme_sound_muffler.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/extreme_sound_muffler.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/fabric-language-kotlin.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/fabric-language-kotlin.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/fzzy-config.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/fzzy-config.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/geckolib.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/geckolib.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hexchanting.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hexchanting.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hexflow.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hexflow.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hexparse.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hexparse.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hexsbm.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hexsbm.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hexstruction.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hexstruction.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hextra-patterns.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hextra-patterns.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/hierophantics.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hierophantics.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/iceandfire-ce.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/iceandfire-ce.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/immediatelyfast.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/immediatelyfast.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/jade-addons-fabric.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/jade-addons-fabric.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/jupiter.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/jupiter.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/modonomicon.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/modonomicon.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/moonlight.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/moonlight.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/neepmeat.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/neepmeat.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/neruina.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/neruina.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/open-parties-and-claims.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/open-parties-and-claims.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/particle-core.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/particle-core.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/particle-effects.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/particle-effects.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/particle-rain.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/particle-rain.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/ping-wheel.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/ping-wheel.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/simple-voice-chat.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/simple-voice-chat.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/slate-works.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/slate-works.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/spectrum.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/spectrum.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/unlimitedperipheralworks.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/unlimitedperipheralworks.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/xaeros-minimap.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/xaeros-minimap.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/xaeros-world-map.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/xaeros-world-map.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/mods/zoomify.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/zoomify.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/pack.toml" afterDir="false" />
-    </list>
+    <list default="true" id="7a9f48b5-23d2-4b28-b404-2ff018cca117" name="Changes" comment="Обновление модов" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,12 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1772997082621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Обновление модов">
+      <option name="closed" value="true" />
+      <created>1772997503380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772997503380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="packUtil" />
     <MESSAGE value="Моды" />
-    <option name="LAST_COMMIT_MESSAGE" value="Моды" />
+    <MESSAGE value="Обновление модов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновление модов" />
   </component>
 </project>

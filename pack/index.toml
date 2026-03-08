@@ -1875,7 +1875,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
+hash = "d5757b5acce4be94a2d5b06a877d82d30e16f59b6410ec1edeba6b54fe68d466"
 metafile = true
 
 [[files]]
@@ -2252,7 +2252,7 @@ hash = "44d72080846db8b323c452d5beafc351141f21e9a63f3b8793ddd81eee67647e"
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
+hash = "0893e636dbc10c1515f12a77c74f88e40cb65a01cea67c167ce65be3f56c19cb"
 metafile = true
 
 [[files]]
