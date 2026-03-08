@@ -1,12 +1,13 @@
 name = "Applied Botanics"
-filename = "applied-botanics-fabric-1.5.1.jar"
+filename = "applied-botanics-fabric-1.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/545hUrw9/versions/7eH0ddTk/applied-botanics-fabric-1.5.1.jar"
-hash-format = "sha1"
-hash = "a9d0e8c678c043f40683004bf63ea9c13a391c71"
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/xyBemygB/applied-botanics-fabric-1.5.2.jar"
+hash-format = "sha512"
+hash = "c356bf7f4973e0018287a3179b29d299cba39064f6198bf04ba041a085d22a798531138cce5210450075dfd0f35609fe00e839439c9b8a356a9ce976e81d5799"
 
+[update]
 [update.modrinth]
 mod-id = "545hUrw9"
-version = "7eH0ddTk"
+version = "xyBemygB"

@@ -1,6 +1,7 @@
 name = "Create Crafts & Additions"
 filename = "createaddition-fabric+1.20.1-1.2.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/ybLiaryg/createaddition-fabric%2B1.20.1-1.2.6.jar"
