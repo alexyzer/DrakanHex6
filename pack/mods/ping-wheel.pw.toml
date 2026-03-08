@@ -1,4 +1,4 @@
-name = "ping-wheel"
+name = "Ping Wheel"
 filename = "Ping-Wheel-1.12.0-fabric-1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/ZtRGFjI1/Ping-Wheel-1.12.0-fabric-1.20.1.jar"
 hash-format = "sha1"
 hash = "7a653012a6aa6be2d0cdfe16e91e00b042478337"
+
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "ZtRGFjI1"

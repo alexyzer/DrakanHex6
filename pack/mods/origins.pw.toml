@@ -1,4 +1,4 @@
-name = "origins"
+name = "Origins"
 filename = "Origins-1.10.2+mc.1.20.x.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/oT0CGnBQ/Origins-1.10.2%2Bmc.1.20.x.jar"
 hash-format = "sha1"
 hash = "9a62de8be9261baeaffbde598e4b89c902851c50"
+
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "oT0CGnBQ"

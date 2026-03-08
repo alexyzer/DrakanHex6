@@ -1,4 +1,4 @@
-name = "polymorph"
+name = "Polymorph"
 filename = "polymorph-fabric-0.49.10+1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/oARBy1is/polymorph-fabric-0.49.10%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf"
+
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "oARBy1is"

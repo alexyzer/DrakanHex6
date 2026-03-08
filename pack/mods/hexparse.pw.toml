@@ -1,4 +1,4 @@
-name = "hexparse"
+name = "HexParse"
 filename = "hexParse-fabric-1.20.1-1.7.0.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/1ed77Dnz/hexParse-fabric-1.20.1-1.7.0.jar"
 hash-format = "sha1"
 hash = "c4e7c141f107d95c0c814a8b03cd800d0f24b1e0"
+
+[update.modrinth]
+mod-id = "WjFyIzFj"
+version = "1ed77Dnz"

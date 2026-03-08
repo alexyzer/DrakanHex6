@@ -1,4 +1,4 @@
-name = "slate-works"
+name = "Slate Works"
 filename = "Slate_Work-1.0.6.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/c7oBSdsr/Slate_Work-1.0.6.jar"
 hash-format = "sha1"
 hash = "4c08bd79d4c44a4932be4532fe5820b3f6abe2ce"
+
+[update.modrinth]
+mod-id = "3DnSSjl3"
+version = "c7oBSdsr"

@@ -1,4 +1,4 @@
-name = "show-me-your-skin"
+name = "Show Me Your Skin!"
 filename = "show-me-your-skin-1.9.0+1.20.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/acq6mVBP/show-me-your-skin-1.9.0%2B1.20.jar"
 hash-format = "sha1"
 hash = "f924bf37084ddb6db777c99893c04bd79ed0139c"
+
+[update.modrinth]
+mod-id = "bD7YqcA3"
+version = "acq6mVBP"

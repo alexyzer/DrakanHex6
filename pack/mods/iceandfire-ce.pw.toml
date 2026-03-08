@@ -1,4 +1,4 @@
-name = "iceandfire-ce"
+name = "IceAndFire Community Edition"
 filename = "IceAndFireCE-1.2.2-1.20.1-fabric.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/VpmCsizY/versions/3s5umdG5/IceAndFireCE-1.2.2-1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "ae40871d8012db4e85f57bc2fd90d9f0f3da31d8"
+
+[update.modrinth]
+mod-id = "VpmCsizY"
+version = "3s5umdG5"

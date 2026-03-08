@@ -1,4 +1,4 @@
-name = "datapacks"
+name = "Global Datapacks"
 filename = "global-datapack-1.2.jar"
 side = "client"
 
@@ -6,3 +6,7 @@ side = "client"
 url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/z3VuVeLh/global-datapack-1.2.jar"
 hash-format = "sha1"
 hash = "274fd9b588aae827980a682ab10634b5b8c65d08"
+
+[update.modrinth]
+mod-id = "bRa9yz7E"
+version = "z3VuVeLh"

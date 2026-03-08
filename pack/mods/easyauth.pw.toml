@@ -1,4 +1,4 @@
-name = "easyauth"
+name = "EasyAuth"
 filename = "easyauth-mc1.20-3.4.1.jar"
 side = "server"
 
@@ -6,3 +6,7 @@ side = "server"
 url = "https://cdn.modrinth.com/data/aZj58GfX/versions/QkHiIsyi/easyauth-mc1.20-3.4.1.jar"
 hash-format = "sha1"
 hash = "df90b3988e2e80b42ced58ea6ee1585b3e49a561"
+
+[update.modrinth]
+mod-id = "aZj58GfX"
+version = "QkHiIsyi"

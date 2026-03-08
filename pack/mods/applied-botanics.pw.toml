@@ -1,4 +1,4 @@
-name = "applied-botanics"
+name = "Applied Botanics"
 filename = "applied-botanics-fabric-1.5.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/545hUrw9/versions/7eH0ddTk/applied-botanics-fabric-1.5.1.jar"
 hash-format = "sha1"
 hash = "a9d0e8c678c043f40683004bf63ea9c13a391c71"
+
+[update.modrinth]
+mod-id = "545hUrw9"
+version = "7eH0ddTk"

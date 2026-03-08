@@ -1,4 +1,4 @@
-name = "DistantHorizons"
+name = "Distant Horizons"
 filename = "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
 side = "client"
 
@@ -12,3 +12,6 @@ optional = true
 default = true
 description = "Добавляет упрощенный ландшафт за пределы стандартной дальности видимости Minecraft, чтобы улучшить производительность и обеспечить большую дальность прорисовки."
 
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "lC6CwqPp"

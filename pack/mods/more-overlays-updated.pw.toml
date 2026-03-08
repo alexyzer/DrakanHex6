@@ -1,4 +1,4 @@
-name = "more-overlays-updated"
+name = "More Overlays Updated"
 filename = "moreoverlays-1.22.4.2-fabric.jar"
 side = "client"
 
@@ -6,3 +6,7 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.22.4.2-fabric.jar"
 hash-format = "sha1"
 hash = "75aa4f70fbe717d46cd60083fca0aa869c99304a"
+
+[update.modrinth]
+mod-id = "Thy5Pqut"
+version = "mXJwWCXu"

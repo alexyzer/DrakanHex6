@@ -1,4 +1,4 @@
-name = "jupiter"
+name = "Jupiter"
 filename = "jupiter-2.3.2-1.20.1-fabric.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/sRd3tYqT/jupiter-2.3.2-1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "d21bafa5f10f89bf6732d4e37b1e96223cf54c7f"
+
+[update.modrinth]
+mod-id = "XbiLGMMU"
+version = "sRd3tYqT"

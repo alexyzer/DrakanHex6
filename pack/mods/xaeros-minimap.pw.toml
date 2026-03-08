@@ -1,4 +1,4 @@
-name = "xaeros-minimap"
+name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_25.2.10_Fabric_1.20.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1Knv1cKY/Xaeros_Minimap_25.2.10_Fabric_1.20.jar"
 hash-format = "sha1"
 hash = "10fb39b9daa7a78e69935b390d105eff37670f61"
+
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "1Knv1cKY"

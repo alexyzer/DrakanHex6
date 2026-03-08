@@ -1,4 +1,4 @@
-name = "hexgender"
+name = "HexGender"
 filename = "hexgender-fabric-1.0.4.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/eDrq21Uc/versions/rq1zWMAZ/hexgender-fabric-1.0.4.jar"
 hash-format = "sha1"
 hash = "d128ffccb4b8872cf4fea0a0d9b5c3e2e3b58809"
+
+[update.modrinth]
+mod-id = "eDrq21Uc"
+version = "rq1zWMAZ"

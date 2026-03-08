@@ -1,4 +1,4 @@
-name = "resourcepackcached"
+name = "ResourcePackCached"
 filename = "rpc-1.1.2+1.20.1-fabric.jar"
 side = "client"
 
@@ -6,3 +6,7 @@ side = "client"
 url = "https://cdn.modrinth.com/data/d4phKsx2/versions/G6oo5Ssu/rpc-1.1.2%2B1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "0d7143c9c10fd2c44746b084b3574ef886a5acad"
+
+[update.modrinth]
+mod-id = "d4phKsx2"
+version = "G6oo5Ssu"

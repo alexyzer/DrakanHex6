@@ -1,4 +1,4 @@
-name = "uranus"
+name = "Uranus"
 filename = "uranus-2.2.6-1.20.1-fabric.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/3Acxy864/versions/TICNdyfo/uranus-2.2.6-1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "0e78dd09c4ace864425a83deb07f6e3d95ec61a2"
+
+[update.modrinth]
+mod-id = "3Acxy864"
+version = "TICNdyfo"

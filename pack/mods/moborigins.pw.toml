@@ -1,4 +1,4 @@
-name = "moborigins"
+name = "Mob Origins"
 filename = "moborigins-1.11.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/SXwBmSQG/versions/ax5KXVHy/moborigins-1.11.1.jar"
 hash-format = "sha1"
 hash = "7fd1600aa51e79ed4fe96c376ebe96304cd1a5ba"
+
+[update.modrinth]
+mod-id = "SXwBmSQG"
+version = "ax5KXVHy"

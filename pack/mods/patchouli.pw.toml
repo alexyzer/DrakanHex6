@@ -1,4 +1,4 @@
-name = "patchouli"
+name = "Patchouli"
 filename = "Patchouli-1.20.1-84.1-FABRIC.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/Muu5nGmj/Patchouli-1.20.1-84.1-FABRIC.jar"
 hash-format = "sha1"
 hash = "ac0b6b19b150fcb97dc037df26a298ab93f2cd90"
+
+[update.modrinth]
+mod-id = "nU0bVIaL"
+version = "Muu5nGmj"

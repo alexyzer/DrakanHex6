@@ -1,0 +1,13 @@
+name = "Hextra Patterns"
+filename = "hextrapats-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WMchsbC8/versions/LJy86sCj/hextrapats-1.1.0.jar"
+hash-format = "sha512"
+hash = "f16c26877658936889c1271071b31f943ea42ac369a02dba238f40240fc5d3940e00347adb0a0f3849aca8c0a148e965a7d249d37f5cf298c41ca728c7178cde"
+
+[update]
+[update.modrinth]
+mod-id = "WMchsbC8"
+version = "LJy86sCj"

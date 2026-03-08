@@ -1,4 +1,4 @@
-name = "particle-rain"
+name = "Particle Rain"
 filename = "particlerain-4.0.0-beta.3+1.20.1-fabric.jar"
 side = "client"
 
@@ -11,3 +11,7 @@ hash = "39e6421c02d65aa2509fa255f272de728df5eb74"
 optional = true
 default = false
 description = "Делает погодные явления более красивыми, изменяя их на динамические частицы.\nМожет вызывать вылеты в пустынях."
+
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "cGaEo5dv"

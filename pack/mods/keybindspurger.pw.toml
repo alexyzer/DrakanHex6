@@ -1,4 +1,4 @@
-name = "keybindspurger"
+name = "KeybindsPurger"
 filename = "keybindspurger-1.20.1-fabric-1.3.3.jar"
 side = "client"
 
@@ -6,3 +6,7 @@ side = "client"
 url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/C4YdlZuF/keybindspurger-1.20.1-fabric-1.3.3.jar"
 hash-format = "sha1"
 hash = "3866aebcf50701226d553386a732204ad7d07916"
+
+[update.modrinth]
+mod-id = "iaH7LvLy"
+version = "C4YdlZuF"

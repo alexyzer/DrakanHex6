@@ -1,4 +1,4 @@
-name = "extreme_sound_muffler"
+name = "Extreme sound muffler"
 filename = "ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/6lDRgX2g/ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar"
 hash-format = "sha1"
 hash = "099d2a64f019a73f2c03f4cd2d9c9e8cc42976d1"
+
+[update.modrinth]
+mod-id = "5IIKsxiL"
+version = "6lDRgX2g"

@@ -1,4 +1,4 @@
-name = "hexdebug"
+name = "HexDebug"
 filename = "hexdebug-fabric-0.8.0+1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/A2pscGC5/versions/sVtUXAg2/hexdebug-fabric-0.8.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "fe26a641967656ea195796596924b540f3bbdc5c"
+
+[update.modrinth]
+mod-id = "A2pscGC5"
+version = "sVtUXAg2"

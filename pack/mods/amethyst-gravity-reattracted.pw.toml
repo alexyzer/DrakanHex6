@@ -1,4 +1,4 @@
-name = "amethyst-gravity-reattracted"
+name = "Amethyst Gravity: Reattracted"
 filename = "amethyst-gravity-reattracted-2.0.0+1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/1h2ZthRl/versions/7orhNjz4/amethyst-gravity-reattracted-2.0.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "299454249488024f6c3c91dabb788eca773fe6d9"
+
+[update.modrinth]
+mod-id = "1h2ZthRl"
+version = "7orhNjz4"

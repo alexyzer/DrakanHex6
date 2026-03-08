@@ -1,4 +1,4 @@
-name = "exposure"
+name = "Exposure"
 filename = "exposure-1.20.1-1.7.16-fabric.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/hB899VmG/versions/fiezBPPG/exposure-1.20.1-1.7.16-fabric.jar"
 hash-format = "sha1"
 hash = "d55b8d666598410db4bee4e51aeb445726574ce5"
+
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "fiezBPPG"

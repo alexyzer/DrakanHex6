@@ -1,0 +1,13 @@
+name = "Yet Another Hex Addon"
+filename = "YAHA-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/xenuIOgs/YAHA-0.2.1.jar"
+hash-format = "sha512"
+hash = "e750176b383c7ba6d7e918ed42ac6f74506300ed85c20a5d4d11e105cd5440da249244688ce68be4d1c8f3e728826830cd3d28baa9a23a1bc5c485756b2ffedf"
+
+[update]
+[update.modrinth]
+mod-id = "Bqci4HwY"
+version = "xenuIOgs"

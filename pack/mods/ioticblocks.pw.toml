@@ -1,4 +1,4 @@
-name = "ioticblocks"
+name = "IoticBlocks"
 filename = "ioticblocks-fabric-1.0.2+1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/SJMDeeZs/ioticblocks-fabric-1.0.2%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "fb6320daa2ebdb50fcd89db438f5dbd4a3486b29"
+
+[update.modrinth]
+mod-id = "u3PPsXzt"
+version = "SJMDeeZs"

@@ -1,4 +1,4 @@
-name = "modonomicon"
+name = "Modonomicon"
 filename = "modonomicon-1.20.1-fabric-1.79.2.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/692GClaE/versions/c7ZjkJNp/modonomicon-1.20.1-fabric-1.79.2.jar"
 hash-format = "sha1"
 hash = "26955be3fb3232ea6539ee7322cc51c88cdac9c1"
+
+[update.modrinth]
+mod-id = "692GClaE"
+version = "c7ZjkJNp"

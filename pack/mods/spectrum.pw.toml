@@ -1,4 +1,4 @@
-name = "spectrum"
+name = "Spectrum"
 filename = "spectrum-1.8.11.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/XUbJjzng/spectrum-1.8.11.jar"
 hash-format = "sha1"
 hash = "b87bd3559cdd81952d381df035e0a4d34ac608b5"
+
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "XUbJjzng"

@@ -1,4 +1,4 @@
-name = "moonlight"
+name = "Moonlight Lib"
 filename = "moonlight-1.20-2.16.20-fabric.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/ExlBVsRs/moonlight-1.20-2.16.20-fabric.jar"
 hash-format = "sha1"
 hash = "b19e8f909433add7e4fddd739160c41a0a80ce60"
+
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "ExlBVsRs"

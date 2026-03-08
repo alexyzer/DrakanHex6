@@ -1,4 +1,4 @@
-name = "magic-origins"
+name = "Magic  Origins"
 filename = "magic_origins_forge_fabric_1.20+.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/mattYXZw/versions/URfxEXWV/magic_origins_forge_fabric_1.20%2B.jar"
 hash-format = "sha1"
 hash = "734f9ac92a4f81097c71d8653212bc9ebef59017"
+
+[update.modrinth]
+mod-id = "mattYXZw"
+version = "URfxEXWV"

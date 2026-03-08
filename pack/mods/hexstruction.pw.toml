@@ -1,4 +1,4 @@
-name = "hexstruction"
+name = "HexStruction"
 filename = "hexstruction-fabric-1.2.1+1.20.1.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/dGRSMTTM/versions/hc9ISI7g/hexstruction-fabric-1.2.1%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "1730f1d8a1a6f5c49f2abdd76083283733057e68"
+
+[update.modrinth]
+mod-id = "dGRSMTTM"
+version = "hc9ISI7g"

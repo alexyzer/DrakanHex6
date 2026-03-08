@@ -12,3 +12,6 @@ optional = true
 default = true
 description = "Полное обновление звуковых эффектов Minecraft с более чем 170 новыми звуковыми эффектами для элементов интерфейса, предметов"
 
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "EoAqSkiW"

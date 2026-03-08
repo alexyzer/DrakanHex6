@@ -1,4 +1,4 @@
-name = "create-dreams-and-desires"
+name = "Create: Dreams & Desires"
 filename = "create_dd-0.1d.jar"
 side = "both"
 
@@ -6,3 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar"
 hash-format = "sha1"
 hash = "09de8b59aaeca8d3fe5c0b684c667c77b9818ae2"
+
+[update.modrinth]
+mod-id = "JmybsfWs"
+version = "Knv9sBsR"

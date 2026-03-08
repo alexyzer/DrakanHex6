@@ -12,3 +12,6 @@ optional = true
 default = false
 description = "Узнайте, что замедляет работу вашего сервера.(Для Админов)"
 
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "MprPnUls"
