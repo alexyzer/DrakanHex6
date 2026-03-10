@@ -2406,7 +2406,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "0780d0c7b11cbd7141101815f6f9e2b1d62555190b8622a889fb7be6c1dc3be1"
+hash = "7d87688533cc36b1707024c2f2b54d374b4779e3cc15ef95ce753f65b373e9c5"
 metafile = true
 
 [[files]]
@@ -4157,5 +4157,5 @@ file = "resourcepacks/SodiumTranslations.zip"
 hash = "96505b3d8dc58bfd96e55728f8f674ecabe992e0deffe02ae0274186a86c1858"
 
 [[files]]
-file = "обновить сборку.bat"
+file = "ОБНОВИТЬ СБОРКУ.bat"
 hash = "808b91777ccedf98f07265813dc357e6243ec9de8f4f2bafbca6746e91a6763c"
