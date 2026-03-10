@@ -1,13 +1,13 @@
 name = "KeybindsPurger"
-filename = "keybindspurger-1.20.1-fabric-1.3.3.jar"
+filename = "KeybindsPurger-1.4.0-fabric-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/C4YdlZuF/keybindspurger-1.20.1-fabric-1.3.3.jar"
+url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/cOTHMDRB/KeybindsPurger-1.4.0-fabric-1.20.1.jar"
 hash-format = "sha1"
-hash = "3866aebcf50701226d553386a732204ad7d07916"
+hash = "8cb9641030d3728d5f7425f00161ef979c9b6d93"
 
 [update]
 [update.modrinth]
 mod-id = "iaH7LvLy"
-version = "C4YdlZuF"
+version = "cOTHMDRB"

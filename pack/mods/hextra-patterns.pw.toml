@@ -1,13 +1,13 @@
 name = "Hextra Patterns"
-filename = "hextrapats-1.1.1.jar"
+filename = "hextrapats-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WMchsbC8/versions/WpPQzvFT/hextrapats-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/WMchsbC8/versions/Uwtwh3Nq/hextrapats-1.1.2.jar"
 hash-format = "sha1"
-hash = "2631b6e86cad67c469e892a617628349fcf60829"
+hash = "bc39776026bb599eb17909c48d64c0a47041105d"
 
 [update]
 [update.modrinth]
 mod-id = "WMchsbC8"
-version = "WpPQzvFT"
+version = "Uwtwh3Nq"

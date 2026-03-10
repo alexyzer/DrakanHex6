@@ -1,6 +1,7 @@
 name = "Create Slice & Dice"
 filename = "sliceanddice-fabric-3.3.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar"

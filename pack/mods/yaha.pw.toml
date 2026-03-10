@@ -1,13 +1,13 @@
 name = "Yet Another Hex Addon"
-filename = "YAHA-0.2.1.jar"
+filename = "YAHA-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/xenuIOgs/YAHA-0.2.1.jar"
+url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/FleGofHc/YAHA-0.3.0.jar"
 hash-format = "sha1"
-hash = "cb39ed5e7d445a768064f826ed467cc28246c7a3"
+hash = "31606d01773900d4b517d4f4c0823a2ff026e903"
 
 [update]
 [update.modrinth]
 mod-id = "Bqci4HwY"
-version = "xenuIOgs"
+version = "FleGofHc"

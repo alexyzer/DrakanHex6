@@ -2199,7 +2199,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextra-patterns.pw.toml"
-hash = "3172be70ec85f9a37522732a37aaae0d5357001350f7525ec36135db7a7ad4a8"
+hash = "ec96a1d02caaac9c03a29a6039856db94ff27ade7849c365d395ab0f412ea800"
 metafile = true
 
 [[files]]
@@ -2262,12 +2262,12 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "35b76d20aefc07f2cd5420b1e56af265c858b58989e38658d7bf734a23deb592"
+hash = "8427ff00f5c2a4d90c678e86f24e5e5ae892102231b7700a9550ff978fabb3eb"
 metafile = true
 
 [[files]]
 file = "mods/keybindspurger.pw.toml"
-hash = "4b4a15943e6f49de4f186370de99ac9967759e975f6f946fb182184be1590abe"
+hash = "5c11be36f8a84e6a05b4cbe4233b12f5c3f0c03a88decc91b6528a539cc7d911"
 metafile = true
 
 [[files]]
@@ -2454,7 +2454,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
+hash = "9e1bce1859763927aa621856828056d82842ae791a49d384cb94c552bb42ff02"
 metafile = true
 
 [[files]]
@@ -2553,7 +2553,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
+hash = "88675194ebe01c1e84dcdf92a1a060fb5e2921a4bebd089a7f2b946c2cfedd0c"
 metafile = true
 
 [[files]]
@@ -2667,7 +2667,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "126756cfb330eafa3a311f28cfbfe414870466498a305fac2a55c639909acf97"
+hash = "fc879690237f26107768a01d7fa6740876cde65ddcd1d5be669931b3f21ee194"
 metafile = true
 
 [[files]]
