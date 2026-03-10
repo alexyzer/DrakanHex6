@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/fXt291FO/versions/xmxP9wDw/cccbridge-mc1.20
 hash-format = "sha1"
 hash = "0b687bc86072bcd606c1eb0eb313d4a0e7ea1b39"
 
+[update]
 [update.modrinth]
 mod-id = "fXt291FO"
 version = "xmxP9wDw"

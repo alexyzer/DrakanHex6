@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.2
 hash-format = "sha1"
 hash = "46e896cabf7813275413c97e6dd2f48ef534057d"
 
+[update]
 [update.modrinth]
 mod-id = "wnEe9KBa"
 version = "sV8lIBhJ"

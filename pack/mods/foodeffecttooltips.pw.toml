@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/aJiMrtqD/foodeffecttoolti
 hash-format = "sha1"
 hash = "346591a33fcb4dc27f9e0ebc46738a1666b9fd14"
 
+[update]
 [update.modrinth]
 mod-id = "GGfyJWnG"
 version = "aJiMrtqD"

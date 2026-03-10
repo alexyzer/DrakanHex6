@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VpmCsizY/versions/wQH7UG6i/IceAndFireCE-1.2.5-1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "c0ce50c6bad489e18ede8ea7b81d7c280075e617a465475aa37e141149fd7067ebe0a5ee36f773a6d62bbb282ec11546183a9918857de66302010e959e2f6a15"
+hash-format = "sha1"
+hash = "6af34354d662468d676e5d653d4907b552b7f7d2"
 
 [update]
 [update.modrinth]

@@ -7,11 +7,11 @@ url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll
 hash-format = "sha1"
 hash = "2efedb58832380d3a6f6445033b12222aa247f9a"
 
-[option]
-optional = true
-default = false
-description = "Это лёгкий, полностью клиентский мод, который изменяет Полёт на элитрах станет более увлекательным и полуреалистичным."
-
+[update]
 [update.modrinth]
 mod-id = "6FtRfnLg"
 version = "CuLlUIYD"
+
+[option]
+optional = true
+description = "Это лёгкий, полностью клиентский мод, который изменяет Полёт на элитрах станет более увлекательным и полуреалистичным."

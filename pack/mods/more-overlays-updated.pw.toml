@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.2
 hash-format = "sha1"
 hash = "75aa4f70fbe717d46cd60083fca0aa869c99304a"
 
+[update]
 [update.modrinth]
 mod-id = "Thy5Pqut"
 version = "mXJwWCXu"

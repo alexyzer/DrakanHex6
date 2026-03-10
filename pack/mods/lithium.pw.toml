@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iEcXOkz4/lithium-fabric-m
 hash-format = "sha1"
 hash = "048227ed60a3005cf9fa55880dfe0cf20b0ba680"
 
+[update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"
 version = "iEcXOkz4"

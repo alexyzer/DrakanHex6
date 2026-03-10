@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/LTcKTimz/peripheralworks-fabric-1.20.1-1.7.17.jar"
-hash-format = "sha512"
-hash = "1feb63ce0475268560f524d0ddfc9b8421b6ff0e316281a685f16e0019ffd078c4fbf0070b53a279a6766e8d099c2df0814758919066913000a5139284fb83d7"
+hash-format = "sha1"
+hash = "eb45c88bc687648269a69b9c862c793be982aeb6"
 
 [update]
 [update.modrinth]

@@ -7,11 +7,12 @@ url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/sCsWXt85/sound-physics-re
 hash-format = "sha1"
 hash = "b06a2eb31bcfe3d98463d1323e4787ac2b378bff"
 
-[option]
-optional = true
-default = true
-description = "Мод для Minecraft, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками."
-
+[update]
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "sCsWXt85"
+
+[option]
+optional = true
+description = "Мод для Minecraft, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками."
+default = true

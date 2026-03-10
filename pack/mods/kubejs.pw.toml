@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/umyGl7zF/versions/kPLHkyoJ/kubejs-fabric-20
 hash-format = "sha1"
 hash = "e22f2658ecd6a63edac7982766bb0ce15b53949a"
 
+[update]
 [update.modrinth]
 mod-id = "umyGl7zF"
 version = "kPLHkyoJ"

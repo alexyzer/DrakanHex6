@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1
 hash-format = "sha1"
 hash = "add35e79f6a930825e4dbe77d5d0468fb96c533f"
 
+[update]
 [update.modrinth]
 mod-id = "BAscRYKm"
 version = "pwyEaKDs"

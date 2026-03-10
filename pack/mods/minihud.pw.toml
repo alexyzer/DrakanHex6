@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/UMxybHE8/versions/s4CUdPPN/minihud-fabric-1
 hash-format = "sha1"
 hash = "8347b83dd02718cc1b187e5ea83f371e0ac26ab7"
 
+[update]
 [update.modrinth]
 mod-id = "UMxybHE8"
 version = "s4CUdPPN"

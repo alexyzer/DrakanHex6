@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/zG0IqeQj/versions/m4ApMsG5/extrabotany-fabr
 hash-format = "sha1"
 hash = "3e83046615b9bad0dc0b875e5797deddf71a844c"
 
+[update]
 [update.modrinth]
 mod-id = "zG0IqeQj"
 version = "m4ApMsG5"

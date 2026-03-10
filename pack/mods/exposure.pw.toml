@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hB899VmG/versions/YNAcmTj6/exposure-fabric-1.20.1-1.9.18.jar"
-hash-format = "sha512"
-hash = "b50e0ef2d7274d57adecb681ea7ae0900ee8602f48597c4325c353688c76d8a63a3a2f7adcbf696578a2e120cdb0c26d4769bbe2c1c8d582ed8b996ff30b21d7"
+hash-format = "sha1"
+hash = "82535eaf39882a0782fd5ee91f2a41728438333f"
 
 [update]
 [update.modrinth]

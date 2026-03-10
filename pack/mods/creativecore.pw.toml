@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/HoxFnPO8/CreativeCore_FAB
 hash-format = "sha1"
 hash = "d6fd7ceb95052431a01c139c9ed242aa40895fe7"
 
+[update]
 [update.modrinth]
 mod-id = "OsZiaDHq"
 version = "HoxFnPO8"

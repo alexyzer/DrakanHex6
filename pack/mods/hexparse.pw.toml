@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/QC44eYU6/hexParse-fabric-1.20.1-1.9.0.jar"
-hash-format = "sha512"
-hash = "82159e3e913d341cb8db19203d0d8a34c2d05a2bbbba5f1fbbc6f5f92df561a45afb0d3e1c6b0b056bf93e141383c906387bfd2eb13ce70b39481da2d91704cf"
+hash-format = "sha1"
+hash = "13e9168dceaf4af7d4e454dc8f4a6bc80a6466a5"
 
 [update]
 [update.modrinth]

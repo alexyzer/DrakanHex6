@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/ybLiaryg/createaddition-fabric%2B1.20.1-1.2.6.jar"
-hash-format = "sha512"
-hash = "f4ac98d196cef9cc0bfeac7d4070a60376b83cc5c441820a2d602443e7726aef8101fa5bbd5b60ea10ed926fc2770eff3fa5dda695268d1a96f16f4399b0bf77"
+hash-format = "sha1"
+hash = "34ac3d77a4077e4879ea6fba337e8f718ac2d130"
 
 [update]
 [update.modrinth]

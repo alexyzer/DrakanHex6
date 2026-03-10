@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/JjEWQx5u/iChunUtil-1.20.1
 hash-format = "sha1"
 hash = "0c786bb4898905c51d7104018ad4621535762303"
 
+[update]
 [update.modrinth]
 mod-id = "W6ROj0Hl"
 version = "JjEWQx5u"

@@ -7,11 +7,11 @@ url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2
 hash-format = "sha1"
 hash = "725d6ae05f78b2007a4dfa52c238efa5ea52548b"
 
-[option]
-optional = true
-default = false
-description = "Узнайте, что замедляет работу вашего сервера.(Для Админов)"
-
+[update]
 [update.modrinth]
 mod-id = "VYRu7qmG"
 version = "MprPnUls"
+
+[option]
+optional = true
+description = "Узнайте, что замедляет работу вашего сервера.(Для Админов)"

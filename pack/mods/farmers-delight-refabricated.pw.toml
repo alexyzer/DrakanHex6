@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/7vxePowz/versions/Z8UNayLO/FarmersDelight-1
 hash-format = "sha1"
 hash = "b8dded252730b2d47655813dde9d743785c0b107"
 
+[update]
 [update.modrinth]
 mod-id = "7vxePowz"
 version = "Z8UNayLO"

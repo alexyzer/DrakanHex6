@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/54zQVQEI/caduceus-fabric-0.2.1%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "6a12c389f0526fe70b236e645517a0f5b93f9f0ca5db5c9b1d6358040d58572639d39c101198e834043f7ea7f4165143e638b65b446ed9fdf707dac9388011e5"
+hash-format = "sha1"
+hash = "3e3e44cd1faf72d6df2c94923a3b0ffb7be85cd3"
 
 [update]
 [update.modrinth]

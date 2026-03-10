@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.
 hash-format = "sha1"
 hash = "53014ceff1e10085609c16adbe246df51113bfe9"
 
+[update]
 [update.modrinth]
 mod-id = "b1ZV3DIJ"
 version = "mXJWSwbJ"

@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-M
 hash-format = "sha1"
 hash = "222c93e8a63a6b486f223714a5b20b2e0f206954"
 
+[update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
 version = "NFPdxMt9"

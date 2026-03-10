@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscato
 hash-format = "sha1"
 hash = "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163"
 
+[update]
 [update.modrinth]
 mod-id = "NusMqsjF"
 version = "pyiVLk9R"

@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/Ku1ZHHJh/versions/VCV0iGI7/absorptionfix-1.
 hash-format = "sha1"
 hash = "788e43469cc8bda2a75f9eaba4e0d7f96bdd69e6"
 
+[update]
 [update.modrinth]
 mod-id = "Ku1ZHHJh"
 version = "VCV0iGI7"

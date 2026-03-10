@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/bqOyYdKi/versions/kl3DxAl9/gravity-changer-
 hash-format = "sha1"
 hash = "a54d63fa622c3ab9b37d1a97406f60a1bab6ef22"
 
+[update]
 [update.modrinth]
 mod-id = "bqOyYdKi"
 version = "kl3DxAl9"

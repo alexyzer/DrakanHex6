@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Hagcl1FT/versions/sL5Xok8W/neepmeat-0.21.3-beta%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "6dd16a1781fa869a1feeaba7235b1641914c25bdd272afd8ac93abe2e802f0a5047ff2fad63677a5189220607ae6ad8b2b94c564697c2e584abe18795980b51b"
+hash-format = "sha1"
+hash = "5e73d6c8de61790231a7ab36a991d3b2f747e741"
 
 [update]
 [update.modrinth]

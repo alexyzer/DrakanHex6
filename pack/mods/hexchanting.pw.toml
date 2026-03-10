@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UlOmzEJF/versions/GXgD69WU/hexchanting-1.1.7.jar"
-hash-format = "sha512"
-hash = "f48545580c343b6b7b907173d1a6d26a7fa00926ad86f347db956faa511c66616a0ab4f6f0d6f19eb08a0401ddbb9a908ea4c9b78c5d087f7e5bb183e3c4330f"
+hash-format = "sha1"
+hash = "7079a7a772eef41143a07305e600534830e250e3"
 
 [update]
 [update.modrinth]

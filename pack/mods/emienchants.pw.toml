@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/11hKNQb2/versions/ZP30bOOo/EMIEnchants-fabr
 hash-format = "sha1"
 hash = "e4aa88c68e3fb8a02903109a1065cc733d5211cb"
 
+[update]
 [update.modrinth]
 mod-id = "11hKNQb2"
 version = "ZP30bOOo"

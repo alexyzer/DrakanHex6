@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/nYZ0oktX/Female-Gender-Mo
 hash-format = "sha1"
 hash = "0dcb15cc3a05f6c2f006ec33420d6f4df17643b2"
 
+[update]
 [update.modrinth]
 mod-id = "bcOsQHnC"
 version = "nYZ0oktX"

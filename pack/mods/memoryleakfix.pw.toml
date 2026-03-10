@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fa
 hash-format = "sha1"
 hash = "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e"
 
+[update]
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "5xvCCRjJ"

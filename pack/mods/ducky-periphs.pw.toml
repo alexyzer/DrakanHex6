@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/l2IpK3Ji/versions/FYDI2Gut/duckyperiphs-1.2
 hash-format = "sha1"
 hash = "a58286a38e0d4dab0dc378aef916bba985cc4ae7"
 
+[update]
 [update.modrinth]
 mod-id = "l2IpK3Ji"
 version = "FYDI2Gut"

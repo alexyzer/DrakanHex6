@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fab
 hash-format = "sha1"
 hash = "2c146668d44d80af97df15f37165a3a5933b0308"
 
+[update]
 [update.modrinth]
 mod-id = "GmjmRQ0A"
 version = "EzpVcwYV"

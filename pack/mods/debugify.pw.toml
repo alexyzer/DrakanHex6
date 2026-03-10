@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%
 hash-format = "sha1"
 hash = "ca859180ad2b57856fbcc8db4995c1871a7d556c"
 
+[update]
 [update.modrinth]
 mod-id = "QwxR6Gcd"
 version = "6XDJoCks"

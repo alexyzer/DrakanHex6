@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/3bCeNMwK/versions/EjsMjdpH/wax-item-frames-
 hash-format = "sha1"
 hash = "92c7fde7c5ed0f51b945d5c789ebbf1629fe8439"
 
+[update]
 [update.modrinth]
 mod-id = "3bCeNMwK"
 version = "EjsMjdpH"

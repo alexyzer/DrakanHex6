@@ -7,11 +7,11 @@ url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/1ZTpW1lr/litematica-fabri
 hash-format = "sha1"
 hash = "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
 
-[option]
-optional = true
-default = false
-description = "Клиентский схематический мод с дополнительными функциями для работы в творческом режиме"
-
+[update]
 [update.modrinth]
 mod-id = "bEpr0Arc"
 version = "1ZTpW1lr"
+
+[option]
+optional = true
+description = "Клиентский схематический мод с дополнительными функциями для работы в творческом режиме"

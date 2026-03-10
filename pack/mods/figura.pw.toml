@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/s9gIPDom/versions/r3bPBsmg/figura-0.1.5%2B1
 hash-format = "sha1"
 hash = "1fcd7415221f081d00dece0083155862bcc7b09b"
 
+[update]
 [update.modrinth]
 mod-id = "s9gIPDom"
 version = "r3bPBsmg"

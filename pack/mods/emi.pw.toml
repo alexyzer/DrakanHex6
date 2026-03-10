@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/VvPw7Vi5/emi-1.1.22%2B1.2
 hash-format = "sha1"
 hash = "968357a16a878d1a0a2063d1d2dfc5eb2ae3ac3b"
 
+[update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
 version = "VvPw7Vi5"

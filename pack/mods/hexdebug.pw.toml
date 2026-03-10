@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/A2pscGC5/versions/sVtUXAg2/hexdebug-fabric-
 hash-format = "sha1"
 hash = "fe26a641967656ea195796596924b540f3bbdc5c"
 
+[update]
 [update.modrinth]
 mod-id = "A2pscGC5"
 version = "sVtUXAg2"

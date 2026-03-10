@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/D9e0CJWj/ArmorStatues-v8.
 hash-format = "sha1"
 hash = "958af5b24d34ec94d94a32c5f10060180850c3f4"
 
+[update]
 [update.modrinth]
 mod-id = "bbGCtEvb"
 version = "D9e0CJWj"

@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/RiTU8rGC/authme-7.0.2%2B1
 hash-format = "sha1"
 hash = "5e430805cf3dfd79fc5f0995f97604edac1491cd"
 
+[update]
 [update.modrinth]
 mod-id = "yjgIrBjZ"
 version = "RiTU8rGC"

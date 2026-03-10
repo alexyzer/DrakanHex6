@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/nmDcB62a/versions/rPmgLeZC/modernfix-fabric
 hash-format = "sha1"
 hash = "be03b9eb570c1e9df7593e68623f0fecbd039460"
 
+[update]
 [update.modrinth]
 mod-id = "nmDcB62a"
 version = "rPmgLeZC"

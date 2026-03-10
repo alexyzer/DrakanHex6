@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/rXiN1g54/versions/E1d8Ptoc/AutoTranslation-1.2.1%2Bmc1.20.2-fabric.jar"
-hash-format = "sha512"
-hash = "3dbc0831ad77578d2a7b4f4702d3a3f2dbb6b924ff4dfcbde603dae19114cbcc4b801c592fe3a0f6552fa3b6c5c414182441501e6d66891a94524b070691eb4c"
+hash-format = "sha1"
+hash = "5a59b8269cd4df9b27e305c61cfe533aa537faeb"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "E1d8Ptoc"
 
 [option]
 optional = true
-default = false
 description = "Автоматический машинный перевод модов."

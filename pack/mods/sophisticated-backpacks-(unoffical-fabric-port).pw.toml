@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/ouNrBQtq/versions/Jk6o7s4h/sophisticatedbac
 hash-format = "sha1"
 hash = "c75f06edb35c12cdd44bf8bd18f7f697558bb063"
 
+[update]
 [update.modrinth]
 mod-id = "ouNrBQtq"
 version = "Jk6o7s4h"

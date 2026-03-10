@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yIWYj2mo/versions/eo1CUTPv/discord_chat_mod-fabric-quilt-1.20.1-2.6.2.jar"
-hash-format = "sha512"
-hash = "e00a308a0b343864a110d1de34b7cbc2c8963a126b8ab231002b932dc0a27a100b951cdd44822461e2ce25b35936107912ae19e6a8493ec4e92269c58cb68b20"
+hash-format = "sha1"
+hash = "762c7b404e5cbcab731c3ab86a6dd58cbf0531f4"
 
 [update]
 [update.modrinth]

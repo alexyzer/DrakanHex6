@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/z3VuVeLh/global-datapack-
 hash-format = "sha1"
 hash = "274fd9b588aae827980a682ab10634b5b8c65d08"
 
+[update]
 [update.modrinth]
 mod-id = "bRa9yz7E"
 version = "z3VuVeLh"

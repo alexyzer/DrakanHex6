@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/Gg0pscgP/emi_ores-1.2%2B1
 hash-format = "sha1"
 hash = "691ae6ae8da8e56a5d5ddde388d906790b56fa67"
 
+[update]
 [update.modrinth]
 mod-id = "sG4TqDb8"
 version = "Gg0pscgP"

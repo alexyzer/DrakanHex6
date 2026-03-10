@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1
 hash-format = "sha1"
 hash = "de704792c691e3d19316c87c21c9ad2bee6c66c3"
 
+[update]
 [update.modrinth]
 mod-id = "2RKFTmiB"
 version = "B2L4LeMV"

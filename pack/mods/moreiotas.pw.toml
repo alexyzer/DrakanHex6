@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/Jmt7p37B/versions/fbdx2AgN/moreiotas-fabric
 hash-format = "sha1"
 hash = "7a054f52800865c3d4381ac5547184b61d3bf14b"
 
+[update]
 [update.modrinth]
 mod-id = "Jmt7p37B"
 version = "fbdx2AgN"

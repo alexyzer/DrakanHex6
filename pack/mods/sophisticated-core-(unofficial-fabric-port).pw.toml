@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/9jxwkYQL/versions/BP3CQI2v/sophisticatedcor
 hash-format = "sha1"
 hash = "8ef571b8091ee7bfb64f52e81b52c64e2ea65ff2"
 
+[update]
 [update.modrinth]
 mod-id = "9jxwkYQL"
 version = "BP3CQI2v"

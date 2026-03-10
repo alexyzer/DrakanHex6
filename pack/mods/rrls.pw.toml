@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bm
 hash-format = "sha1"
 hash = "fdd6e230c712ee9c4b637d73bccd21bc8ed3a7c3"
 
+[update]
 [update.modrinth]
 mod-id = "ZP7xHXtw"
 version = "VHNE9K3D"

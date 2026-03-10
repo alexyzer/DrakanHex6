@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/705gWllI/versions/i1zyA9dn/emiffect-fabric-
 hash-format = "sha1"
 hash = "7de05772cfca09567f82b5dd7de90077977429d7"
 
+[update]
 [update.modrinth]
 mod-id = "705gWllI"
 version = "i1zyA9dn"

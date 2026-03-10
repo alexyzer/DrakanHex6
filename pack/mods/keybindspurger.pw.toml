@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/C4YdlZuF/keybindspurger-1
 hash-format = "sha1"
 hash = "3866aebcf50701226d553386a732204ad7d07916"
 
+[update]
 [update.modrinth]
 mod-id = "iaH7LvLy"
 version = "C4YdlZuF"

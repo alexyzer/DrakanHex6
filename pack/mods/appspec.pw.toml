@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9qN7Lbex/versions/bioxtul0/appspec-1.0.2.jar"
-hash-format = "sha512"
-hash = "c4307cf8bfc396335088b5c291d2c0f9989014d276be5eab0ea0798d6ac795e5b65445d214b1231e29e3d7d4a42ef35d574bca3c08b08d2058bb489261273024"
+hash-format = "sha1"
+hash = "86f782c6e16e91bb7d9ffd8ef85386e4ef9a28d9"
 
 [update]
 [update.modrinth]

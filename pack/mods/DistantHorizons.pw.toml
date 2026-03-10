@@ -7,11 +7,12 @@ url = "https://cdn.modrinth.com/data/uCdwusMi/versions/lC6CwqPp/DistantHorizons-
 hash-format = "sha1"
 hash = "ce3814dd5971edda4d04c3a42ef0df5c6cf8e10d"
 
-[option]
-optional = true
-default = true
-description = "Добавляет упрощенный ландшафт за пределы стандартной дальности видимости Minecraft, чтобы улучшить производительность и обеспечить большую дальность прорисовки."
-
+[update]
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "lC6CwqPp"
+
+[option]
+optional = true
+description = "Добавляет упрощенный ландшафт за пределы стандартной дальности видимости Minecraft, чтобы улучшить производительность и обеспечить большую дальность прорисовки."
+default = true

@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/67kVxsaO/versions/mn7K4mkS/lmft-1.1.1%2B1.2
 hash-format = "sha1"
 hash = "9ec52b054e91c7f0a0a37edd4b2a3832699135dc"
 
+[update]
 [update.modrinth]
 mod-id = "67kVxsaO"
 version = "mn7K4mkS"

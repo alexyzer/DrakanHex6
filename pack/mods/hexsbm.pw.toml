@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/807KD9aL/versions/fwQz7T64/hexsbm-0.2.2.jar"
-hash-format = "sha512"
-hash = "0f0edb73985860cc14a7b693613e7fee2e4f1e50287b87572798ce99c435af13819ff90ec035ba1644afc1f53c3b6d24c3d9752b6556bdd0f684138ad8ffe686"
+hash-format = "sha1"
+hash = "954a00345230287251d5d588fe0ed57c417ed2ff"
 
 [update]
 [update.modrinth]

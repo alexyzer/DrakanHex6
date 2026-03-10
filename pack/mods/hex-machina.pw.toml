@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/uQ6K0yH1/versions/FEkNBdoN/hex_machina-1.0.
 hash-format = "sha1"
 hash = "697e2bb82db6ef09a819a9367b024e87c08e678f"
 
+[update]
 [update.modrinth]
 mod-id = "uQ6K0yH1"
 version = "FEkNBdoN"

@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/SJMDeeZs/ioticblocks-fabr
 hash-format = "sha1"
 hash = "fb6320daa2ebdb50fcd89db438f5dbd4a3486b29"
 
+[update]
 [update.modrinth]
 mod-id = "u3PPsXzt"
 version = "SJMDeeZs"

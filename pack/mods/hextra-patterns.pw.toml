@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WMchsbC8/versions/WpPQzvFT/hextrapats-1.1.1.jar"
-hash-format = "sha512"
-hash = "0ff0bcd17d3ae74fa0be0120ef6c86b100c57edce844a8701dcd201d2525f4158ab9afd483d1461c0cff8b7e44a37f23d92b1010036752031df94f6a37d305b1"
+hash-format = "sha1"
+hash = "2631b6e86cad67c469e892a617628349fcf60829"
 
 [update]
 [update.modrinth]

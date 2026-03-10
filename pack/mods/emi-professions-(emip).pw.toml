@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/LGVihYcz/versions/4y3T9sCQ/EMIProfessions-f
 hash-format = "sha1"
 hash = "9e763390bb4947420af8c6eb4433adeda0e2f116"
 
+[update]
 [update.modrinth]
 mod-id = "LGVihYcz"
 version = "4y3T9sCQ"

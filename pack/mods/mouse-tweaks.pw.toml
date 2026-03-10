@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabr
 hash-format = "sha1"
 hash = "6a6b977e671b1ab625e740fc70fb5300c21bb841"
 
+[update]
 [update.modrinth]
 mod-id = "aC3cM3Vq"
 version = "mjuG4AYd"

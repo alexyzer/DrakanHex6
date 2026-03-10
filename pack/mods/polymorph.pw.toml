@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/oARBy1is/polymorph-fabric
 hash-format = "sha1"
 hash = "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf"
 
+[update]
 [update.modrinth]
 mod-id = "tagwiZkJ"
 version = "oARBy1is"

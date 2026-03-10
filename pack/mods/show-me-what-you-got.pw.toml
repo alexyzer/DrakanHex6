@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/jTUiUpsh/versions/fQQ8wvKT/ShowMeWhatYouGot
 hash-format = "sha1"
 hash = "ffbce7e75dbede02dd9f86fc8fb543598d1c336d"
 
+[update]
 [update.modrinth]
 mod-id = "jTUiUpsh"
 version = "fQQ8wvKT"

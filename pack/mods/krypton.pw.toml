@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.ja
 hash-format = "sha1"
 hash = "4d499819effd8afe811e5d93952fcc46765a00df"
 
+[update]
 [update.modrinth]
 mod-id = "fQEb0iXm"
 version = "jiDwS0W1"

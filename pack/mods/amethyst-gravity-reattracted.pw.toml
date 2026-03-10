@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/1h2ZthRl/versions/7orhNjz4/amethyst-gravity
 hash-format = "sha1"
 hash = "299454249488024f6c3c91dabb788eca773fe6d9"
 
+[update]
 [update.modrinth]
 mod-id = "1h2ZthRl"
 version = "7orhNjz4"

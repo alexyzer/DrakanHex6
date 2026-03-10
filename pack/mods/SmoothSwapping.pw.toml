@@ -7,11 +7,11 @@ url = "https://cdn.modrinth.com/data/ydZic5r4/versions/p1W6XQFV/smoothswapping-0
 hash-format = "sha1"
 hash = "c4073f28f7f149711d390834f42ca5b2a12228c4"
 
-[option]
-optional = true
-default = false
-description = "Обеспечивает плавное перемещение предметов в инвенторях"
-
+[update]
 [update.modrinth]
 mod-id = "ydZic5r4"
 version = "p1W6XQFV"
+
+[option]
+optional = true
+description = "Обеспечивает плавное перемещение предметов в инвенторях"

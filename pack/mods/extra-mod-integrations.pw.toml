@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/bpRHnWUb/versions/V1QbMdYW/extra-mod-integr
 hash-format = "sha1"
 hash = "3c7c6645130f35772d81ba8a9cd70e6a85d0bbc8"
 
+[update]
 [update.modrinth]
 mod-id = "bpRHnWUb"
 version = "V1QbMdYW"

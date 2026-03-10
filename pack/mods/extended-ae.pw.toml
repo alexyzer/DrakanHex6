@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/JiOqfoFM/versions/Wmmw6SrO/ExtendedAE-1.20-
 hash-format = "sha1"
 hash = "712edf150e4dc26d4a00476e4bd0d66392ebe3c8"
 
+[update]
 [update.modrinth]
 mod-id = "JiOqfoFM"
 version = "Wmmw6SrO"

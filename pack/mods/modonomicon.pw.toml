@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/692GClaE/versions/bd3nitTk/modonomicon-1.20.1-fabric-1.79.3.jar"
-hash-format = "sha512"
-hash = "cc0c2f206ea7c4f286376f48b7a0d3ecfb27ba9aadda1f2fa3404b675251ebfe51de9dda11a100eb263838b98f8c0c083edbd2a4aef03bf97cdc4da2f59cf0db"
+hash-format = "sha1"
+hash = "7541878002695a6b62a21f1e063c694bbfb6c891"
 
 [update]
 [update.modrinth]

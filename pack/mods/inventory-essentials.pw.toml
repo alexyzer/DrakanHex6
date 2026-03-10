@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/Boon8xwi/versions/d1SkxFX3/inventoryessenti
 hash-format = "sha1"
 hash = "c30c59cf14e727fc6ca310b6c38da1e15ff08dd5"
 
+[update]
 [update.modrinth]
 mod-id = "Boon8xwi"
 version = "d1SkxFX3"
