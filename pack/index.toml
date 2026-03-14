@@ -2014,7 +2014,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
+hash = "1583cf4d79c2a27e04d6bdd179e92d50029a63f119ba57473b5dcecf1e757660"
 metafile = true
 
 [[files]]
