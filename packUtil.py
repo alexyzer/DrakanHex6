@@ -30,11 +30,13 @@ def optimizePack(modsFolder:str):
 
         #Добавление обновлений к .pw.toml
         if path.name.endswith(".pw.toml"):
-            pwToml = tomllib.load(open(path, "br+"))
-            if "update" not in pwToml or True:
-                fileHash = pwToml["download"]["hash"]
-                modsMetadata[fileHash] = {"filename": path.name, "local": path.name}
-                if "option" in pwToml: modsMetadata[fileHash]["option"] = pwToml["option"]
+            try:
+                pwToml = tomllib.load(open(path, "br+"))
+                if "update" not in pwToml or True:
+                    fileHash = pwToml["download"]["hash"]
+                    modsMetadata[fileHash] = {"filename": path.name, "local": path.name}
+                    if "option" in pwToml: modsMetadata[fileHash]["option"] = pwToml["option"]
+            except Exception as ignored: print(f"Ошибка в файле {path.name}")
 
 
         #Обработка .jar-ников
