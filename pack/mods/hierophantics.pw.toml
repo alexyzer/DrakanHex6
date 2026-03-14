@@ -3,15 +3,9 @@ filename = "hierophantics-fabric-1.3.7.jar"
 side = "both"
 
 [download]
-<<<<<<< Updated upstream
 url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/KpuLRQQ5/hierophantics-fabric-1.3.7.jar"
 hash-format = "sha1"
 hash = "11e1137740ff3c69e80e68a86f4f47dcde10fe7a"
-=======
-url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/y21yUvjn/hierophantics-fabric-1.3.3.jar"
-hash-format = "sha1"
-hash = "22ecd5369f2ca17f9df33c16637689d344c83930"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
