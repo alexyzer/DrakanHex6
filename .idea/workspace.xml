@@ -6,6 +6,42 @@
   <component name="ChangeListManager">
     <list default="true" id="7a9f48b5-23d2-4b28-b404-2ff018cca117" name="Changes" comment="Обновление модов">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/index.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/DistantHorizons.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/DistantHorizons.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/Do_a_barrel_roll.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/Observable.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/Observable.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/SmoothSwapping.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/Sound-physics-remastered.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/Sound-physics-remastered.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/Sounds.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/absorption-fix.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/absorption-fix.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/cc-tweaked.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/cc-tweaked.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/chipped-express.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/chipped-express.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-dreams-and-desires.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/create-dreams-and-desires.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-fabric.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/create-fabric.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-let-the-adventure-begin.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/create-let-the-adventure-begin.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-ore-excavation.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/create-ore-excavation.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/createaddition.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/createaddition.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/discord-chat-connect.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/easyauth.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/easyauth.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/exposure.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/exposure.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/hexical-2.0.0_322f8c33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/hierophantics.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/hierophantics.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/jade-addons-fabric.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/jade-addons-fabric.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/ksyxis.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/ksyxis.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/lapisworks-1.5.8-c0b77e7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/lmft.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/lmft.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/luckperms.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/luckperms.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/neepmeat.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/neepmeat.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/open-parties-and-claims.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/open-parties-and-claims.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/show-me-what-you-got.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/show-me-what-you-got.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/slice-and-dice.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/slice-and-dice.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/styled-chat.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/styled-chat.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/styled-nicknames.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/styled-nicknames.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/timeoutout.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/timeoutout.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/wax-item-frames.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/mods/wax-item-frames.pw.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack/pack.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/packUtil.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +60,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/alexyzer/DrakanHex6.git&quot;,
-    &quot;accountId&quot;: &quot;d8cffbc3-2cbc-4de4-b04e-b7631b3f7ab5&quot;
+    &quot;accountId&quot;: &quot;4253ffad-30ed-459d-b59c-af9afbb678b1&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -41,7 +77,7 @@
     &quot;Python.packUtil.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;refactor&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;B:/JavaRepos/mine/DrakanHex6/pack/mods&quot;,
@@ -77,6 +113,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.packUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,6 +1,6 @@
 name = "Sound Physics Remastered"
 filename = "sound-physics-remastered-fabric-1.20.1-1.5.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/sCsWXt85/sound-physics-remastered-fabric-1.20.1-1.5.1.jar"

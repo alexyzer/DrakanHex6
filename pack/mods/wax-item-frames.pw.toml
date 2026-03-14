@@ -1,6 +1,6 @@
 name = "Wax Item Frames"
 filename = "wax-item-frames-1.20.4-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3bCeNMwK/versions/EjsMjdpH/wax-item-frames-1.20.4-1.1.1.jar"
