@@ -1934,9 +1934,8 @@ hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
 
 [[files]]
-file = "mods/discord-chat-connect.pw.toml"
-hash = "2d3b2787c3c9022d0536343d0c76e81b0c9cd935d2fe907a015cbbae90b43cab"
-metafile = true
+file = "mods/discord_chat_mod-fabric-2.6.3.jar"
+hash = "1d86cadfbc32d92fca0b77daed1172cf34816511bb83b16d76e40204055f5431"
 
 [[files]]
 file = "mods/displayed.pw.toml"
