@@ -86,11 +86,11 @@ hash = "fbd12940119ed3006588ab2e98df5218134369c19bb846889a8da8a0de03b240"
 
 [[files]]
 file = "config/bclib/main.json"
-hash = "c6f858f30d4048b4af4127b319ac13bb506d625d2e44a45fcfd84b59d4801d2e"
+hash = "e696d2820a1e43c8f2a91fd19b369b9146a6bf6560d0444b0783b6315f29c6e3"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "4af105245b1573907d773b6e79e2a23fcc131e29095fb6bb32461bebeb1667e0"
+hash = "71402e23a8cc35292a67a1186f0ed27d75ef4a1e967ce542be83491fc52532a1"
 
 [[files]]
 file = "config/betterend/blocks.json"
