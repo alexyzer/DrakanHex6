@@ -514,7 +514,7 @@ hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
 
 [[files]]
 file = "config/hextweaks.json"
-hash = "7a5b824a90b1823bcbb4fe3df95ac98dba267412d55ce575507a15a9bee364a5"
+hash = "a44bc1af6cd54e612fde015e71b15909aaea2ce6662853b520acbf0a66fa5d95"
 
 [[files]]
 file = "config/hierophantics/client.toml"
